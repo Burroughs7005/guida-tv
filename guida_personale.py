@@ -5,18 +5,21 @@ import shutil
 
 # --- CONFIGURAZIONE KEYWORD ---
 KEYWORDS = [
-    "Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "L'ispettore Coliandro",
+    "Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "Coliandro",
     "Il Commissario Montalbano", "Propaganda Live", "Quante storie", 
-    "Rocco Schiavone", "Shetland", "La Torre di Babele",
+    "Schiavone", "Shetland", "La Torre di Babele",
     "Kubrick", "Alberto Angela", "Mario Monicelli", "Ettore Scola",
     "Gassman", "Tino Buazzelli", "Eduardo De Filippo", "Nino Manfredi",
     "Ugo Tognazzi", "Vittorio De Sica",
-    "Pallavolo", "Tigotà", "Volley Femminile", "Volley Maschile", "Superlega Credem"
+    "Pallavolo", "Superlega", "Tigotà", "Volley Femminile", "Volley Maschile", "Credem Banca"
 ]
 
 def genera_rss(xml_file, rss_file):
     adesso = datetime.now()
-    print(f"[{adesso.strftime('%H:%M:%S')}] Generazione agenda raggruppata...")
+    # Filtro: partiamo dalle 00:00 di oggi per non svuotare il feed al mattino
+    inizio_oggi = adesso.replace(hour=0, minute=0, second=0, microsecond=0)
+    
+    print(f"[{adesso.strftime('%H:%M:%S')}] Generazione agenda da inizio giornata...")
     
     try:
         tree = ET.parse(xml_file)
@@ -24,18 +27,21 @@ def genera_rss(xml_file, rss_file):
         
         rss = ET.Element("rss", version="2.0")
         channel = ET.SubElement(rss, "channel")
-        ET.SubElement(channel, "title").text = "Agenda TV Burroughs7005"
+        
+        # Titolo dinamico per forzare il refresh degli aggregatori
+        ET.SubElement(channel, "title").text = f"Agenda TV Burroughs7005 [{adesso.strftime('%H:%M')}]"
         ET.SubElement(channel, "link").text = "https://burroughs7005.github.io/guida-tv/"
-        ET.SubElement(channel, "description").text = f"Filtro keyword attivo - Aggiornato il {adesso.strftime('%d/%m/%Y %H:%M')}"
+        ET.SubElement(channel, "description").text = f"Programmi da oggi in poi - Aggiornato il {adesso.strftime('%d/%m/%Y %H:%M')}"
 
-        # Estraiamo e filtriamo i programmi validi
         programmi_validi = []
         for prog in root.findall('programme'):
             orario_raw = prog.get('start', '')
             if len(orario_raw) < 14: continue
             
             data_prog = datetime.strptime(orario_raw[:14], "%Y%m%d%H%M%S")
-            if data_prog < adesso: continue
+            
+            # FILTRO: Teniamo tutto ciò che inizia da oggi (00:00) in avanti
+            if data_prog < inizio_oggi: continue
 
             titolo = prog.find('title').text if prog.find('title') is not None else ""
             descrizione = prog.find('desc').text if prog.find('desc') is not None else ""
@@ -48,7 +54,7 @@ def genera_rss(xml_file, rss_file):
                     'desc': descrizione
                 })
 
-        # Ordiniamo per data
+        # Ordinamento cronologico
         programmi_validi.sort(key=lambda x: x['data'])
 
         ultimo_giorno = None
@@ -57,16 +63,14 @@ def genera_rss(xml_file, rss_file):
         for p in programmi_validi:
             giorno_corrente = p['data'].strftime('%Y%m%d')
             
-            # Se cambiamo giorno, aggiungiamo un separatore
             if giorno_corrente != ultimo_giorno:
                 sep = ET.SubElement(channel, "item")
                 nome_giorno = giorni_settimana[p['data'].weekday()]
-                data_formattata = p['data'].strftime('%d %b')
-                ET.SubElement(sep, "title").text = f"--- {nome_giorno} {data_formattata} ---"
+                data_f = p['data'].strftime('%d %b')
+                ET.SubElement(sep, "title").text = f"--- {nome_giorno} {data_f} ---"
                 ET.SubElement(sep, "description").text = "Inizio programmi del giorno"
                 ultimo_giorno = giorno_corrente
 
-            # Aggiungiamo il programma
             item = ET.SubElement(channel, "item")
             ora_str = p['data'].strftime('%H:%M')
             ET.SubElement(item, "title").text = f"{ora_str} - {p['titolo']}"
@@ -76,7 +80,7 @@ def genera_rss(xml_file, rss_file):
             f.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
             f.write(ET.tostring(rss, encoding="utf-8"))
             
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] SUCCESSO: Agenda creata con {len(programmi_validi)} eventi.")
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] SUCCESSO: Agenda generata correttamente.")
 
     except Exception as e:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] ERRORE: {e}")
