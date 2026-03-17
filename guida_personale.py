@@ -5,18 +5,18 @@ import shutil
 
 # --- CONFIGURAZIONE KEYWORD ---
 KEYWORDS = [
-    "Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "Coliandro",
+    "Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "L'ispettore Coliandro",
     "Il Commissario Montalbano", "Propaganda Live", "Quante storie", 
-    "Schiavone", "Shetland", "La Torre di Babele",
+    "Rocco Schiavone", "Shetland", "La Torre di Babele",
     "Kubrick", "Alberto Angela", "Mario Monicelli", "Ettore Scola",
     "Gassman", "Tino Buazzelli", "Eduardo De Filippo", "Nino Manfredi",
     "Ugo Tognazzi", "Vittorio De Sica",
-    "Pallavolo", "Superlega", "Tigotà", "Volley Femminile", "Volley Maschile", "Credem Banca"
+    "Pallavolo", "Tigotà", "Volley Femminile", "Volley Maschile", "Superlega Credem"
 ]
 
 def genera_rss(xml_file, rss_file):
     adesso = datetime.now()
-    print(f"[{adesso.strftime('%H:%M:%S')}] Filtraggio programmi futuri...")
+    print(f"[{adesso.strftime('%H:%M:%S')}] Generazione agenda raggruppata...")
     
     try:
         tree = ET.parse(xml_file)
@@ -24,52 +24,59 @@ def genera_rss(xml_file, rss_file):
         
         rss = ET.Element("rss", version="2.0")
         channel = ET.SubElement(rss, "channel")
-        ET.SubElement(channel, "title").text = "Guida TV Personalizzata Burroughs7005"
+        ET.SubElement(channel, "title").text = "Agenda TV Burroughs7005"
         ET.SubElement(channel, "link").text = "https://burroughs7005.github.io/guida-tv/"
-        ET.SubElement(channel, "description").text = f"Solo programmi futuri - Aggiornato il {adesso.strftime('%d/%m/%Y %H:%M')}"
+        ET.SubElement(channel, "description").text = f"Filtro keyword attivo - Aggiornato il {adesso.strftime('%d/%m/%Y %H:%M')}"
 
-        trovati = 0
+        # Estraiamo e filtriamo i programmi validi
+        programmi_validi = []
         for prog in root.findall('programme'):
-            orario_raw = prog.get('start', '') # Formato: 20260317063000 +0000
-            
+            orario_raw = prog.get('start', '')
             if len(orario_raw) < 14: continue
             
-            # Convertiamo l'orario del programma in un oggetto datetime per il confronto
-            # Usiamo solo i primi 14 caratteri (YYYYMMDDHHMMSS)
             data_prog = datetime.strptime(orario_raw[:14], "%Y%m%d%H%M%S")
-            
-            # --- FILTRO TEMPORALE: Salta se il programma è già iniziato ---
-            if data_prog < adesso:
-                continue
+            if data_prog < adesso: continue
 
-            titolo_tag = prog.find('title')
-            desc_tag = prog.find('desc')
-            titolo = titolo_tag.text if titolo_tag is not None else ""
-            descrizione = desc_tag.text if desc_tag is not None else ""
+            titolo = prog.find('title').text if prog.find('title') is not None else ""
+            descrizione = prog.find('desc').text if prog.find('desc') is not None else ""
             
             testo_programma = (titolo + " " + descrizione).lower()
             if any(key.lower() in testo_programma for key in KEYWORDS):
-                item = ET.SubElement(channel, "item")
-                
-                # Formattazione titolo con Giorno e Ora (es: Mar 17 - 20:15)
-                giorni_settimana = ["Lun", "Mar", "Mer", "Gio", "Ven", "Sab", "Dom"]
-                giorno_str = giorni_settimana[data_prog.weekday()]
-                ora_prefisso = f"{giorno_str} {data_prog.strftime('%d')} - {data_prog.strftime('%H:%M')} "
-                
-                ET.SubElement(item, "title").text = f"{ora_prefisso}- {titolo}"
-                ET.SubElement(item, "description").text = descrizione
-                trovati += 1
+                programmi_validi.append({
+                    'data': data_prog,
+                    'titolo': titolo,
+                    'desc': descrizione
+                })
 
-        if trovati == 0:
+        # Ordiniamo per data
+        programmi_validi.sort(key=lambda x: x['data'])
+
+        ultimo_giorno = None
+        giorni_settimana = ["LUNEDÌ", "MARTEDÌ", "MERCOLEDÌ", "GIOVEDÌ", "VENERDÌ", "SABATO", "DOMENICA"]
+        
+        for p in programmi_validi:
+            giorno_corrente = p['data'].strftime('%Y%m%d')
+            
+            # Se cambiamo giorno, aggiungiamo un separatore
+            if giorno_corrente != ultimo_giorno:
+                sep = ET.SubElement(channel, "item")
+                nome_giorno = giorni_settimana[p['data'].weekday()]
+                data_formattata = p['data'].strftime('%d %b')
+                ET.SubElement(sep, "title").text = f"--- {nome_giorno} {data_formattata} ---"
+                ET.SubElement(sep, "description").text = "Inizio programmi del giorno"
+                ultimo_giorno = giorno_corrente
+
+            # Aggiungiamo il programma
             item = ET.SubElement(channel, "item")
-            ET.SubElement(item, "title").text = "Nessun programma futuro trovato"
-            ET.SubElement(item, "description").text = "Controlla di nuovo più tardi o espandi le keyword."
+            ora_str = p['data'].strftime('%H:%M')
+            ET.SubElement(item, "title").text = f"{ora_str} - {p['titolo']}"
+            ET.SubElement(item, "description").text = p['desc']
 
         with open(rss_file, "wb") as f:
             f.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
             f.write(ET.tostring(rss, encoding="utf-8"))
             
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] SUCCESSO: {trovati} programmi futuri trovati.")
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] SUCCESSO: Agenda creata con {len(programmi_validi)} eventi.")
 
     except Exception as e:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] ERRORE: {e}")
