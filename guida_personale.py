@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
-KEYWORDS = ["Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "L'ispettore Coliandro", "Il Commissario Montalbano", "Propaganda Live", "Quante storie", "Rocco Schiavone", "Shetland", "La Torre di Babele", "Kubrick", "Alberto Angela", "Mario Monicelli", "Ettore Scola", "Gassman", "Tino Buazzelli", "Eduardo De Filippo", "Nino Manfredi", "Ugo Tognazzi", "Vittorio De Sica", "Tigotà", "Volley Femminile", "Volley Maschile", "Superlega Credem"]
+KEYWORDS = ["Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "L'ispettore Coliandro", "Il Commissario Montalbano", "Propaganda Live", "Quante storie", "Rocco Schiavone", "Shetland", "La Torre di Babele", "Kubrick", "Alberto Angela", "Mario Monicelli", "Ettore Scola", "Gassman", "Tino Buazzelli", "Eduardo De Filippo", "Nino Manfredi", "Ugo Tognazzi", "Vittorio De Sica", "Tigotà", "Pallavolo", "Volley Femminile", "Volley Maschile", "Superlega Credem"]
 
 def genera_rss(xml_file, rss_file):
     adesso = datetime.now()
