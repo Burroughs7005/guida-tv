@@ -3,7 +3,6 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import shutil
 
-# --- CONFIGURAZIONE KEYWORD ---
 KEYWORDS = [
     "Annika", "Bastardi di Pizzofalcone", "Che tempo che fa", "Coliandro",
     "Il Commissario Montalbano", "Propaganda Live", "Quante storie", 
@@ -22,93 +21,79 @@ def genera_rss(xml_file, rss_file):
         tree = ET.parse(xml_file)
         root = tree.getroot()
         
-        canali_map = {}
-        for chan in root.findall('channel'):
-            chan_id = chan.get('id')
-            display_name = chan.find('display-name')
-            if chan_id and display_name is not None:
-                canali_map[chan_id] = display_name.text
+        canali_map = {chan.get('id'): chan.find('display-name').text 
+                      for chan in root.findall('channel') 
+                      if chan.get('id') and chan.find('display-name') is not None}
 
         rss = ET.Element("rss", version="2.0")
         channel_rss = ET.SubElement(rss, "channel")
-        
-        ET.SubElement(channel_rss, "title").text = f"Agenda TV Burroughs7005 [{adesso.strftime('%H:%M')}]"
+        ET.SubElement(channel_rss, "title").text = f"Agenda TV [{adesso.strftime('%H:%M')}]"
         ET.SubElement(channel_rss, "link").text = "https://burroughs7005.github.io/guida-tv/"
-        ET.SubElement(channel_rss, "description").text = "Programmi filtrati con data di pubblicazione"
+        ET.SubElement(channel_rss, "description").text = "Guida TV Filtrata"
 
-        programmi_validi = []
+        programmi = []
         for prog in root.findall('programme'):
-            orario_raw = prog.get('start', '')
-            if len(orario_raw) < 14: continue
-            
-            data_prog = datetime.strptime(orario_raw[:14], "%Y%m%d%H%M%S")
-            if data_prog < inizio_oggi: continue
+            start = prog.get('start', '')[:14]
+            if not start: continue
+            data_p = datetime.strptime(start, "%Y%m%d%H%M%S")
+            if data_p < inizio_oggi: continue
 
             titolo = prog.find('title').text if prog.find('title') is not None else ""
-            descrizione = prog.find('desc').text if prog.find('desc') is not None else ""
+            desc = prog.find('desc').text if prog.find('desc') is not None else ""
             
-            testo_programma = (titolo + " " + descrizione).lower()
-            if any(key.lower() in testo_programma for key in KEYWORDS):
-                id_canale = prog.get('channel', '')
-                nome_canale = canali_map.get(id_canale, id_canale)
+            if any(k.lower() in (titolo + " " + desc).lower() for k in KEYWORDS):
+                programmi.append({'data': data_p, 'titolo': titolo, 'desc': desc, 'canale': canali_map.get(prog.get('channel'), 'TV')})
 
-                programmi_validi.append({
-                    'data': data_prog,
-                    'titolo': titolo,
-                    'desc': descrizione,
-                    'canale': nome_canale
-                })
+        # 1. Ordiniamo cronologicamente (dal più vicino al più lontano)
+        programmi.sort(key=lambda x: x['data'])
 
-        # Torniamo all'ordinamento CRONOLOGICO NORMALE (dal più vicino al più lontano)
-        programmi_validi.sort(key=lambda x: x['data'])
-
+        # 2. Rimuoviamo i duplicati (stesso titolo e orario)
         visti = set()
-        ultimo_giorno = None
-        giorni_settimana = ["LUNEDÌ", "MARTEDÌ", "MERCOLEDÌ", "GIOVEDÌ", "VENERDÌ", "SABATO", "DOMENICA"]
-        
-        for p in programmi_validi:
-            chiave_duplicato = (p['data'].strftime('%Y%m%d%H%M'), p['titolo'])
-            if chiave_duplicato in visti: continue
-            visti.add(chiave_duplicato)
+        programmi_unici = []
+        for p in programmi:
+            chiave = (p['data'], p['titolo'])
+            if chiave not in visti:
+                visti.add(chiave)
+                programmi_unici.append(p)
 
+        # 3. Creiamo il feed con pubDate "a scalare"
+        # Più il programma è lontano, più la pubDate è vecchia.
+        # Questo forza il lettore RSS a mettere OGGI in cima.
+        data_fittizia = adesso
+        ultimo_giorno = None
+        giorni = ["LUNEDÌ", "MARTEDÌ", "MERCOLEDÌ", "GIOVEDÌ", "VENERDÌ", "SABATO", "DOMENICA"]
+
+        for p in programmi_unici:
             giorno_corrente = p['data'].strftime('%Y%m%d')
             
+            # Separatore Giorno
             if giorno_corrente != ultimo_giorno:
                 sep = ET.SubElement(channel_rss, "item")
-                nome_giorno = giorni_settimana[p['data'].weekday()]
-                data_f = p['data'].strftime('%d %b')
-                ET.SubElement(sep, "title").text = f"--- {nome_giorno} {data_f} ---"
-                # Data fittizia per i separatori (un minuto prima del primo programma del giorno)
-                pub_sep = p['data'] - timedelta(minutes=1)
-                ET.SubElement(sep, "pubDate").text = pub_sep.strftime("%a, %d %b %Y %H:%M:%S +0000")
+                ET.SubElement(sep, "title").text = f"--- {giorni[p['data'].weekday()]} {p['data'].strftime('%d %b')} ---"
+                ET.SubElement(sep, "pubDate").text = data_fittizia.strftime("%a, %d %b %Y %H:%M:%S +0000")
+                data_fittizia -= timedelta(seconds=1) # Scaliamo di un secondo
                 ultimo_giorno = giorno_corrente
 
             item = ET.SubElement(channel_rss, "item")
             ET.SubElement(item, "title").text = f"{p['data'].strftime('%H:%M')} [{p['canale']}] - {p['titolo']}"
             ET.SubElement(item, "description").text = p['desc']
-            
-            # AGGIUNTA FONDAMENTALE: La pubDate dice al lettore l'ordine esatto
-            ET.SubElement(item, "pubDate").text = p['data'].strftime("%a, %d %b %Y %H:%M:%S +0000")
+            ET.SubElement(item, "pubDate").text = data_fittizia.strftime("%a, %d %b %Y %H:%M:%S +0000")
+            data_fittizia -= timedelta(seconds=1)
             
             guid = ET.SubElement(item, "guid", isPermaLink="false")
-            guid.text = f"{p['data'].strftime('%Y%m%d%H%M')}-{p['titolo'][:20]}"
+            guid.text = f"{p['data'].strftime('%Y%m%d%H%M')}-{p['titolo'][:10]}"
 
         with open(rss_file, "wb") as f:
-            f.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
-            f.write(ET.tostring(rss, encoding="utf-8"))
+            f.write(b'<?xml version="1.0" encoding="utf-8"?>\n' + ET.tostring(rss, encoding="utf-8"))
             
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] SUCCESSO: Agenda pronta per NetNewsWire.")
-
     except Exception as e:
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] ERRORE: {e}")
+        print(f"Errore: {e}")
 
 def elabora():
-    base_dir = "/home/pi/guida-tv"
-    input_f = f"{base_dir}/guida_tv_raw.xml"
-    rss_f = f"{base_dir}/index.xml"
-    if os.path.exists(input_f):
-        genera_rss(input_f, rss_f)
-        os.remove(input_f)
+    d = "/home/pi/guida-tv"
+    if os.path.exists(f"{d}/guida_tv_raw.xml"):
+        genera_rss(f"{d}/guida_tv_raw.xml", f"{d}/index.xml")
+        os.remove(f"{d}/guida_tv_raw.xml")
 
 if __name__ == "__main__":
     elabora()
