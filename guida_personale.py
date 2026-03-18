@@ -29,7 +29,7 @@ def genera_rss(xml_file, rss_file):
         channel_rss = ET.SubElement(rss, "channel")
         ET.SubElement(channel_rss, "title").text = f"Agenda TV [{adesso.strftime('%H:%M')}]"
         ET.SubElement(channel_rss, "link").text = "https://burroughs7005.github.io/guida-tv/"
-        ET.SubElement(channel_rss, "description").text = "Guida TV Filtrata"
+        ET.SubElement(channel_rss, "description").text = "Cronologia TV Ordinata"
 
         programmi = []
         for prog in root.findall('programme'):
@@ -42,46 +42,45 @@ def genera_rss(xml_file, rss_file):
             desc = prog.find('desc').text if prog.find('desc') is not None else ""
             
             if any(k.lower() in (titolo + " " + desc).lower() for k in KEYWORDS):
-                programmi.append({'data': data_p, 'titolo': titolo, 'desc': desc, 'canale': canali_map.get(prog.get('channel'), 'TV')})
+                programmi.append({
+                    'data': data_p, 
+                    'titolo': titolo, 
+                    'desc': desc, 
+                    'canale': canali_map.get(prog.get('channel'), 'TV')
+                })
 
-        # 1. Ordiniamo cronologicamente (dal più vicino al più lontano)
+        # Ordine cronologico normale
         programmi.sort(key=lambda x: x['data'])
 
-        # 2. Rimuoviamo i duplicati (stesso titolo e orario)
+        # Filtro duplicati e scrittura Item
         visti = set()
-        programmi_unici = []
+        # Usiamo una pubDate decrescente: i programmi più lontani risulteranno "più vecchi"
+        # Spingendo così i programmi di OGGI in cima alla lista di NetNewsWire
+        data_pub_fittizia = adesso 
+
         for p in programmi:
             chiave = (p['data'], p['titolo'])
-            if chiave not in visti:
-                visti.add(chiave)
-                programmi_unici.append(p)
+            if chiave in visti: continue
+            visti.add(chiave)
 
-        # 3. Creiamo il feed con pubDate "a scalare"
-        # Più il programma è lontano, più la pubDate è vecchia.
-        # Questo forza il lettore RSS a mettere OGGI in cima.
-        data_fittizia = adesso
-        ultimo_giorno = None
-        giorni = ["LUNEDÌ", "MARTEDÌ", "MERCOLEDÌ", "GIOVEDÌ", "VENERDÌ", "SABATO", "DOMENICA"]
-
-        for p in programmi_unici:
-            giorno_corrente = p['data'].strftime('%Y%m%d')
-            
-            # Separatore Giorno
-            if giorno_corrente != ultimo_giorno:
-                sep = ET.SubElement(channel_rss, "item")
-                ET.SubElement(sep, "title").text = f"--- {giorni[p['data'].weekday()]} {p['data'].strftime('%d %b')} ---"
-                ET.SubElement(sep, "pubDate").text = data_fittizia.strftime("%a, %d %b %Y %H:%M:%S +0000")
-                data_fittizia -= timedelta(seconds=1) # Scaliamo di un secondo
-                ultimo_giorno = giorno_corrente
+            # Formattazione data nel titolo per chiarezza
+            prefisso_data = p['data'].strftime('%d/%m')
+            if p['data'].date() == adesso.date():
+                prefisso_data = "Oggi"
+            elif p['data'].date() == (adesso + timedelta(days=1)).date():
+                prefisso_data = "Domani"
 
             item = ET.SubElement(channel_rss, "item")
-            ET.SubElement(item, "title").text = f"{p['data'].strftime('%H:%M')} [{p['canale']}] - {p['titolo']}"
+            # Titolo pulito: [Data] HH:MM [Canale] Titolo
+            ET.SubElement(item, "title").text = f"[{prefisso_data}] {p['data'].strftime('%H:%M')} - {p['canale']} - {p['titolo']}"
             ET.SubElement(item, "description").text = p['desc']
-            ET.SubElement(item, "pubDate").text = data_fittizia.strftime("%a, %d %b %Y %H:%M:%S +0000")
-            data_fittizia -= timedelta(seconds=1)
+            
+            # pubDate decrescente di 1 secondo per ogni programma successivo
+            ET.SubElement(item, "pubDate").text = data_pub_fittizia.strftime("%a, %d %b %Y %H:%M:%S +0000")
+            data_pub_fittizia -= timedelta(seconds=1)
             
             guid = ET.SubElement(item, "guid", isPermaLink="false")
-            guid.text = f"{p['data'].strftime('%Y%m%d%H%M')}-{p['titolo'][:10]}"
+            guid.text = f"{p['data'].strftime('%Y%m%d%H%M')}-{p['titolo'][:15]}"
 
         with open(rss_file, "wb") as f:
             f.write(b'<?xml version="1.0" encoding="utf-8"?>\n' + ET.tostring(rss, encoding="utf-8"))
