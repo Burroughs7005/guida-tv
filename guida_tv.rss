@@ -4,20 +4,8 @@
         <title>Guida TV Preferiti</title>
         <link>http://github.com/tuo-username/guida-tv</link>
         <description>Programmi TV selezionati per Glasgow</description>
-        <lastBuildDate>Fri, 27 Mar 2026 13:42:08 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 14:04:49 +0000</lastBuildDate>
         
-        <item>
-            <title>[Rai Storia] 12:44 - Evolution: Il viaggio di Darwin</title>
-            <description>Gli infiniti aspetti della vita del nostro pianeta, la natura in tutte le sue forme che non finisce di meravigliarci, e che dobbiamo conoscere sempre meglio affinché il nostro rapporto con lei sia sempre più consapevole.</description>
-            <pubDate>Fri, 27 Mar 2026 13:44:00 +0000</pubDate>
-            <guid isPermaLink="false">I100806_20260327134400 +0000</guid>
-        </item>
-        <item>
-            <title>[Rai Storia] 12:47 - Pianeta verde</title>
-            <description>La flora acquatica dà forma a mondi bellissimi e bizzarri, in cui i fiori quasi soffocano fiumi e laghi, le piante combattono e cacciano. Un fiume spumeggia come fosse fatto di champagne, mentre i vegetali creano l'atmosfera.</description>
-            <pubDate>Fri, 27 Mar 2026 13:47:00 +0000</pubDate>
-            <guid isPermaLink="false">I100806_20260327134700 +0000</guid>
-        </item>
         <item>
             <title>[Rai Storia] 13:39 - Nel cuore selvaggio della Colombia</title>
             <description>La rana dorata è una delle creature più velenose della Terra e vive solo in Colombia, nella foresta pluviale del Chocò.</description>
@@ -389,6 +377,12 @@
             <description>La foresta è nota per ospitare gli alberi più maestosi di tutta Europa. Vero rifugio della biodiversità, è la dimora di alberi di 500 anni di età. Simon Allix cerca di capire il legame che esiste tra la foresta e gli uomini, sia di ieri che di oggi.</description>
             <pubDate>Sun, 29 Mar 2026 13:02:00 +0000</pubDate>
             <guid isPermaLink="false">I100806_20260329130200 +0000</guid>
+        </item>
+        <item>
+            <title>[Rai Storia] 12:57 - A scuola di teatro con Dario Fo</title>
+            <description>Il premio Nobel Dario Fo ci accompagna alla scoperta delle tecniche e dei segreti dell'arte teatrale.</description>
+            <pubDate>Sun, 29 Mar 2026 13:57:00 +0000</pubDate>
+            <guid isPermaLink="false">I100806_20260329135700 +0000</guid>
         </item>
         <item>
             <title>[Rai Storia] 13:05 - Maxi: Il grande processo alla mafia</title>
@@ -793,6 +787,18 @@
             <guid isPermaLink="false">I102111_20260329130000 +0000</guid>
         </item>
         <item>
+            <title>[Rai Storia] 12:50 - L'altra domenica</title>
+            <description>In questo varietà ricco di giochi l'interazione diretta con il pubblico da casa gioca un ruolo fondamentale.</description>
+            <pubDate>Sun, 29 Mar 2026 13:50:00 +0000</pubDate>
+            <guid isPermaLink="false">I102111_20260329135000 +0000</guid>
+        </item>
+        <item>
+            <title>[Rai Storia] 13:00 - L'altra domenica</title>
+            <description>In questo varietà ricco di giochi l'interazione diretta con il pubblico da casa gioca un ruolo fondamentale.</description>
+            <pubDate>Sun, 29 Mar 2026 14:00:00 +0000</pubDate>
+            <guid isPermaLink="false">I102111_20260329140000 +0000</guid>
+        </item>
+        <item>
             <title>[TV8 HD] 13:30 - La valle dell'amore</title>
             <description>Kathleen è una promettente stilista che vive a New York con il suo fidanzato. Quando sua nonna muore, le lascia in eredità una casa e una fattoria in campagna. Kathleen scopre un mondo nuovo quando incontra Oliver, un medico locale che aiuta i bambini con disabilità emotive. Kathleen deve decidere se tenere la fattoria o venderla a una coppia che vuole trasformarla in un resort di lusso.</description>
             <pubDate>Fri, 27 Mar 2026 14:30:00 +0000</pubDate>
@@ -1183,6 +1189,12 @@
             <guid isPermaLink="false">I109480_20260329121500 +0000</guid>
         </item>
         <item>
+            <title>[TV8 HD] 13:00 - Formula 1</title>
+            <description>Al termine del gp di F1 le immagini del podio e le interviste dei protagonisti.</description>
+            <pubDate>Sun, 29 Mar 2026 14:00:00 +0000</pubDate>
+            <guid isPermaLink="false">I109480_20260329140000 +0000</guid>
+        </item>
+        <item>
             <title>[Rai Sport HD] 14:30 - Sci Alpinismo</title>
             <description>Scopriamo i dettagli della tappa di Coppa del Mondo di Sci Alpinismo in Val Martello.</description>
             <pubDate>Fri, 27 Mar 2026 15:30:00 +0000</pubDate>
@@ -1403,12 +1415,6 @@
             <description>Rugby. Serie A Elite femminile: Finale Scudetto.</description>
             <pubDate>Sun, 29 Mar 2026 13:25:00 +0000</pubDate>
             <guid isPermaLink="false">I54777_20260329132500 +0000</guid>
-        </item>
-        <item>
-            <title>[Nove] 13:00 - Storie Criminali - Il Volto del Male</title>
-            <description>L'omicidio di una giovane moglie e madre viene risolto 30 anni dopo grazie alla tecnologia del DNA che conduce i detective all'assassino.</description>
-            <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
-            <guid isPermaLink="false">I84597_20260327140000 +0000</guid>
         </item>
         <item>
             <title>[Nove] 14:50 - Crimini in diretta</title>
@@ -1637,12 +1643,6 @@
             <description>Prepariamoci a ridere con i migliori comici italiani, cabarettisti, imitatori al Teatro Galleria di Legnano, in uno spettacolo presentato da Elettra Lamborghini e i PanPers, duo formato da Andrea Pisani e Luca Peracino.</description>
             <pubDate>Sun, 29 Mar 2026 12:10:00 +0000</pubDate>
             <guid isPermaLink="false">I84597_20260329121000 +0000</guid>
-        </item>
-        <item>
-            <title>[Giallo] 12:50 - Vera</title>
-            <description>Quando il corpo di un ex detenuto viene scoperto sulle rive del Tyne, Vera deve scoprire se l'uomo è stato vittima di una fredda giustizia, o se la sua morte ha radici più profonde.</description>
-            <pubDate>Fri, 27 Mar 2026 13:50:00 +0000</pubDate>
-            <guid isPermaLink="false">I84614_20260327135000 +0000</guid>
         </item>
         <item>
             <title>[Giallo] 14:50 - L'ispettore Gently</title>
@@ -2021,12 +2021,6 @@
             <description>Il truffatore professionista Roy Courtnay conosce su Internet la ricca vedova Betty McLeish. Nonostante il colpo di fortuna, Roy si sorprende nel cominciare a provare sentimenti per la donna, quando questa gli apre le porte della propria vita.</description>
             <pubDate>Sun, 29 Mar 2026 12:16:00 +0000</pubDate>
             <guid isPermaLink="false">I84621_20260329121600 +0000</guid>
-        </item>
-        <item>
-            <title>[Italia 1 HD] 12:50 - NCIS: Los Angeles</title>
-            <description>A Callen e Sam viene assegnato il compito di proteggere il principe ereditario Kamal, dopo che un assassino ha colpito il suo sosia all'arrivo a Los Angeles.</description>
-            <pubDate>Fri, 27 Mar 2026 13:50:00 +0000</pubDate>
-            <guid isPermaLink="false">I84622_20260327135000 +0000</guid>
         </item>
         <item>
             <title>[Italia 1 HD] 13:44 - NCIS: Los Angeles</title>
@@ -2429,6 +2423,12 @@
             <description>Dopo aver trascorso alcuni mesi a prendersi cura del marito ammalato, una donna ha una crisi respiratoria. Non appena ciò avviene, le condizioni dell'uomo migliorano misteriosamente.</description>
             <pubDate>Sun, 29 Mar 2026 13:12:00 +0000</pubDate>
             <guid isPermaLink="false">I84622_20260329131200 +0000</guid>
+        </item>
+        <item>
+            <title>[Italia 1 HD] 13:04 - Cold Case: Delitti irrisolti</title>
+            <description>La squadra si occupa di un caso del 1999 che riguarda la morte di un ragazzo, campione di dibattito del suo liceo, che all'epoca venne classificata come suicidio...</description>
+            <pubDate>Sun, 29 Mar 2026 14:04:00 +0000</pubDate>
+            <guid isPermaLink="false">I84622_20260329140400 +0000</guid>
         </item>
         <item>
             <title>[Rai 2 HD] 13:30 - BellaMa'</title>
@@ -2879,18 +2879,6 @@
             <description>Durante un ritiro spirituale a La Gomera, viene ritrovato il corpo di una donna ai piedi di un dirupo. L'indagine è affidata al sergente Raúl ed all'ispettrice tedesca Nina Weiss.</description>
             <pubDate>Sun, 29 Mar 2026 12:40:00 +0000</pubDate>
             <guid isPermaLink="false">I84694_20260329124000 +0000</guid>
-        </item>
-        <item>
-            <title>[Rai 3 HD] 12:49 - Meteo 3</title>
-            <description>Previsioni metereologiche a cura della redazione del TG3 e dell'Aeronautica Militare. Dal 1993 la trasmissione si propone di informare il pubblico in modo semplice e diretto grazie a videografiche e letture fuori campo.</description>
-            <pubDate>Fri, 27 Mar 2026 13:49:00 +0000</pubDate>
-            <guid isPermaLink="false">I84695_20260327134900 +0000</guid>
-        </item>
-        <item>
-            <title>[Rai 3 HD] 12:50 - TgR Leonardo</title>
-            <description>Un telegiornale tematico, unico in Europa, che coniuga l'attenzione all'attualità del quotidiano con il rigore della documentazione e dell'approfondimento. Tra gli argomenti trattati scienza, tecnologia, salute, ambiente, economia e società.</description>
-            <pubDate>Fri, 27 Mar 2026 13:50:00 +0000</pubDate>
-            <guid isPermaLink="false">I84695_20260327135000 +0000</guid>
         </item>
         <item>
             <title>[Rai 3 HD] 13:05 - TgR Piazza Affari</title>
@@ -4447,12 +4435,6 @@
             <guid isPermaLink="false">I86825_20260329120000 +0000</guid>
         </item>
         <item>
-            <title>[Canale 5 HD] 12:45 - Uomini e donne</title>
-            <description>Uomini e donne si incontrano e si corteggiano alla ricerca dell'anima gemella. Il pubblico in studio è chiamato a partecipare alle vicende amorose dei concorrenti con commenti e consigli.</description>
-            <pubDate>Fri, 27 Mar 2026 13:45:00 +0000</pubDate>
-            <guid isPermaLink="false">I91186_20260327134500 +0000</guid>
-        </item>
-        <item>
             <title>[Canale 5 HD] 14:07 - La forza di una donna</title>
             <description>Bahar, Ceyda e Bersan portano a Cem il pacco richiesto, ma c'e' un errore: le tre donne hanno frainteso e hanno trafugato l'anziano Saadettin, padre di Cem, dalla casa di riposo.</description>
             <pubDate>Fri, 27 Mar 2026 15:07:00 +0000</pubDate>
@@ -4855,6 +4837,12 @@
             <guid isPermaLink="false">I91186_20260329130300 +0000</guid>
         </item>
         <item>
+            <title>[Canale 5 HD] 13:00 - Verissimo</title>
+            <description>Rotocalco televisivo con servizi sui fatti della settimana, notizie rosa e approfondimenti ed ospiti in studio. Le singole rubriche della trasmissione arricchiscono la fascia pomeridiana di Canale 5.</description>
+            <pubDate>Sun, 29 Mar 2026 14:00:00 +0000</pubDate>
+            <guid isPermaLink="false">I91186_20260329140000 +0000</guid>
+        </item>
+        <item>
             <title>[Rai Movie HD] 13:40 - Gli imperdibili</title>
             <description>Backstage, anteprime, eventi e curiosità dentro lo schermo. È il programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.</description>
             <pubDate>Fri, 27 Mar 2026 14:40:00 +0000</pubDate>
@@ -5051,6 +5039,12 @@
             <description>Chrissie ritorna dagli Stati Uniti nella sua città natale irlandese alla fine degli anni 60, per il funerale di sua madre. Mentre mette da parte alcune cose, vecchi problemi riemergono e lei si unisce a Lily, Eileen e Dolly in un pellegrinaggio.</description>
             <pubDate>Sun, 29 Mar 2026 12:30:00 +0000</pubDate>
             <guid isPermaLink="false">I99980_20260329123000 +0000</guid>
+        </item>
+        <item>
+            <title>[Rai Movie HD] 13:00 - La grande fuga</title>
+            <description>1944. Un gruppo di soldati inglesi e americani, prigionieri in un campo di concentramento tedesco di massima sicurezza durante la Seconda Guerra Mondiale, progettano un elaborato piano di fuga.</description>
+            <pubDate>Sun, 29 Mar 2026 14:00:00 +0000</pubDate>
+            <guid isPermaLink="false">I99980_20260329140000 +0000</guid>
         </item>
         <item>
             <title>[Rai Premium HD] 13:40 - Appuntamento al cinema</title>
