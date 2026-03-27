@@ -12,25 +12,25 @@
     <display-name>Rai Storia HD</display-name>
     <display-name>RAISTHD</display-name>
     <display-name>5054</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I102112">
     <display-name>Rai Scuola HD</display-name>
     <display-name>RAISCHD</display-name>
     <display-name>806</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" />
   </channel>
   <channel id="I109480">
     <display-name>TV8 HD</display-name>
     <display-name>TV8HDIT</display-name>
     <display-name>125</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I110089">
     <display-name>QVC HD</display-name>
     <display-name>QVCITHD</display-name>
     <display-name>475</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I115693">
     <display-name>SuperTennis HD</display-name>
@@ -42,13 +42,13 @@
     <display-name>27 TwentySeven</display-name>
     <display-name>TWENTY7</display-name>
     <display-name>158</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I122911">
     <display-name>TV2000 HD</display-name>
     <display-name>TV2000HD</display-name>
     <display-name>157</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" />
   </channel>
   <channel id="I142479">
     <display-name>Rai Radio 2</display-name>
@@ -70,13 +70,13 @@
     <display-name>Italia 1</display-name>
     <display-name>ITALIA1</display-name>
     <display-name>5006</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I54779">
     <display-name>Rete 4</display-name>
     <display-name>RETE4</display-name>
     <display-name>5004</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I54780">
     <display-name>Canale 5</display-name>
@@ -88,13 +88,13 @@
     <display-name>La7</display-name>
     <display-name>LA7ITL</display-name>
     <display-name>5007</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I75287">
     <display-name>QVC</display-name>
     <display-name>QVCITA</display-name>
     <display-name>5032</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I75500">
     <display-name>La 5 HD</display-name>
@@ -106,13 +106,13 @@
     <display-name>TV2000</display-name>
     <display-name>TV2000IT</display-name>
     <display-name>5028</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84597">
     <display-name>Nove</display-name>
     <display-name>NOVE</display-name>
     <display-name>5009</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" />
   </channel>
   <channel id="I84614">
     <display-name>Giallo</display-name>
@@ -124,19 +124,19 @@
     <display-name>Iris HD</display-name>
     <display-name>IRIS</display-name>
     <display-name>5022</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" />
   </channel>
   <channel id="I84622">
     <display-name>Italia 1 HD</display-name>
     <display-name>ITAL1HD</display-name>
     <display-name>106</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
   </channel>
   <channel id="I84638">
     <display-name>La7 Cinema</display-name>
     <display-name>LA7CINE</display-name>
     <display-name>5029</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
   </channel>
   <channel id="I84652">
     <display-name>TV8</display-name>
@@ -154,91 +154,91 @@
     <display-name>Rai 3 HD</display-name>
     <display-name>RAI3HD</display-name>
     <display-name>5003</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" />
   </channel>
   <channel id="I84696">
     <display-name>Rai 1 HD</display-name>
     <display-name>RAI1HD</display-name>
     <display-name>5001</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I84701">
     <display-name>Rete 4 HD</display-name>
     <display-name>RETE4HD</display-name>
     <display-name>104</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I86304">
     <display-name>Sky Uno HD</display-name>
     <display-name>SKUNOHD</display-name>
     <display-name>108</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I86825">
     <display-name>La7 HD</display-name>
     <display-name>LA7HD</display-name>
     <display-name>107</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I89069">
     <display-name>La7 Cinema HD</display-name>
     <display-name>LA7DHD</display-name>
     <display-name>161</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
   </channel>
   <channel id="I90130">
     <display-name>Real Time</display-name>
     <display-name>DISCRTI</display-name>
     <display-name>5031</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I90601">
     <display-name>DMAX</display-name>
     <display-name>DMAXITA</display-name>
     <display-name>5052</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I91186">
     <display-name>Canale 5 HD</display-name>
     <display-name>CANA5HD</display-name>
     <display-name>105</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91188">
     <display-name>Cielo HD</display-name>
     <display-name>CIELOHD</display-name>
     <display-name>5026</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" />
   </channel>
   <channel id="I91204">
     <display-name>Rai 4 HD</display-name>
     <display-name>RAI4HD</display-name>
     <display-name>5021</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91205">
     <display-name>Sky TG24 HD</display-name>
     <display-name>SKTG24H</display-name>
     <display-name>500</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I94884">
     <display-name>Rai Radio 1</display-name>
     <display-name>RAIRAD1</display-name>
     <display-name>8820</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" />
   </channel>
   <channel id="I99980">
     <display-name>Rai Movie HD</display-name>
     <display-name>RAIMOVH</display-name>
     <display-name>5024</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I99981">
     <display-name>Rai Premium HD</display-name>
     <display-name>RAIPRIH</display-name>
     <display-name>5025</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" />
   </channel>
   <programme start="20260327015000 +0000" stop="20260327015300 +0000" channel="I100806">
     <title>RAI News</title>
@@ -11782,7 +11782,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260329231000 +0000" stop="20260329235000 +0000" channel="I102111">
     <title>Passato e presente</title>
@@ -11887,7 +11887,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260330040000 +0000" stop="20260330044000 +0000" channel="I102111">
     <title>Passato e presente</title>
@@ -11955,7 +11955,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260330065000 +0000" stop="20260330073000 +0000" channel="I102111">
     <title>Passato e presente</title>
@@ -12054,7 +12054,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260330101000 +0000" stop="20260330110500 +0000" channel="I102111">
     <title>Lunissanti: La settimana Santa a Castelsardo</title>
@@ -12099,7 +12099,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260330121500 +0000" stop="20260330130000 +0000" channel="I102111">
     <title>Passato e presente</title>
@@ -12246,7 +12246,7 @@
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <episode-num system="dd_progid">EP020445880585</episode-num>
-    <previously-shown start="20260330" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260330181500 +0000" stop="20260330191000 +0000" channel="I102111">
     <title>Passato e presente</title>
@@ -30270,7 +30270,7 @@
     <previously-shown start="20250314" />
   </programme>
   <programme start="20260329180000 +0000" stop="20260329181500 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre gara</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -30293,7 +30293,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329184500 +0000" stop="20260329190000 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio Gara Moto 3</sub-title>
     <desc>Al termine della gara di Moto3, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -30323,7 +30323,7 @@
     <previously-shown start="20250314" />
   </programme>
   <programme start="20260329191500 +0000" stop="20260329193000 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre gara</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -30346,7 +30346,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329200000 +0000" stop="20260329201500 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio Gara Moto 2</sub-title>
     <desc>Al termine della gara di Moto2, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -30368,7 +30368,7 @@
     <previously-shown start="20140115" />
   </programme>
   <programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Grid</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -30380,7 +30380,7 @@
     <previously-shown start="20250302" />
   </programme>
   <programme start="20260329210000 +0000" stop="20260329211000 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre Gara</sub-title>
     <desc>Seguiamo i momenti che precedono l'inizio delle gare della MotoGP.</desc>
     <category>Motorcycle racing</category>
@@ -30403,7 +30403,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329215000 +0000" stop="20260329220000 +0000" channel="I109480">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio</sub-title>
     <desc>Al termine della gara di MotoGP, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -38361,6 +38361,7 @@
   </programme>
   <programme start="20260410114500 +0000" stop="20260410133000 +0000" channel="I109480">
     <title>Sulle nostre tracce</title>
+    <desc>Mentre vive sotto protezione testimoni, Sophia viene a sapere che il suo ex marito, Mason, è evaso da un carcere di massima sicurezza. Dopo essersi rifugiate in una remota baita nel bosco, Sophia e la figlia adolescente si ritrovano ben presto coinvolte in una lotta disperata per la sopravvivenza.</desc>
     <credits>
       <director>Jason Bourque</director>
       <actor role="Sophia">Alexa PenaVega</actor>
@@ -111510,7 +111511,7 @@
   </programme>
   <programme start="20260328124500 +0000" stop="20260328125500 +0000" channel="I54780">
     <title>Beautiful</title>
-    <desc>Brooke diventa co-AD alla Forrester, Steffy e' riluttante. Hope confessa attrazione per Finn e promette di non interferire. Bill e Poppy affrontano il passato.</desc>
+    <desc>Brooke diventa co-amministratrice delegata della Forrester, ma Steffy è riluttante. Hope ammette di provare attrazione per Finn e promette di non intromettersi. Bill e Poppy affrontano il loro passato.</desc>
     <credits>
       <actor role="Brooke Logan">Katherine Kelly Lang</actor>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -118570,6 +118571,7 @@
   </programme>
   <programme start="20260327005500 +0000" stop="20260327015500 +0000" channel="I56247">
     <title>La torre di Babele Doc</title>
+    <sub-title>Dalle ceneri della II Guerra Mondiale: Gran Bretagna</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -120526,7 +120528,7 @@
     <length units="minutes">220</length>
     <episode-num system="xmltv_ns">8.23.</episode-num>
     <episode-num system="dd_progid">EP027825520162</episode-num>
-    <previously-shown start="20260327" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260329223000 +0000" stop="20260329224000 +0000" channel="I56247">
     <title>TG La7</title>
@@ -120984,6 +120986,7 @@
   </programme>
   <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="I56247">
     <title>La torre di Babele Doc</title>
+    <sub-title>La guerra contro Hitler</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -121160,6 +121163,7 @@
   </programme>
   <programme start="20260331010500 +0000" stop="20260331020500 +0000" channel="I56247">
     <title>La torre di Babele Doc</title>
+    <sub-title>La guerra contro Hitler</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -121968,6 +121972,7 @@
   </programme>
   <programme start="20260401153000 +0000" stop="20260401163000 +0000" channel="I56247">
     <title>La torre di Babele Doc</title>
+    <sub-title>Mao, founder of modern China?</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -121978,7 +121983,7 @@
     <length units="hours">1</length>
     <episode-num system="xmltv_ns">1.93.</episode-num>
     <episode-num system="dd_progid">EP053163250217</episode-num>
-    <previously-shown start="20260331" />
+    <previously-shown start="20260401" />
   </programme>
   <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="I56247">
     <title>Ignoto X: Dentro e oltre le storie di cronaca</title>
@@ -122326,6 +122331,7 @@
   </programme>
   <programme start="20260402004500 +0000" stop="20260402014500 +0000" channel="I56247">
     <title>La torre di Babele Doc</title>
+    <sub-title>Mao, founder of modern China?</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -122336,7 +122342,7 @@
     <length units="hours">1</length>
     <episode-num system="xmltv_ns">1.93.</episode-num>
     <episode-num system="dd_progid">EP053163250217</episode-num>
-    <previously-shown start="20260331" />
+    <previously-shown start="20260401" />
   </programme>
   <programme start="20260402014500 +0000" stop="20260402033000 +0000" channel="I56247">
     <title>L'aria che tira</title>
@@ -221229,7 +221235,7 @@
     <previously-shown start="20250314" />
   </programme>
   <programme start="20260329180000 +0000" stop="20260329181500 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre gara</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -221252,7 +221258,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329184500 +0000" stop="20260329190000 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio Gara Moto 3</sub-title>
     <desc>Al termine della gara di Moto3, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -221282,7 +221288,7 @@
     <previously-shown start="20250314" />
   </programme>
   <programme start="20260329191500 +0000" stop="20260329193000 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre gara</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -221305,7 +221311,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329200000 +0000" stop="20260329201500 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio Gara Moto 2</sub-title>
     <desc>Al termine della gara di Moto2, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -221327,7 +221333,7 @@
     <previously-shown start="20140115" />
   </programme>
   <programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Grid</sub-title>
     <desc>Copertura di gare e prove delle diverse classi facenti parte del circuito del motomondiale.</desc>
     <category>Motorcycle racing</category>
@@ -221339,7 +221345,7 @@
     <previously-shown start="20250302" />
   </programme>
   <programme start="20260329210000 +0000" stop="20260329211000 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Pre Gara</sub-title>
     <desc>Seguiamo i momenti che precedono l'inizio delle gare della MotoGP.</desc>
     <category>Motorcycle racing</category>
@@ -221362,7 +221368,7 @@
     <previously-shown start="20260329" />
   </programme>
   <programme start="20260329215000 +0000" stop="20260329220000 +0000" channel="I84652">
-    <title>MotoGP Highlights</title>
+    <title>MotoGP</title>
     <sub-title>Podio</sub-title>
     <desc>Al termine della gara di MotoGP, seguiamo i festeggiamenti e le interviste ai protagonisti.</desc>
     <category>Motorcycle racing</category>
@@ -229320,6 +229326,7 @@
   </programme>
   <programme start="20260410114500 +0000" stop="20260410133000 +0000" channel="I84652">
     <title>Sulle nostre tracce</title>
+    <desc>Mentre vive sotto protezione testimoni, Sophia viene a sapere che il suo ex marito, Mason, è evaso da un carcere di massima sicurezza. Dopo essersi rifugiate in una remota baita nel bosco, Sophia e la figlia adolescente si ritrovano ben presto coinvolte in una lotta disperata per la sopravvivenza.</desc>
     <credits>
       <director>Jason Bourque</director>
       <actor role="Sophia">Alexa PenaVega</actor>
@@ -260489,7 +260496,7 @@
   </programme>
   <programme start="20260331183000 +0000" stop="20260331213000 +0000" channel="I84696">
     <title>Qualificazioni Coppa del Mondo FIFA 2026</title>
-    <sub-title>UEFA, Finale: Bosnia and Herzegovina - Italy</sub-title>
+    <sub-title>UEFA, Finale: Bosnia ed Erzegovina - Italia</sub-title>
     <desc>Da Bilino Polje di Zenica, Bosnia.</desc>
     <category>Soccer</category>
     <category>Sports event</category>
@@ -289248,6 +289255,7 @@
   </programme>
   <programme start="20260327005500 +0000" stop="20260327015500 +0000" channel="I86825">
     <title>La torre di Babele Doc</title>
+    <sub-title>Dalle ceneri della II Guerra Mondiale: Gran Bretagna</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -291204,7 +291212,7 @@
     <length units="minutes">220</length>
     <episode-num system="xmltv_ns">8.23.</episode-num>
     <episode-num system="dd_progid">EP027825520162</episode-num>
-    <previously-shown start="20260327" />
+    <previously-shown start="20260329" />
   </programme>
   <programme start="20260329223000 +0000" stop="20260329224000 +0000" channel="I86825">
     <title>TG La7</title>
@@ -291662,6 +291670,7 @@
   </programme>
   <programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="I86825">
     <title>La torre di Babele Doc</title>
+    <sub-title>La guerra contro Hitler</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -291838,6 +291847,7 @@
   </programme>
   <programme start="20260331010500 +0000" stop="20260331020500 +0000" channel="I86825">
     <title>La torre di Babele Doc</title>
+    <sub-title>La guerra contro Hitler</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -292646,6 +292656,7 @@
   </programme>
   <programme start="20260401153000 +0000" stop="20260401163000 +0000" channel="I86825">
     <title>La torre di Babele Doc</title>
+    <sub-title>Mao, founder of modern China?</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -292656,7 +292667,7 @@
     <length units="hours">1</length>
     <episode-num system="xmltv_ns">1.93.</episode-num>
     <episode-num system="dd_progid">EP053163250217</episode-num>
-    <previously-shown start="20260331" />
+    <previously-shown start="20260401" />
   </programme>
   <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="I86825">
     <title>Ignoto X: Dentro e oltre le storie di cronaca</title>
@@ -293004,6 +293015,7 @@
   </programme>
   <programme start="20260402004500 +0000" stop="20260402014500 +0000" channel="I86825">
     <title>La torre di Babele Doc</title>
+    <sub-title>Mao, founder of modern China?</sub-title>
     <desc>Un viaggio nella storia e nell'oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
     <credits>
       <presenter>Corrado Augias</presenter>
@@ -293014,7 +293026,7 @@
     <length units="hours">1</length>
     <episode-num system="xmltv_ns">1.93.</episode-num>
     <episode-num system="dd_progid">EP053163250217</episode-num>
-    <previously-shown start="20260331" />
+    <previously-shown start="20260401" />
   </programme>
   <programme start="20260402014500 +0000" stop="20260402033000 +0000" channel="I86825">
     <title>L'aria che tira</title>
@@ -323640,7 +323652,7 @@
   <programme start="20260401204500 +0000" stop="20260401215000 +0000" channel="I90601">
     <title>Falegnami ad alta quota</title>
     <sub-title>L'oro dei Mocheni</sub-title>
-    <desc>Il montaggio della gru al Linge e la corsa contro il tempo nel maso dei Mocheni mettono alla prova esperienza e ingegno dei Curzel.</desc>
+    <desc>L'installazione della gru a Linge e la corsa contro il tempo alla fattoria Mocheni hanno messo alla prova l'esperienza e l'ingegnosità dei Curzel.</desc>
     <credits>
       <director>Katia Berbardi</director>
       <producer>Davide Valentini</producer>
@@ -333081,7 +333093,7 @@
   </programme>
   <programme start="20260328124500 +0000" stop="20260328125500 +0000" channel="I91186">
     <title>Beautiful</title>
-    <desc>Brooke diventa co-AD alla Forrester, Steffy e' riluttante. Hope confessa attrazione per Finn e promette di non interferire. Bill e Poppy affrontano il passato.</desc>
+    <desc>Brooke diventa co-amministratrice delegata della Forrester, ma Steffy è riluttante. Hope ammette di provare attrazione per Finn e promette di non intromettersi. Bill e Poppy affrontano il loro passato.</desc>
     <credits>
       <actor role="Brooke Logan">Katherine Kelly Lang</actor>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
