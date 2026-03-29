@@ -12,43 +12,43 @@
     <display-name>Rai Storia HD</display-name>
     <display-name>RAISTHD</display-name>
     <display-name>5054</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I102112">
     <display-name>Rai Scuola HD</display-name>
     <display-name>RAISCHD</display-name>
     <display-name>806</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I109480">
     <display-name>TV8 HD</display-name>
     <display-name>TV8HDIT</display-name>
     <display-name>125</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I110089">
     <display-name>QVC HD</display-name>
     <display-name>QVCITHD</display-name>
     <display-name>475</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" />
   </channel>
   <channel id="I115693">
     <display-name>SuperTennis HD</display-name>
     <display-name>SUPERTE</display-name>
     <display-name>5064</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I122486">
     <display-name>27 TwentySeven</display-name>
     <display-name>TWENTY7</display-name>
     <display-name>158</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" />
   </channel>
   <channel id="I122911">
     <display-name>TV2000 HD</display-name>
     <display-name>TV2000HD</display-name>
     <display-name>157</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I142479">
     <display-name>Rai Radio 2</display-name>
@@ -64,7 +64,7 @@
     <display-name>Rai Sport HD</display-name>
     <display-name>RAISPHD</display-name>
     <display-name>227</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I54778">
     <display-name>Italia 1</display-name>
@@ -82,37 +82,37 @@
     <display-name>Canale 5</display-name>
     <display-name>CABAKE5</display-name>
     <display-name>5005</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I56247">
     <display-name>La7</display-name>
     <display-name>LA7ITL</display-name>
     <display-name>5007</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I75287">
     <display-name>QVC</display-name>
     <display-name>QVCITA</display-name>
     <display-name>5032</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I75500">
     <display-name>La 5 HD</display-name>
     <display-name>LA5ITL</display-name>
     <display-name>5030</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I84141">
     <display-name>TV2000</display-name>
     <display-name>TV2000IT</display-name>
     <display-name>5028</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84597">
     <display-name>Nove</display-name>
     <display-name>NOVE</display-name>
     <display-name>5009</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I84614">
     <display-name>Giallo</display-name>
@@ -124,121 +124,121 @@
     <display-name>Iris HD</display-name>
     <display-name>IRIS</display-name>
     <display-name>5022</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" height="270" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84622">
     <display-name>Italia 1 HD</display-name>
     <display-name>ITAL1HD</display-name>
     <display-name>106</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
   </channel>
   <channel id="I84638">
     <display-name>La7 Cinema</display-name>
     <display-name>LA7CINE</display-name>
     <display-name>5029</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
   </channel>
   <channel id="I84652">
     <display-name>TV8</display-name>
     <display-name>TV8ITAL</display-name>
     <display-name>5008</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" />
   </channel>
   <channel id="I84694">
     <display-name>Rai 2 HD</display-name>
     <display-name>RAI2HD</display-name>
     <display-name>5002</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I84695">
     <display-name>Rai 3 HD</display-name>
     <display-name>RAI3HD</display-name>
     <display-name>5003</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" />
   </channel>
   <channel id="I84696">
     <display-name>Rai 1 HD</display-name>
     <display-name>RAI1HD</display-name>
     <display-name>5001</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84701">
     <display-name>Rete 4 HD</display-name>
     <display-name>RETE4HD</display-name>
     <display-name>104</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I86304">
     <display-name>Sky Uno HD</display-name>
     <display-name>SKUNOHD</display-name>
     <display-name>108</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I86825">
     <display-name>La7 HD</display-name>
     <display-name>LA7HD</display-name>
     <display-name>107</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I89069">
     <display-name>La7 Cinema HD</display-name>
     <display-name>LA7DHD</display-name>
     <display-name>161</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
   </channel>
   <channel id="I90130">
     <display-name>Real Time</display-name>
     <display-name>DISCRTI</display-name>
     <display-name>5031</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I90601">
     <display-name>DMAX</display-name>
     <display-name>DMAXITA</display-name>
     <display-name>5052</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" />
   </channel>
   <channel id="I91186">
     <display-name>Canale 5 HD</display-name>
     <display-name>CANA5HD</display-name>
     <display-name>105</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91188">
     <display-name>Cielo HD</display-name>
     <display-name>CIELOHD</display-name>
     <display-name>5026</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I91204">
     <display-name>Rai 4 HD</display-name>
     <display-name>RAI4HD</display-name>
     <display-name>5021</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I91205">
     <display-name>Sky TG24 HD</display-name>
     <display-name>SKTG24H</display-name>
     <display-name>500</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" />
   </channel>
   <channel id="I94884">
     <display-name>Rai Radio 1</display-name>
     <display-name>RAIRAD1</display-name>
     <display-name>8820</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I99980">
     <display-name>Rai Movie HD</display-name>
     <display-name>RAIMOVH</display-name>
     <display-name>5024</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I99981">
     <display-name>Rai Premium HD</display-name>
     <display-name>RAIPRIH</display-name>
     <display-name>5025</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" />
   </channel>
   <programme start="20260329002600 +0000" stop="20260329002800 +0000" channel="I100806">
     <title>RAI News</title>
@@ -173404,7 +173404,7 @@
       <value>2.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260405030000 +0000" stop="20260405040000 +0000" channel="I84621">
+  <programme start="20260405030000 +0000" stop="20260405045700 +0000" channel="I84621">
     <title>Africa addio</title>
     <desc>Gli effetti negativi della fine della dominazione coloniale in Africa: dallo scatenamento dei nazionalismi esasperati allo sterminio della fauna nelle riserve.</desc>
     <credits>
@@ -173426,32 +173426,6 @@
     <star-rating system="Gracenote">
       <value>3/4</value>
     </star-rating>
-  </programme>
-  <programme start="20260405040000 +0000" stop="20260405045700 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
   </programme>
   <programme start="20260405045700 +0000" stop="20260405051700 +0000" channel="I84621">
     <title>I cinque del quinto piano</title>
@@ -173826,7 +173800,7 @@
       <value>3.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260405163700 +0000" stop="20260406000900 +0000" channel="I84621">
+  <programme start="20260405163700 +0000" stop="20260405191400 +0000" channel="I84621">
     <title>King Arthur</title>
     <desc>Artù è un ufficiale di cavalleria dell'esercito romano impegnato nella difesa del vallo di Adriano. Le sue truppe sono state già congedate ma c'è un'ultima missione da portare a termine: salvare la famiglia di Marius Honorius, il più feroce perseguitore dei pagani.</desc>
     <credits>
@@ -173949,7 +173923,244 @@
       <value>2.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260406000900 +0000" stop="20260406024600 +0000" channel="I84621">
+  <programme start="20260405191400 +0000" stop="20260405221100 +0000" channel="I84621">
+    <title>Heart of the Sea: Le origini di Moby Dick</title>
+    <desc>Nell'inverno del 1820, la baleniera del New England viene attaccata da una creatura incredibile: una balena dalle dimensioni e la forza elefantiache, ed un senso quasi umano di vendetta.</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <director>Nick Gottschalk</director>
+      <director>Neal Callow</director>
+      <director>Dean Clegg</director>
+      <director>Arwel Evans</director>
+      <actor role="Owen Chase">Chris Hemsworth</actor>
+      <actor role="George Pollard">Benjamin Walker</actor>
+      <actor role="Matthew Joy">Cillian Murphy</actor>
+      <actor role="Tom Nickerson">Brendan Gleeson</actor>
+      <actor role="Herman Melville">Ben Whishaw</actor>
+      <actor role="Sig.ra Nickerson">Michelle Fairley</actor>
+      <actor role="Thomas Nickerson">Tom Holland</actor>
+      <actor role="Caleb Chappel">Paul Anderson</actor>
+      <actor role="Henry Coffin">Frank Dillane</actor>
+      <actor role="Benjamin Lawrence">Joseph Mawle</actor>
+      <actor role="Barzallai Ray">Edward Ashley</actor>
+      <actor role="Ramsdell">Sam Keeley</actor>
+      <actor role="Richard Peterson">Osy Ikhile</actor>
+      <actor role="William Bond">Gary Beadle</actor>
+      <actor role="Cole">Jamie Sives</actor>
+      <actor role="Sheppard">Morgan Chetcuti</actor>
+      <actor role="Peggy Chase">Charlotte Riley</actor>
+      <actor role="Pollard Senior">Nicholas Jones</actor>
+      <actor role="Benjamin Fuller">Richard Bremmer</actor>
+      <actor role="Paul Mason">Donald Sumpter</actor>
+      <actor role="Capitano spagnolo">Jordi Mollà</actor>
+      <writer>Charles Leavitt</writer>
+      <producer>Paula Weinstein</producer>
+      <producer>Joe Roth</producer>
+      <producer>Will Ward</producer>
+      <producer>Brian Grazer</producer>
+      <producer>Ron Howard</producer>
+      <producer>Bruce Berman</producer>
+      <producer>Steven Mnuchin</producer>
+      <producer>Sarah Bradshaw</producer>
+      <producer>Palak Patel</producer>
+      <producer>Erica Huggins</producer>
+      <producer>David Bergstein</producer>
+    </credits>
+    <date>2015</date>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Historical drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">122</length>
+    <url>http://www.intheheartoftheseamovie.com/</url>
+    <episode-num system="dd_progid">MV009228920000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>12 år</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>10-12 PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260405221100 +0000" stop="20260406011500 +0000" channel="I84621">
+    <title>Tutti gli uomini del presidente</title>
+    <desc>Due cronisti del Washington Post iniziano a indagare su cinque uomini trovati a trafugare documenti del partito democratico e scoprono qualcosa che cambierà le sorti dell'America.</desc>
+    <credits>
+      <director>Alan J. Pakula</director>
+      <director>Bill Green</director>
+      <director>Art Levinson</director>
+      <actor role="Bob Woodward">Robert Redford</actor>
+      <actor role="Carl Bernstein">Dustin Hoffman</actor>
+      <actor role="Harry M. Rosenfeld">Jack Warden</actor>
+      <actor role="Howard Simons">Martin Balsam</actor>
+      <actor role="Gola Profonda">Hal Holbrook</actor>
+      <actor role="Ben Bradlee">Jason Robards</actor>
+      <actor role="Judy Hoback Miller">Jane Alexander</actor>
+      <actor role="Debbie Sloan">Meredith Baxter</actor>
+      <actor role="Dardis">Ned Beatty</actor>
+      <actor role="Hugh W. Sloan Jr.">Stephen Collins</actor>
+      <actor role="Sally Aiken">Penny Fuller</actor>
+      <actor role="Redattore della cronaca">John McMartin</actor>
+      <actor role="Donald Segretti">Robert Walden</actor>
+      <actor role="Frank Wills">Frank Wills</actor>
+      <actor role="Sergente Leeper, Agente incaricato dell'arresto n. 1">F. Murray Abraham</actor>
+      <actor role="Bachinski">David Arkin</actor>
+      <actor role="Bernard L. Barker">Henry Calvert</actor>
+      <actor role="Eugenio R. Martinez">Dominic Chianese</actor>
+      <actor role="Avvocato polemico">Bryan E. Clark</actor>
+      <actor role="Markham">Nicolas Coster</actor>
+      <writer>Carl Bernstein</writer>
+      <writer>Bob Woodward</writer>
+      <writer>William Goldman</writer>
+      <producer>Jon Boorstin</producer>
+      <producer>Michael Britton</producer>
+      <producer>Walter Coblenz</producer>
+    </credits>
+    <date>1976</date>
+    <category>Docudrama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">138</length>
+    <episode-num system="dd_progid">MV006547750000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>12 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>4/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260406011500 +0000" stop="20260406024100 +0000" channel="I84621">
     <title>West Side Story</title>
     <desc>Due adolescenti di diverse origini etniche si innamorano nella New York degli anni 50. Una rivisitazione del leggendario musical West Side Story sullo scontro tra due bande di strada di New York.</desc>
     <credits>
@@ -174057,7 +174268,7 @@
       <value>3.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260406024600 +0000" stop="20260406040000 +0000" channel="I84621">
+  <programme start="20260406024100 +0000" stop="20260406024600 +0000" channel="I84621">
     <title>King Arthur</title>
     <desc>Artù è un ufficiale di cavalleria dell'esercito romano impegnato nella difesa del vallo di Adriano. Le sue truppe sono state già congedate ma c'è un'ultima missione da portare a termine: salvare la famiglia di Marius Honorius, il più feroce perseguitore dei pagani.</desc>
     <credits>
@@ -174180,9 +174391,132 @@
       <value>2.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260406040000 +0000" stop="20260406080000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406024600 +0000" stop="20260406045700 +0000" channel="I84621">
+    <title>King Arthur</title>
+    <desc>Artù è un ufficiale di cavalleria dell'esercito romano impegnato nella difesa del vallo di Adriano. Le sue truppe sono state già congedate ma c'è un'ultima missione da portare a termine: salvare la famiglia di Marius Honorius, il più feroce perseguitore dei pagani.</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <director>Yann Biquand</director>
+      <director>Conor Dennison</director>
+      <actor role="Artù">Clive Owen</actor>
+      <actor role="Ginevra">Keira Knightley</actor>
+      <actor role="Lancellotto">Ioan Gruffudd</actor>
+      <actor role="Merlino">Stephen Dillane</actor>
+      <actor role="Cerdic">Stellan Skarsgard</actor>
+      <actor role="Bors">Ray Winstone</actor>
+      <actor role="Sir Galahad">Hugh Dancy</actor>
+      <actor role="Cynric">Til Schweiger</actor>
+      <actor role="Tristano">Mads Mikkelsen</actor>
+      <actor role="Dagonet">Ray Stevenson</actor>
+      <actor role="Marius Honorius">Ken Stott</actor>
+      <actor role="Ganis">Charlie Creed-Miles</actor>
+      <actor role="Galvano">Joel Edgerton</actor>
+      <actor role="Jols">Sean Gilder</actor>
+      <actor role="Vescovo Germanius">Ivano Marescotti</actor>
+      <actor role="Alessio">Lorenzo De Angelis</actor>
+      <writer>David Franzoni</writer>
+      <writer>John Lee Hancock</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Mike Stenson</producer>
+      <producer>Chad Oman</producer>
+      <producer>Ned Dowd</producer>
+    </credits>
+    <date>2004</date>
+    <category>Historical drama</category>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>War</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">126</length>
+    <url>http://kingarthur.movies.go.com/main.html</url>
+    <episode-num system="dd_progid">MV007899430000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>12</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260406045700 +0000" stop="20260406054500 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174191,7 +174525,7 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174206,9 +174540,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260406080000 +0000" stop="20260406120000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406054500 +0000" stop="20260406062700 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174217,7 +174551,37 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260406062700 +0000" stop="20260406083000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174232,9 +174596,150 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260406120000 +0000" stop="20260406160000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406083000 +0000" stop="20260406105900 +0000" channel="I84621">
+    <title>Heart of the Sea: Le origini di Moby Dick</title>
+    <desc>Nell'inverno del 1820, la baleniera del New England viene attaccata da una creatura incredibile: una balena dalle dimensioni e la forza elefantiache, ed un senso quasi umano di vendetta.</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <director>Nick Gottschalk</director>
+      <director>Neal Callow</director>
+      <director>Dean Clegg</director>
+      <director>Arwel Evans</director>
+      <actor role="Owen Chase">Chris Hemsworth</actor>
+      <actor role="George Pollard">Benjamin Walker</actor>
+      <actor role="Matthew Joy">Cillian Murphy</actor>
+      <actor role="Tom Nickerson">Brendan Gleeson</actor>
+      <actor role="Herman Melville">Ben Whishaw</actor>
+      <actor role="Sig.ra Nickerson">Michelle Fairley</actor>
+      <actor role="Thomas Nickerson">Tom Holland</actor>
+      <actor role="Caleb Chappel">Paul Anderson</actor>
+      <actor role="Henry Coffin">Frank Dillane</actor>
+      <actor role="Benjamin Lawrence">Joseph Mawle</actor>
+      <actor role="Barzallai Ray">Edward Ashley</actor>
+      <actor role="Ramsdell">Sam Keeley</actor>
+      <actor role="Richard Peterson">Osy Ikhile</actor>
+      <actor role="William Bond">Gary Beadle</actor>
+      <actor role="Cole">Jamie Sives</actor>
+      <actor role="Sheppard">Morgan Chetcuti</actor>
+      <actor role="Peggy Chase">Charlotte Riley</actor>
+      <actor role="Pollard Senior">Nicholas Jones</actor>
+      <actor role="Benjamin Fuller">Richard Bremmer</actor>
+      <actor role="Paul Mason">Donald Sumpter</actor>
+      <actor role="Capitano spagnolo">Jordi Mollà</actor>
+      <writer>Charles Leavitt</writer>
+      <producer>Paula Weinstein</producer>
+      <producer>Joe Roth</producer>
+      <producer>Will Ward</producer>
+      <producer>Brian Grazer</producer>
+      <producer>Ron Howard</producer>
+      <producer>Bruce Berman</producer>
+      <producer>Steven Mnuchin</producer>
+      <producer>Sarah Bradshaw</producer>
+      <producer>Palak Patel</producer>
+      <producer>Erica Huggins</producer>
+      <producer>David Bergstein</producer>
+    </credits>
+    <date>2015</date>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Historical drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">122</length>
+    <url>http://www.intheheartoftheseamovie.com/</url>
+    <episode-num system="dd_progid">MV009228920000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>12 år</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>10-12 PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260406105900 +0000" stop="20260406131400 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174243,7 +174748,7 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174258,9 +174763,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406200000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406131400 +0000" stop="20260406151400 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174269,7 +174774,61 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260406151400 +0000" stop="20260406171200 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260406171200 +0000" stop="20260406181100 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174284,9 +174843,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260406200000 +0000" stop="20260407000000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406181100 +0000" stop="20260406191200 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174295,7 +174854,37 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260406191200 +0000" stop="20260406213800 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174310,9 +174899,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260407000000 +0000" stop="20260407040000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260406213800 +0000" stop="20260406235600 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174321,7 +174910,61 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260406235600 +0000" stop="20260407021000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260407021000 +0000" stop="20260407040000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174752,7 +175395,776 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410000000 +0000" stop="20260410040000 +0000" channel="I84621">
+  <programme start="20260410010500 +0000" stop="20260410024100 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410024100 +0000" stop="20260410030700 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410030700 +0000" stop="20260410040300 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410040300 +0000" stop="20260410044900 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410044900 +0000" stop="20260410053000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410053000 +0000" stop="20260410073800 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410073800 +0000" stop="20260410101000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410101000 +0000" stop="20260410123500 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410123500 +0000" stop="20260410150400 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410150400 +0000" stop="20260410171500 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410171500 +0000" stop="20260410181300 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410181300 +0000" stop="20260410191300 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410191300 +0000" stop="20260410214400 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260410214400 +0000" stop="20260411010500 +0000" channel="I84621">
+    <title>Il cavaliere pallido</title>
+    <desc>Il ricco Roy Lahood cerca di convincere un gruppo di cercatori d'oro a vendergli i diritti di sfruttamento delle terre , ma quando sembra esserci riuscito, compare un misterioso Predicatore.</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor role="Predicatore">Clint Eastwood</actor>
+      <actor role="Hull Barret">Michael Moriarty</actor>
+      <actor role="Sarah Wheeler">Carrie Snodgress</actor>
+      <actor role="Josh LaHood">Christopher Penn</actor>
+      <actor role="Coy LaHood">Richard Dysart</actor>
+      <actor role="Megan Wheeler">Sydney Penny</actor>
+      <actor role="Club">Richard Kiel</actor>
+      <actor role="Spider Conway">Doug McGrath</actor>
+      <actor role="Stockburn">John Russell</actor>
+      <writer>Michael Butler</writer>
+      <writer>Dennis Shryack</writer>
+      <producer>Clint Eastwood</producer>
+      <producer>Fritz Manes</producer>
+      <producer>David Valdes</producer>
+    </credits>
+    <date>1985</date>
+    <category>Western</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">MV006257750000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260411010500 +0000" stop="20260411020600 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411020600 +0000" stop="20260411034000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411034000 +0000" stop="20260411040600 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411040600 +0000" stop="20260411045300 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411045300 +0000" stop="20260411071600 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411071600 +0000" stop="20260411092500 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411092500 +0000" stop="20260411121400 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411121400 +0000" stop="20260411144900 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411144900 +0000" stop="20260411170300 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411170300 +0000" stop="20260411191400 +0000" channel="I84621">
+    <title>Testimone involontario</title>
+    <desc>Il sergente James Dunn, tiratore scelto ed eroe della guerra del Golfo, viene condannato a morte per l'omicidio di un suo superiore. L'unica soluzione per evitare la morte gli viene offerta dal colonnello Casey, il quale lo recluta per uccidere un criminale che è riuscito a fuggire a qualunque metodo di cattura tradizionale.</desc>
+    <credits>
+      <director>David Hogan</director>
+      <actor role="James Dunn">Keenen Ivory Wayans</actor>
+      <actor role="Adam Woodward/Grant Casey">Jon Voight</actor>
+      <actor role="Victoria Constantini">Jill Hennessy</actor>
+      <actor role="Kenny Rackmill">Paul Sorvino</actor>
+      <actor role="Spencer">Eric Roberts</actor>
+      <actor role="Donald Bickhart">Robert Culp</actor>
+      <actor role="Steve Braddock">Wolfgang Bodison</actor>
+      <actor role="Stephen Barnes">Simon Baker</actor>
+      <actor role="Giornalista">Christine Devine</actor>
+      <writer>Keenen Ivory Wayans</writer>
+      <producer>Eric L. Gold</producer>
+    </credits>
+    <date>1997</date>
+    <category>Action</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">99</length>
+    <episode-num system="dd_progid">MV006383180000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260411191400 +0000" stop="20260411213900 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411213900 +0000" stop="20260412010900 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <credits>
+      <director>Kinga Michalska</director>
+    </credits>
+    <category>Special</category>
+    <category>Entertainment</category>
+    <category>TBA</category>
+    <category>tvshow</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <previously-shown start="20140909" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260412040000 +0000" stop="20260412041000 +0000" channel="I84621">
     <title>Non annunciato</title>
     <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
     <credits>
@@ -174778,9 +176190,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410040000 +0000" stop="20260410080000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412041000 +0000" stop="20260412044500 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174789,7 +176201,7 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -174804,9 +176216,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410080000 +0000" stop="20260410120000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412044500 +0000" stop="20260412070800 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174815,8 +176227,9 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
+    <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
@@ -174830,9 +176243,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410120000 +0000" stop="20260410160000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412070800 +0000" stop="20260412093800 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174841,8 +176254,9 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
+    <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
@@ -174856,9 +176270,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410160000 +0000" stop="20260410200000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412093800 +0000" stop="20260412121600 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174867,8 +176281,9 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
+    <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
@@ -174882,9 +176297,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260410200000 +0000" stop="20260411000000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412121600 +0000" stop="20260412143700 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174893,8 +176308,9 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
+    <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
@@ -174908,9 +176324,281 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260411000000 +0000" stop="20260411040000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260412143700 +0000" stop="20260412164700 +0000" channel="I84621">
+    <title>Blue Jasmine</title>
+    <desc>Di fronte al fallimento del suo matrimonio con un ricco uomo d'affari, la newyorkese e mondana Jasmine decide di trasferirsi nel modesto appartamento della sorella Ginger a San Francisco, per cercare di dare un nuovo senso alla propria vita.</desc>
+    <credits>
+      <director>Woody Allen</director>
+      <director>Michael Goldman</director>
+      <director>Douglas Huszti</director>
+      <actor role="Harold 'Hal' Francis">Alec Baldwin</actor>
+      <actor role="Jeanette 'Jasmine' Francis">Cate Blanchett</actor>
+      <actor role="Alan Munsinger">Louis C.K.</actor>
+      <actor role="Chili">Bobby Cannavale</actor>
+      <actor role="Augie">Andrew Dice Clay</actor>
+      <actor role="Ginger">Sally Hawkins</actor>
+      <actor role="Dwight">Peter Sarsgaard</actor>
+      <actor role="Flicker">Michael Stuhlbarg</actor>
+      <actor role="Jane">Tammy Blanchard</actor>
+      <actor role="Eddie">Max Casella</actor>
+      <actor role="Danny">Alden Ehrenreich</actor>
+      <writer>Woody Allen</writer>
+      <producer>Letty Aronson</producer>
+      <producer>Stephen Tenenbaum</producer>
+      <producer>Edward Walson</producer>
+      <producer>Leroy Schecter</producer>
+      <producer>Adam B. Stern</producer>
+    </credits>
+    <date>2013</date>
+    <category>Drama</category>
+    <category>Dark comedy</category>
+    <category>Romance</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">98</length>
+    <url>http://www.sonyclassics.com/bluejasmine/</url>
+    <episode-num system="dd_progid">MV006878720000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>7</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>10-12 PG</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>15</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260412164700 +0000" stop="20260413004700 +0000" channel="I84621">
+    <title>Il cavaliere pallido</title>
+    <desc>Il ricco Roy Lahood cerca di convincere un gruppo di cercatori d'oro a vendergli i diritti di sfruttamento delle terre , ma quando sembra esserci riuscito, compare un misterioso Predicatore.</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor role="Predicatore">Clint Eastwood</actor>
+      <actor role="Hull Barret">Michael Moriarty</actor>
+      <actor role="Sarah Wheeler">Carrie Snodgress</actor>
+      <actor role="Josh LaHood">Christopher Penn</actor>
+      <actor role="Coy LaHood">Richard Dysart</actor>
+      <actor role="Megan Wheeler">Sydney Penny</actor>
+      <actor role="Club">Richard Kiel</actor>
+      <actor role="Spider Conway">Doug McGrath</actor>
+      <actor role="Stockburn">John Russell</actor>
+      <writer>Michael Butler</writer>
+      <writer>Dennis Shryack</writer>
+      <producer>Clint Eastwood</producer>
+      <producer>Fritz Manes</producer>
+      <producer>David Valdes</producer>
+    </credits>
+    <date>1985</date>
+    <category>Western</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">MV006257750000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260413004700 +0000" stop="20260413010900 +0000" channel="I84621">
+    <title>Il cavaliere pallido</title>
+    <desc>Il ricco Roy Lahood cerca di convincere un gruppo di cercatori d'oro a vendergli i diritti di sfruttamento delle terre , ma quando sembra esserci riuscito, compare un misterioso Predicatore.</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor role="Predicatore">Clint Eastwood</actor>
+      <actor role="Hull Barret">Michael Moriarty</actor>
+      <actor role="Sarah Wheeler">Carrie Snodgress</actor>
+      <actor role="Josh LaHood">Christopher Penn</actor>
+      <actor role="Coy LaHood">Richard Dysart</actor>
+      <actor role="Megan Wheeler">Sydney Penny</actor>
+      <actor role="Club">Richard Kiel</actor>
+      <actor role="Spider Conway">Doug McGrath</actor>
+      <actor role="Stockburn">John Russell</actor>
+      <writer>Michael Butler</writer>
+      <writer>Dennis Shryack</writer>
+      <producer>Clint Eastwood</producer>
+      <producer>Fritz Manes</producer>
+      <producer>David Valdes</producer>
+    </credits>
+    <date>1985</date>
+    <category>Western</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">115</length>
+    <episode-num system="dd_progid">MV006257750000</episode-num>
+    <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260413010900 +0000" stop="20260413031000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174919,8 +176607,9 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
+    <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
@@ -174934,9 +176623,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260411040000 +0000" stop="20260411080000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
+  <programme start="20260413031000 +0000" stop="20260413040000 +0000" channel="I84621">
+    <title>To Be Announced</title>
+    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
     <credits>
       <director>Kinga Michalska</director>
     </credits>
@@ -174945,267 +176634,7 @@
     <category>TBA</category>
     <category>tvshow</category>
     <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260411080000 +0000" stop="20260411120000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260411120000 +0000" stop="20260411160000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260411160000 +0000" stop="20260411200000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260411200000 +0000" stop="20260412040000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260412040000 +0000" stop="20260412080000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260412080000 +0000" stop="20260412120000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412160000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260412160000 +0000" stop="20260412200000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260412200000 +0000" stop="20260413000000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20260413000000 +0000" stop="20260413040000 +0000" channel="I84621">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
+    <episode-num system="dd_progid">SH012857740000</episode-num>
     <previously-shown start="20140909" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
