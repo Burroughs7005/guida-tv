@@ -12,13 +12,13 @@
     <display-name>Rai Storia HD</display-name>
     <display-name>RAISTHD</display-name>
     <display-name>5054</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I102112">
     <display-name>Rai Scuola HD</display-name>
     <display-name>RAISCHD</display-name>
     <display-name>806</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I109480">
     <display-name>TV8 HD</display-name>
@@ -30,25 +30,25 @@
     <display-name>QVC HD</display-name>
     <display-name>QVCITHD</display-name>
     <display-name>475</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I115693">
     <display-name>SuperTennis HD</display-name>
     <display-name>SUPERTE</display-name>
     <display-name>5064</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" width="360" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I122486">
     <display-name>27 TwentySeven</display-name>
     <display-name>TWENTY7</display-name>
     <display-name>158</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I122911">
     <display-name>TV2000 HD</display-name>
     <display-name>TV2000HD</display-name>
     <display-name>157</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I142479">
     <display-name>Rai Radio 2</display-name>
@@ -64,55 +64,55 @@
     <display-name>Rai Sport HD</display-name>
     <display-name>RAISPHD</display-name>
     <display-name>227</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I54778">
     <display-name>Italia 1</display-name>
     <display-name>ITALIA1</display-name>
     <display-name>5006</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I54779">
     <display-name>Rete 4</display-name>
     <display-name>RETE4</display-name>
     <display-name>5004</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" width="360" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" />
   </channel>
   <channel id="I54780">
     <display-name>Canale 5</display-name>
     <display-name>CABAKE5</display-name>
     <display-name>5005</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I56247">
     <display-name>La7</display-name>
     <display-name>LA7ITL</display-name>
     <display-name>5007</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" width="360" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I75287">
     <display-name>QVC</display-name>
     <display-name>QVCITA</display-name>
     <display-name>5032</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I75500">
     <display-name>La 5 HD</display-name>
     <display-name>LA5ITL</display-name>
     <display-name>5030</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" />
   </channel>
   <channel id="I84141">
     <display-name>TV2000</display-name>
     <display-name>TV2000IT</display-name>
     <display-name>5028</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I84597">
     <display-name>Nove</display-name>
     <display-name>NOVE</display-name>
     <display-name>5009</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84614">
     <display-name>Giallo</display-name>
@@ -130,97 +130,97 @@
     <display-name>Italia 1 HD</display-name>
     <display-name>ITAL1HD</display-name>
     <display-name>106</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I84638">
     <display-name>La7 Cinema</display-name>
     <display-name>LA7CINE</display-name>
     <display-name>5029</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I84652">
     <display-name>TV8</display-name>
     <display-name>TV8ITAL</display-name>
     <display-name>5008</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84694">
     <display-name>Rai 2 HD</display-name>
     <display-name>RAI2HD</display-name>
     <display-name>5002</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" />
   </channel>
   <channel id="I84695">
     <display-name>Rai 3 HD</display-name>
     <display-name>RAI3HD</display-name>
     <display-name>5003</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I84696">
     <display-name>Rai 1 HD</display-name>
     <display-name>RAI1HD</display-name>
     <display-name>5001</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84696_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I84701">
     <display-name>Rete 4 HD</display-name>
     <display-name>RETE4HD</display-name>
     <display-name>104</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I86304">
     <display-name>Sky Uno HD</display-name>
     <display-name>SKUNOHD</display-name>
     <display-name>108</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" width="360" height="270" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I86825">
     <display-name>La7 HD</display-name>
     <display-name>LA7HD</display-name>
     <display-name>107</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I89069">
     <display-name>La7 Cinema HD</display-name>
     <display-name>LA7DHD</display-name>
     <display-name>161</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I90130">
     <display-name>Real Time</display-name>
     <display-name>DISCRTI</display-name>
     <display-name>5031</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I90601">
     <display-name>DMAX</display-name>
     <display-name>DMAXITA</display-name>
     <display-name>5052</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <channel id="I91186">
     <display-name>Canale 5 HD</display-name>
     <display-name>CANA5HD</display-name>
     <display-name>105</display-name>
-    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" height="270" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
   </channel>
   <channel id="I91188">
     <display-name>Cielo HD</display-name>
     <display-name>CIELOHD</display-name>
     <display-name>5026</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" width="360" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" />
   </channel>
   <channel id="I91204">
     <display-name>Rai 4 HD</display-name>
     <display-name>RAI4HD</display-name>
     <display-name>5021</display-name>
-    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91205">
     <display-name>Sky TG24 HD</display-name>
     <display-name>SKTG24H</display-name>
     <display-name>500</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" />
+    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" />
   </channel>
   <channel id="I94884">
     <display-name>Rai Radio 1</display-name>
@@ -238,7 +238,7 @@
     <display-name>Rai Premium HD</display-name>
     <display-name>RAIPRIH</display-name>
     <display-name>5025</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" height="270" width="360" />
   </channel>
   <programme start="20260329002600 +0000" stop="20260329002800 +0000" channel="I100806">
     <title>RAI News</title>
@@ -174515,86 +174515,138 @@
     </star-rating>
   </programme>
   <programme start="20260406045700 +0000" stop="20260406054500 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Kojak</title>
+    <sub-title>Tuffo nel passato</sub-title>
+    <desc>Un ufficiale di polizia di origini portoricane aiuta Kojak in un difficile caso andando ad indagare sotto copertura, in un quartiere dove aveva vissuto anni prima, su omicidi e contrabbando.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Nicholas Sigarro</director>
+      <actor role="Lt. Theo Kojak">Telly Savalas</actor>
+      <actor role="Frank McNeil">Dan Frazer</actor>
+      <actor role="Lt. Bobby Crocker">Kevin Dobson</actor>
+      <actor role="Det. Stavros">George Savalas</actor>
+      <actor role="Det. Saperstein">Mark Russell</actor>
+      <actor role="Det. Rizzo">Vince Conti</actor>
+      <writer>Sean Baine</writer>
+      <writer>Jack Laird</writer>
+      <producer>Matthew Rapf</producer>
+      <producer>James McAdams</producer>
+      <guest>Tony Diaz</guest>
+      <guest>Patricia Triana</guest>
+      <guest>Ray Serra</guest>
+      <guest>Noberto Kerner</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <category>Crime drama</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <episode-num system="dd_progid">EP018846370070</episode-num>
+    <previously-shown start="19770125" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260406054500 +0000" stop="20260406062700 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Walker, Texas Ranger</title>
+    <sub-title>Conto alla rovescia</sub-title>
+    <desc>Un gruppo di terroristi, ex dipendenti della CIA, tentano di avvelenare l'aria della città usando dei gas estremamenti tossici, che rischiano di uccidere milioni di persone. Walker e Trivette indagano sul caso.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Michael Preece</director>
+      <actor role="Cordell &quot;Cord&quot; Walker">Chuck Norris</actor>
+      <actor role="James &quot;Jimmy&quot; Trivette">Clarence Gilyard</actor>
+      <actor role="Vice procuratore Alex Cahill">Sheree J. Wilson</actor>
+      <actor role="C.D. Parker">Noble Willingham</actor>
+      <actor role="Sydney Cooke">Nia Peeples</actor>
+      <actor role="Francis Gage">Judson Mills</actor>
+      <writer>Bob Gookin</writer>
+      <producer>Len Katzman</producer>
+      <guest>J. Grant Albrecht</guest>
+      <guest>Robert Lipton</guest>
+      <guest>J. Kenneth Campbell</guest>
+      <guest>Christopher Wynne</guest>
+      <guest>Kevin Naughton</guest>
+      <guest>Bruce Carey</guest>
+      <guest>Eddie Braun</guest>
+      <guest>Scott Roland</guest>
+      <guest>Ken Greaves</guest>
+      <guest>Paul Lane</guest>
+      <guest>Todd Terry</guest>
+      <guest>Dale Rivera</guest>
+      <guest>Cynthia Dorn</guest>
+      <guest>Karen Borta</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <category>Crime drama</category>
+    <category>Western</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+    <episode-num system="dd_progid">EP019021920178</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20140909" />
+    <previously-shown start="19991002" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260406062700 +0000" stop="20260406083000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Maciste alla corte dello zar</title>
+    <desc>Lo zar manda degli esperti in una missione segreta per trovare un leggendario tesoro ma gli esperti non sanno che lo zar ha messo un gruppo di mercenari alle calcagna e ordinato la loro morte al loro ritorno.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Amerigo Anton</director>
+      <actor role="Maciste">Kirk Morris</actor>
+      <actor role="Nadia">Gloria Milland</actor>
+      <actor role="Czar Nicola Nicolajevic">Massimo Serato</actor>
+      <actor role="Sonia">Ombretta Colli</actor>
+      <actor role="Akim">Tom Felleghy</actor>
+      <actor role="Igor">Giulio Donnini</actor>
+      <actor role=".Katia">Dada Gallotti</actor>
+      <writer>Amerigo Anton</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>1964</date>
+    <category>Adventure</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">91</length>
+    <episode-num system="dd_progid">MV006406130000</episode-num>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <star-rating system="Gracenote">
+      <value>1/4</value>
+    </star-rating>
   </programme>
   <programme start="20260406083000 +0000" stop="20260406105900 +0000" channel="I84621">
     <title>Heart of the Sea: Le origini di Moby Dick</title>
@@ -174738,246 +174790,636 @@
     </star-rating>
   </programme>
   <programme start="20260406105900 +0000" stop="20260406131400 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Cominciò con un bacio</title>
+    <desc>Voleva sposare un milionario, ma s'innamora di un sergente d'aviazione e lo porta all'altare, ma poco dopo viene trasferito in Spagna.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>George Marshall</director>
+      <actor role="Sergente Joe Fitzpatrick">Glenn Ford</actor>
+      <actor role="Maggie Putnam">Debbie Reynolds</actor>
+      <actor role="Marchesa Marion de la Rey">Eva Gabor</actor>
+      <actor role="Antonio Soriano">Gustavo Rojo</actor>
+      <actor role="Tim O'Connell">Fred Clark</actor>
+      <actor role="Deputato Tappe">Edgar Buchanan</actor>
+      <actor role="Deputato Muir">Robert Warwick</actor>
+      <actor role="Charles Meriden">Henry Morgan</actor>
+      <actor role="Sig.ra Tappe">Frances Bavier</actor>
+      <actor role="Sig.ra Muir">Netta Packer</actor>
+      <actor role="Il sindaco">Robert Cunningham</actor>
+      <actor role="Sally Meriden">Alice Backes</actor>
+      <actor role="Belvah">Carmen Phillips</actor>
+      <producer>Aaron Rosenberg</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>1959</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">103</length>
+    <episode-num system="dd_progid">MV006214760000</episode-num>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260406131400 +0000" stop="20260406151400 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Guerra indiana</title>
+    <desc>Il maggiore Rogers, sfuggito a un'imboscata degli indiani, individua un traditore bianco e lo fa giustiziare. Poi si reca all'accampamento del capo Lupo Nero e lo sfida a duello.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Jacques Tourneur</director>
+      <actor role="Robert Rogers">Keith Larsen</actor>
+      <actor role="Hunk Marriner">Buddy Ebsen</actor>
+      <actor role="Langdon Towne">Don Burnett</actor>
+      <actor role="Natula">Lisa Gaye</actor>
+      <actor role="Amherst">Philip Tonge</actor>
+      <actor role="Lupo Nero">Larry Chance</actor>
+      <actor role="Rose Carver">Angie Dickinson</actor>
+      <actor role="Rivas">Pat Hogan</actor>
+      <actor role="Elizabeth Brannen">Lisa Davis</actor>
+      <writer>Gerald Drayson Adams</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1959</date>
+    <category>Adventure</category>
+    <category>TV Movie</category>
+    <category>movie</category>
+    <length units="minutes">86</length>
+    <episode-num system="dd_progid">MV005614890000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Italy Content Provider Ratings">
+      <value>6</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <star-rating system="Gracenote">
+      <value>1.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260406151400 +0000" stop="20260406171200 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Employee of the Month</title>
+    <desc>Quando il governo vota un massiccio piano di risparmio, Vincent viene allontanato. Di fronte a un ispettore ministeriale, si rifiuta di andarsene. Lei lo trasferisce nei posti peggiori del mondo, fino al Polo Nord.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Jérôme Commandeur</director>
+      <actor role="Vincent Peltier">Jérôme Commandeur</actor>
+      <actor role="Eva">Laetitia Dosch</actor>
+      <actor role="Isabelle Bailliencourt">Pascale Arbillot</actor>
+      <actor role="Michel Gougnat">Christian Clavier</actor>
+      <actor role="Roselyn Bacheron">Gérard Darmon</actor>
+      <actor>Valérie Lemercier</actor>
+      <actor>Estéban</actor>
+      <actor>Malik Bentalha</actor>
+      <actor role="Martine">Nicole Calfan</actor>
+      <actor role="Monique">Eva Darlan</actor>
+      <actor role="Jean-Paul">Jean-Marie Winling</actor>
+      <writer>Jérôme Commandeur</writer>
+      <writer>Xavier Maingon</writer>
+      <producer>Patrice Arrat</producer>
+      <producer>Quentin De Revel</producer>
+      <producer>Thierry Desmichelle</producer>
+      <producer>Rémi Jimenez</producer>
+      <producer>Camilla Nesbitt</producer>
+      <producer>Pietro Valsecchi</producer>
+      <producer>Edoardo Zambeletti</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2022</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">85</length>
+    <episode-num system="dd_progid">MV023699110000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Arcom">
+      <value>Tous publics</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
       <value>7</value>
     </rating>
   </programme>
   <programme start="20260406171200 +0000" stop="20260406181100 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Kojak</title>
+    <sub-title>Tuffo nel passato</sub-title>
+    <desc>Un ufficiale di polizia di origini portoricane aiuta Kojak in un difficile caso andando ad indagare sotto copertura, in un quartiere dove aveva vissuto anni prima, su omicidi e contrabbando.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Nicholas Sigarro</director>
+      <actor role="Lt. Theo Kojak">Telly Savalas</actor>
+      <actor role="Frank McNeil">Dan Frazer</actor>
+      <actor role="Lt. Bobby Crocker">Kevin Dobson</actor>
+      <actor role="Det. Stavros">George Savalas</actor>
+      <actor role="Det. Saperstein">Mark Russell</actor>
+      <actor role="Det. Rizzo">Vince Conti</actor>
+      <writer>Sean Baine</writer>
+      <writer>Jack Laird</writer>
+      <producer>Matthew Rapf</producer>
+      <producer>James McAdams</producer>
+      <guest>Tony Diaz</guest>
+      <guest>Patricia Triana</guest>
+      <guest>Ray Serra</guest>
+      <guest>Noberto Kerner</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <category>Crime drama</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <episode-num system="dd_progid">EP018846370070</episode-num>
+    <previously-shown start="19770125" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260406181100 +0000" stop="20260406191200 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Walker, Texas Ranger</title>
+    <sub-title>Conto alla rovescia</sub-title>
+    <desc>Un gruppo di terroristi, ex dipendenti della CIA, tentano di avvelenare l'aria della città usando dei gas estremamenti tossici, che rischiano di uccidere milioni di persone. Walker e Trivette indagano sul caso.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Michael Preece</director>
+      <actor role="Cordell &quot;Cord&quot; Walker">Chuck Norris</actor>
+      <actor role="James &quot;Jimmy&quot; Trivette">Clarence Gilyard</actor>
+      <actor role="Vice procuratore Alex Cahill">Sheree J. Wilson</actor>
+      <actor role="C.D. Parker">Noble Willingham</actor>
+      <actor role="Sydney Cooke">Nia Peeples</actor>
+      <actor role="Francis Gage">Judson Mills</actor>
+      <writer>Bob Gookin</writer>
+      <producer>Len Katzman</producer>
+      <guest>J. Grant Albrecht</guest>
+      <guest>Robert Lipton</guest>
+      <guest>J. Kenneth Campbell</guest>
+      <guest>Christopher Wynne</guest>
+      <guest>Kevin Naughton</guest>
+      <guest>Bruce Carey</guest>
+      <guest>Eddie Braun</guest>
+      <guest>Scott Roland</guest>
+      <guest>Ken Greaves</guest>
+      <guest>Paul Lane</guest>
+      <guest>Todd Terry</guest>
+      <guest>Dale Rivera</guest>
+      <guest>Cynthia Dorn</guest>
+      <guest>Karen Borta</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <category>Crime drama</category>
+    <category>Western</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+    <episode-num system="dd_progid">EP019021920178</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20140909" />
+    <previously-shown start="19991002" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260406191200 +0000" stop="20260406213800 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Dragon: La storia di Bruce Lee</title>
+    <desc>Tutta la vita di Bruce: dal ragazzo appassionato di arti marziali al trasferimento a San Francisco come istruttore di karate, da quando il cinema si accorge di lui e ne fa una star sino all'ossessione di Bruce per delle strane visioni.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Rob Cohen</director>
+      <actor role="Bruce Lee">Jason Scott Lee</actor>
+      <actor role="Linda Lee">Lauren Holly</actor>
+      <actor role="Bill Krieger">Robert Wagner</actor>
+      <actor role="Vivian Emery">Michael Learned</actor>
+      <actor role="Gussie Yang">Nancy Kwan</actor>
+      <actor role="Philip Tan">Kay Tong Lim</actor>
+      <actor role="Jerome Sprout">Sterling Macer</actor>
+      <actor role="Bruce's Father">Ric Young</actor>
+      <actor role="The Demon">Sven-Ole Thorsen</actor>
+      <writer>Rob Cohen</writer>
+      <writer>John Raffo</writer>
+      <writer>Edward Khmara</writer>
+      <producer>Raffaella De Laurentiis</producer>
+      <producer>John Badham</producer>
+      <producer>Dan York</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1993</date>
+    <category>Drama</category>
+    <category>Biography</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">121</length>
+    <episode-num system="dd_progid">MV005536380000</episode-num>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="UK Content Provider">
+      <value>15</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>7</value>
     </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260406213800 +0000" stop="20260406235600 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Deepwater: Inferno sull'oceano</title>
+    <desc>Nell'aprile 2010 una piattaforma petrolifera esplode, causando un irreparabile disastro ambientale. I lavoratori presenti sul luogo del disastro devono lottare con tutte le forze per sopravvivere.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Peter Berg</director>
+      <actor role="Mike Williams">Mark Wahlberg</actor>
+      <actor role="Jimmy Harrell">Kurt Russell</actor>
+      <actor role="Landry">Douglas M. Griffin</actor>
+      <actor role="Patrick O'Bryan">James DuMont</actor>
+      <actor role="David Sims">Joe Chrest</actor>
+      <actor role="Andrea Fleytas">Gina Rodriguez</actor>
+      <actor role="Robert Kaluza">Brad Leland</actor>
+      <actor role="Donald Vidrine">John Malkovich</actor>
+      <actor role="Curt Kuchta">Dave Maldonado</actor>
+      <actor role="Dewey Revette">JD Evermore</actor>
+      <actor role="Jason Anderson">Ethan Suplee</actor>
+      <actor role="Dale Burkeen">Jason Kirkpatrick</actor>
+      <actor role="Felicia Williams">Kate Hudson</actor>
+      <actor role="Sydney Williams">Stella Allen</actor>
+      <actor role="Caleb Holloway">Dylan O'Brien</actor>
+      <writer>Matthew Michael Carnahan</writer>
+      <writer>Matthew Sand</writer>
+      <producer>Lorenzo di Bonaventura</producer>
+      <producer>Mark Vahradian</producer>
+      <producer>Stephen Levinson</producer>
+      <producer>David Womark</producer>
+      <producer>Mark Wahlberg</producer>
+      <producer>Jonathan King</producer>
+      <producer>Jeff Skoll</producer>
+      <producer>Mark Wahlberg</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2016</date>
+    <category>Thriller</category>
+    <category>Action</category>
+    <category>Drama</category>
+    <category>Adventure</category>
+    <category>Biography</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">107</length>
+    <url>https://www.lionsgate.com/movies/deepwaterhorizon/</url>
+    <episode-num system="dd_progid">MV009964090000</episode-num>
     <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>12 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Italy Content Provider Ratings">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>12</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260406235600 +0000" stop="20260407021000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Space Cowboys</title>
+    <desc>Quattro anziani piloti vengono richiamati in servizio dalla Nasa quando un satellite degli anni Sessanta in avaria rischia di precipitare sulla Terra e devono considerare l'idea di viaggiare nello spazio per evitare la tragedia.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Clint Eastwood</director>
+      <director>Jack N. Green</director>
+      <director>Jack G. Taylor Jr.</director>
+      <actor role="Frank Corvin">Clint Eastwood</actor>
+      <actor role="Hawk Hawkins">Tommy Lee Jones</actor>
+      <actor role="Jerry O'Nell">Donald Sutherland</actor>
+      <actor role="Tank Sullivan">James Garner</actor>
+      <actor role="Bob Gerson">James Cromwell</actor>
+      <actor role="Sara Holland">Marcia Gay Harden</actor>
+      <actor role="Eugene Davis">William Devane</actor>
+      <actor role="Ethan Glance">Loren Dean</actor>
+      <actor role="Roger Hines">Courtney B. Vance</actor>
+      <actor role="Barbara Corvin">Barbara Babcock</actor>
+      <actor role="General Vostov">Rade Sherbedgia</actor>
+      <actor role="Dr. Anne Caruthers">Blair Brown</actor>
+      <actor role="Jay Leno">Jay Leno</actor>
+      <actor role=" Tiny">Nils Allen Stewart</actor>
+      <actor role=" Cocktail Waitress">Deborah Jolly</actor>
+      <actor role=" Young Frank">Toby Stephens</actor>
+      <actor role=" Young Hawk">Eli Craig</actor>
+      <actor role=" Young Jerry">John Asher</actor>
+      <actor role=" Young Tank">Matt McColm</actor>
+      <actor role=" Young Gerson">Billie Worley</actor>
+      <actor role="Jason">Chris Wylde</actor>
+      <actor role="Jason's Girlfriend">Anne Stedman</actor>
+      <actor role=" Capcom">James MacDonald</actor>
+      <actor role=" Female Astronaut #1">Kate McNeil</actor>
+      <actor role=" Female Astronaut #2">Karen M. Waldron</actor>
+      <actor role=" Male Astronaut #1">John Linton</actor>
+      <actor role=" Mission Control Tech">Mark Thomason</actor>
+      <actor role=" Jerry's Girlfriend">Georgia Emelin</actor>
+      <actor role=" State Department Official">Rick Scarry</actor>
+      <actor role=" JBC Security Guard">Paul Pender</actor>
+      <actor role=" Qualls">Tim Halligan</actor>
+      <actor role=" Press Reporter #1">Manning Mpinduzi-Mott</actor>
+      <actor role="Waiter">Steve Monroe</actor>
+      <actor role=" Centrifuge Tech">Jean Michel Henry</actor>
+      <actor role=" Construction Tech">Steven Westdahl</actor>
+      <actor role=" Trajectory Engineer">Cooper Huckabee</actor>
+      <actor role=" Boy at NASA Tour">Hayden Tank</actor>
+      <actor role="Press Reporter (1958)">Jock MacDonald</actor>
+      <actor role=" T-38 Pilot">Gerald Emerick</actor>
+      <actor role=" Little Girl">Renee Olstead</actor>
+      <actor role="NASA Doctor">Don Michaelson</actor>
+      <actor role=" Press Reporter #2">Artur Cybulski</actor>
+      <actor role=" Simsupe">Gordy Owens</actor>
+      <actor role=" Vice President">Steve Stapenhorst</actor>
+      <actor role=" Teacher at NASA Tour">Lauren Cohn</actor>
+      <actor role=" Young Pilot #1">Michael Louden</actor>
+      <actor role=" Female Engineer">Deborah Hope</actor>
+      <actor role="Young Pilot #2">Jon Hamm</actor>
+      <actor role=" KSC Guard">Lamont Lofton</actor>
+      <actor role="Russian Engineer">Aleksandr Kuznetsov</actor>
+      <actor role=" Female Engineer">Erica Grant</actor>
+      <writer>Ken Kaufman</writer>
+      <writer>Howard Klausner</writer>
+      <producer>Andrew Lazar</producer>
+      <producer>Tom Rooker</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2000</date>
+    <category>Adventure</category>
+    <category>Comedy drama</category>
+    <category>Action</category>
+    <category>Thriller</category>
+    <category>Science fiction</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">129</length>
+    <url>http://www.spacecowboys.net</url>
+    <episode-num system="dd_progid">MV006387070000</episode-num>
     <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>TP</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
     </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260407021000 +0000" stop="20260407040000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Cominciò con un bacio</title>
+    <desc>Voleva sposare un milionario, ma s'innamora di un sergente d'aviazione e lo porta all'altare, ma poco dopo viene trasferito in Spagna.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>George Marshall</director>
+      <actor role="Sergente Joe Fitzpatrick">Glenn Ford</actor>
+      <actor role="Maggie Putnam">Debbie Reynolds</actor>
+      <actor role="Marchesa Marion de la Rey">Eva Gabor</actor>
+      <actor role="Antonio Soriano">Gustavo Rojo</actor>
+      <actor role="Tim O'Connell">Fred Clark</actor>
+      <actor role="Deputato Tappe">Edgar Buchanan</actor>
+      <actor role="Deputato Muir">Robert Warwick</actor>
+      <actor role="Charles Meriden">Henry Morgan</actor>
+      <actor role="Sig.ra Tappe">Frances Bavier</actor>
+      <actor role="Sig.ra Muir">Netta Packer</actor>
+      <actor role="Il sindaco">Robert Cunningham</actor>
+      <actor role="Sally Meriden">Alice Backes</actor>
+      <actor role="Belvah">Carmen Phillips</actor>
+      <producer>Aaron Rosenberg</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>1959</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">103</length>
+    <episode-num system="dd_progid">MV006214760000</episode-num>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260407040000 +0000" stop="20260407080000 +0000" channel="I84621">
     <title>Non annunciato</title>
@@ -175396,353 +175838,756 @@
     </rating>
   </programme>
   <programme start="20260410010500 +0000" stop="20260410024100 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>The Invention of Lying</title>
+    <desc>Il quarantenne Mark Bellison vive in un mondo dove non esiste la menzogna e in cui, nel bene e nel male, tutti dicono la verità. Sceneggiatore di scarso talento, l'uomo sta per essere licenziato e vive la propria esistenza come un vero e proprio fallimento. Una piccola bugia, detta quasi per sbaglio, cambia improvvisamente le sue prospettive: subito intuisce la forza della falsità e se ne serve per cambiare radicalmente la propria vita. La situazione però gli sfugge di mano.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Ricky Gervais</director>
+      <director>Matthew Robinson</director>
+      <director>Priscilla Elliott</director>
+      <actor role="Mark Bellison">Ricky Gervais</actor>
+      <actor role="Anna McDoogles">Jennifer Garner</actor>
+      <actor role="Frank">Jonah Hill</actor>
+      <actor role="Greg">Louis C.K.</actor>
+      <actor role="Anthony">Jeffrey Tambor</actor>
+      <actor role="Martha Bellison">Fionnula Flanagan</actor>
+      <actor role="Brad Kessler">Rob Lowe</actor>
+      <actor role="Shelley">Tina Fey</actor>
+      <actor role="Madre di Anna">Donna Sorbello</actor>
+      <actor role="Bionda">Stephanie March</actor>
+      <actor role="Padrone di casa">Ruben Santiago-Hudson</actor>
+      <actor role="Prete">John Hodgman</actor>
+      <actor role="Reporter">Nate Corddry</actor>
+      <actor role="Bob">Jimmi Simpson</actor>
+      <actor role="Waiter No. 1">Martin Starr</actor>
+      <actor role="Dottore">Jason Bateman</actor>
+      <actor role="Nathan Goldfrappe">Christopher Guest</actor>
+      <actor role="Angelo Badsmith">Alton Fitzgerald White</actor>
+      <actor role="Jim, il barista">Philip Seymour Hoffman</actor>
+      <actor role="Sbirro">Edward Norton</actor>
+      <writer>Ricky Gervais</writer>
+      <writer>Matthew Robinson</writer>
+      <producer>Lynda Obst</producer>
+      <producer>Oly Obst</producer>
+      <producer>Ricky Gervais</producer>
+      <producer>Dan Lin</producer>
+      <producer>Ted Field</producer>
+      <producer>Paris Kasidokostas Latsis</producer>
+      <producer>Terry Dougas</producer>
+      <producer>Sue Baden-Powell</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">99</length>
+    <url>http://the-invention-of-lying.warnerbros.com/</url>
+    <episode-num system="dd_progid">MV006403960000</episode-num>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>S</value>
     </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>15A</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
     </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260410024100 +0000" stop="20260410030700 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>Gianfilippo accetta l'incarico, affidatogli dal comitato di quartiere, di allenatore di una squadra di football americano composta da ragazzini della zona.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0.74.</episode-num>
+    <episode-num system="dd_progid">EP023172020069</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260410030700 +0000" stop="20260410040300 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>Gianfilippo si esercita in casa per diventare un perfetto uomo indipendente. Stira, cucina e si fa il bucato da solo.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0.75.</episode-num>
+    <episode-num system="dd_progid">EP023172020070</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260410040300 +0000" stop="20260410044900 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Kojak</title>
+    <sub-title>Il prezzo della verità</sub-title>
+    <desc>Kojak deve sostenere il povero Crocker, che distrugge la propria carriera nella polizia sparando durante un tentativo di rapina, ferendo però una modella anziché i farabutti.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Telly Savalas</director>
+      <actor role="Lt. Theo Kojak">Telly Savalas</actor>
+      <actor role="Frank McNeil">Dan Frazer</actor>
+      <actor role="Lt. Bobby Crocker">Kevin Dobson</actor>
+      <actor role="Det. Stavros">George Savalas</actor>
+      <actor role="Det. Saperstein">Mark Russell</actor>
+      <writer>Robert W. Lenski</writer>
+      <writer>Oliver Crawford</writer>
+      <producer>Matthew Rapf</producer>
+      <producer>James McAdams</producer>
+      <guest>Carol Lynley</guest>
+      <guest>Christopher Walken</guest>
+      <guest>Larry Haines</guest>
+      <guest>Olympia Dukakis</guest>
+      <guest>Lester Rawlins</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <category>Crime drama</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">49</length>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <episode-num system="dd_progid">EP018846370068</episode-num>
+    <previously-shown start="19770222" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260410044900 +0000" stop="20260410053000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Walker, Texas Ranger</title>
+    <sub-title>Menti sospettose</sub-title>
+    <desc>Walker deve occuparsi di una bambina sordomuta che ha assistito all'omicidio di un uomo. Durante una competizione canora a cui partecipa anche Tony, il padre della ragazzina, due assassini cercano di ucciderla, ma l'intervento dei Texas Ranger riesce a sventare l'attentato e a sgominare la banda.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Jerry Jameson</director>
+      <actor role="Cordell &quot;Cord&quot; Walker">Chuck Norris</actor>
+      <actor role="James &quot;Jimmy&quot; Trivette">Clarence Gilyard</actor>
+      <actor role="Vice procuratore Alex Cahill">Sheree J. Wilson</actor>
+      <actor role="C.D. Parker">Noble Willingham</actor>
+      <actor role="Sydney Cooke">Nia Peeples</actor>
+      <actor role="Francis Gage">Judson Mills</actor>
+      <writer>Bob Gookin</writer>
+      <producer>Len Katzman</producer>
+      <guest>Hunter Sullivan</guest>
+      <guest>Eddie Bowz</guest>
+      <guest>Clare Carey</guest>
+      <guest>Rebecca Lovitch</guest>
+      <guest>Joe Penny</guest>
+      <guest>Vic Polizos</guest>
+      <guest>Russ Marker</guest>
+      <guest>Andrew Rothenberg</guest>
+      <guest>Nissa Wisuttismarn</guest>
+      <guest>I'ce Mrozak</guest>
+      <guest>John S. Davies</guest>
+      <guest>Clay Adkins</guest>
+      <guest>John Seda</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <category>Crime drama</category>
+    <category>Western</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
+    <episode-num system="dd_progid">EP019021920181</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20140909" />
+    <previously-shown start="19991106" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260410053000 +0000" stop="20260410073800 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Sposi</title>
+    <desc>Film a episodi che racconta diverse vicende di coppie in crisi durante il giorno della vigilia di Ferragosto.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Antonio Avati</director>
+      <director>Pupi Avati</director>
+      <actor role="Luca">Jerry Calà</actor>
+      <actor role="Assunta">Delia Boccardo</actor>
+      <actor role="Mario">Carlo Delle Piane</actor>
+      <actor role="Silvia">Elena Sofia Ricci</actor>
+      <actor role="Robby">Alessandro Haber</actor>
+      <actor role="Federica">Ottavia Piccolo</actor>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <date>1988</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">95</length>
+    <episode-num system="dd_progid">MV006522000000</episode-num>
+    <rating system="Italy Content Provider Ratings">
+      <value>6</value>
     </rating>
   </programme>
   <programme start="20260410073800 +0000" stop="20260410101000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Duplicity</title>
+    <desc>Claire e Ray sono due ex agenti della Cia, oggi al servizio di due importanti società. Iniziano una relazione come parte di un complotto per rubare i piani di un nuovo rivoluzionario prodotto e per garantirsi un futuro milionario.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Tony Gilroy</director>
+      <director>Stephen Carter</director>
+      <actor role="Claire Stenwick">Julia Roberts</actor>
+      <actor role="Ray Koval">Clive Owen</actor>
+      <actor role="Howard Tully">Tom Wilkinson</actor>
+      <actor role="Richard Garsik">Paul Giamatti</actor>
+      <actor role="Aiutante di Garsik">Dan Daily</actor>
+      <actor role="Assistente di Tully">Lisa Roberts Gillan</actor>
+      <actor role="Turtleneck">David Shumbris</actor>
+      <actor role="Dale Raimes">Rick Worthy</actor>
+      <actor role="Boris Fetyov">Oleg Stefan</actor>
+      <actor role="Duke Monahan">Denis O'Hare</actor>
+      <actor role="Pam Frales">Kathleen Chalfant</actor>
+      <actor role="Dinesh Patel">Khan Baykal</actor>
+      <actor role="Jeff Bauer">Tom McCarthy</actor>
+      <actor role="Ned Guston">Wayne Duvall</actor>
+      <actor role="Barbara Bofferd">Carrie Preston</actor>
+      <writer>Tony Gilroy</writer>
+      <producer>Jennifer Fox</producer>
+      <producer>Kerry Orent</producer>
+      <producer>Laura Bickford</producer>
+      <producer>Ryan Kavanaugh</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2009</date>
+    <category>Romantic comedy</category>
+    <category>Thriller</category>
+    <category>Crime drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">125</length>
+    <url>http://www.duplicitymovie.net/</url>
+    <episode-num system="dd_progid">MV006518490000</episode-num>
     <subtitles type="teletext" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>A</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>10-12 PG</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Statens medieråd">
+      <value>Barntillåten</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Australian Classification Board">
+      <value>M</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>7</value>
     </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>6</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260410101000 +0000" stop="20260410123500 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Una questione d'onore</title>
+    <desc>Efisio Mulas, un mite bracciante, viene coinvolto in una faida familiare e viene accusato di un omicidio che non ha commesso. L'uomo deve allora trovare il modo di scagionarsi, ma l'impresa si rivela tutt'altro che facile.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Luigi Zampa</director>
+      <actor role="Efisio Mulas">Ugo Tognazzi</actor>
+      <actor role="Advocate Mazzullo">Leopoldo Trieste</actor>
+      <actor role="Don Leandro Sanna">Bernard Blier</actor>
+      <actor role="Domenicangela Piras">Nicoletta Machiavelli</actor>
+      <actor role="Marechal Vaccaro">Sandro Merli</actor>
+      <actor role="Efisio's mother">Tecla Scarano</actor>
+      <actor role="Egidio Porcu">Franco Fabrizi</actor>
+      <actor>Pasquale Cennamo</actor>
+      <actor>Lino Coletta</actor>
+      <actor role="Liberato Piras">Lucien Raimbourg</actor>
+      <actor role="A policeman">Franco Bucceri</actor>
+      <actor role="Agostino Sanna">Franco Gulà</actor>
+      <actor>Ermelinda De Felice</actor>
+      <actor role="Sergeant Capuano">Armando Malpede</actor>
+      <actor role="Antonio Piras">Giuseppe Grasso</actor>
+      <actor role="Alvaro Porcu">Arturo Maghizzano</actor>
+      <actor>Giovanni Veracchi</actor>
+      <writer>Leonardo Benvenuti</writer>
+      <writer>Piero De Bernardi</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1966</date>
+    <category>Comedy drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">131</length>
+    <episode-num system="dd_progid">MV006918140000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Ministero della Cultura">
+      <value>VM14</value>
     </rating>
   </programme>
   <programme start="20260410123500 +0000" stop="20260410150400 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Arsenico e vecchi merletti</title>
+    <desc>Lo scrittore Mortimer Brewster si innamora perdutamente di Elaine Harper, la classica ragazza della porta accanto. I due convolano a nozze il giorno della festa di Halloween e quando tornano a casa dai rispettivi genitori per dare loro la lieta notizia, scoprono di avere una famiglia particolarmente fuori dal comune.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Frank Capra</director>
+      <actor role="Mortimer Brewster">Cary Grant</actor>
+      <actor role="Jonathan Brewster">Raymond Massey</actor>
+      <actor role="Elaine Harper">Priscilla Lane</actor>
+      <actor role="Dr. Einstein">Peter Lorre</actor>
+      <actor role="Officer Patrick &quot;Pat&quot; O'Hara">Jack Carson</actor>
+      <actor role="Aunt Abby Brewster">Josephine Hull</actor>
+      <actor role="Aunt Martha Brewster">Jean Adair</actor>
+      <actor role="Lt. Rooney">James Gleason</actor>
+      <actor role="Reverend Harper">Grant Mitchell</actor>
+      <actor role="Theodore &quot;Teddy Roosevelt&quot; Brewster">John Alexander</actor>
+      <actor role="Mr. Witherspoon">Edward Everett Horton</actor>
+      <actor role="Police Sgt. Brophy">Edward McNamara</actor>
+      <actor role="Taxi Cab Driver">Garry Owen</actor>
+      <actor role="Officer Saunders">John Ridgely</actor>
+      <actor role="Judge Cullman">Vaughan Glaser</actor>
+      <actor role="Dr. Gilchrist">Chester Clute</actor>
+      <actor role="Reporter at Marriage License Office">Charles Lane</actor>
+      <actor role="Mr. Gibbs">Edward McWade</actor>
+      <actor role="Man in Phone Booth">Leo White</actor>
+      <actor role="Marriage License Clerk">Spencer Charters</actor>
+      <actor role="Photographer at Marriage License Office">Hank Mann</actor>
+      <actor role="Umpire">Lee Phelps</actor>
+      <writer>Joseph Kesselring</writer>
+      <writer>Julius J. Epstein</writer>
+      <writer>Philip G. Epstein</writer>
+      <producer>Jack L. Warner</producer>
+      <producer>Frank Capra</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>1944</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">118</length>
+    <episode-num system="dd_progid">MV008106520000</episode-num>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>TP</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260410150400 +0000" stop="20260410171500 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Quattro amici e un matrimonio</title>
+    <desc>Un gruppo di trentenni samoani si ritrova a dover superare la sindrome di Peter Pan, passando dalle avventure di una notte all'amore della loro vita.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Chris Graham</director>
+      <actor role="Albert">Oscar Kightley</actor>
+      <actor role="Stanley">Iaheto Ah Hi</actor>
+      <actor role="Sefa">Shimpal Lelisi</actor>
+      <actor role="Michael">Robbie Magasiva</actor>
+      <actor role="Leilani">Teuila Blakely</actor>
+      <actor role="Tania">Madeleine Sami</actor>
+      <actor role="Bolo/Paul">David Fane</actor>
+      <actor role="Principessa">Maryjane McKibbin-Schwenke</actor>
+      <writer>James Griffin</writer>
+      <writer>Oscar Kightley</writer>
+      <producer>John Barnett</producer>
+      <producer>Mark Horowitz</producer>
+      <producer>Chloe Smith</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>2006</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">97</length>
+    <episode-num system="dd_progid">MV006606620000</episode-num>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM18</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
     </rating>
   </programme>
   <programme start="20260410171500 +0000" stop="20260410181300 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Kojak</title>
+    <sub-title>Il prezzo della verità</sub-title>
+    <desc>Kojak deve sostenere il povero Crocker, che distrugge la propria carriera nella polizia sparando durante un tentativo di rapina, ferendo però una modella anziché i farabutti.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Telly Savalas</director>
+      <actor role="Lt. Theo Kojak">Telly Savalas</actor>
+      <actor role="Frank McNeil">Dan Frazer</actor>
+      <actor role="Lt. Bobby Crocker">Kevin Dobson</actor>
+      <actor role="Det. Stavros">George Savalas</actor>
+      <actor role="Det. Saperstein">Mark Russell</actor>
+      <writer>Robert W. Lenski</writer>
+      <writer>Oliver Crawford</writer>
+      <producer>Matthew Rapf</producer>
+      <producer>James McAdams</producer>
+      <guest>Carol Lynley</guest>
+      <guest>Christopher Walken</guest>
+      <guest>Larry Haines</guest>
+      <guest>Olympia Dukakis</guest>
+      <guest>Lester Rawlins</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <category>Crime drama</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">49</length>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <episode-num system="dd_progid">EP018846370068</episode-num>
+    <previously-shown start="19770222" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260410181300 +0000" stop="20260410191300 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Walker, Texas Ranger</title>
+    <sub-title>Menti sospettose</sub-title>
+    <desc>Walker deve occuparsi di una bambina sordomuta che ha assistito all'omicidio di un uomo. Durante una competizione canora a cui partecipa anche Tony, il padre della ragazzina, due assassini cercano di ucciderla, ma l'intervento dei Texas Ranger riesce a sventare l'attentato e a sgominare la banda.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Jerry Jameson</director>
+      <actor role="Cordell &quot;Cord&quot; Walker">Chuck Norris</actor>
+      <actor role="James &quot;Jimmy&quot; Trivette">Clarence Gilyard</actor>
+      <actor role="Vice procuratore Alex Cahill">Sheree J. Wilson</actor>
+      <actor role="C.D. Parker">Noble Willingham</actor>
+      <actor role="Sydney Cooke">Nia Peeples</actor>
+      <actor role="Francis Gage">Judson Mills</actor>
+      <writer>Bob Gookin</writer>
+      <producer>Len Katzman</producer>
+      <guest>Hunter Sullivan</guest>
+      <guest>Eddie Bowz</guest>
+      <guest>Clare Carey</guest>
+      <guest>Rebecca Lovitch</guest>
+      <guest>Joe Penny</guest>
+      <guest>Vic Polizos</guest>
+      <guest>Russ Marker</guest>
+      <guest>Andrew Rothenberg</guest>
+      <guest>Nissa Wisuttismarn</guest>
+      <guest>I'ce Mrozak</guest>
+      <guest>John S. Davies</guest>
+      <guest>Clay Adkins</guest>
+      <guest>John Seda</guest>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
+    <category>Crime drama</category>
+    <category>Western</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
+    <episode-num system="dd_progid">EP019021920181</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20140909" />
+    <previously-shown start="19991106" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>10</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260410191300 +0000" stop="20260410214400 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Firefox: Volpe di fuoco</title>
+    <desc>Mitchell Gant, pilota militare con incarichi speciali, dopo la terribile esperienza della guerra nel Vietnam vive ormai isolato da tutti ma con un jet telepatico rubato ai russi.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Clint Eastwood</director>
+      <actor role="Mitchell Gant">Clint Eastwood</actor>
+      <actor role="Kenneth Aubrey">Freddie Jones</actor>
+      <actor role="Captain Buckholz">David Huffman</actor>
+      <actor role="Pavel Upenskoy">Warren Clarke</actor>
+      <actor role="Semelovsky">Ronald Lacey</actor>
+      <actor role="First Secretary">Stefan Schnabel</actor>
+      <actor role="Walters">Austin Willis</actor>
+      <actor role="Captain Seerbacker">Michael Currie</actor>
+      <writer>Alex Lasker</writer>
+      <writer>Wendell Wellman</writer>
+      <producer>Clint Eastwood</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1982</date>
+    <category>Action</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">137</length>
+    <episode-num system="dd_progid">MV005999550000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>TP</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Medietilsynet">
+      <value>16 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260410214400 +0000" stop="20260411010500 +0000" channel="I84621">
     <title>Il cavaliere pallido</title>
@@ -175821,242 +176666,618 @@
     </star-rating>
   </programme>
   <programme start="20260411010500 +0000" stop="20260411020600 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Arsenico e vecchi merletti</title>
+    <desc>Lo scrittore Mortimer Brewster si innamora perdutamente di Elaine Harper, la classica ragazza della porta accanto. I due convolano a nozze il giorno della festa di Halloween e quando tornano a casa dai rispettivi genitori per dare loro la lieta notizia, scoprono di avere una famiglia particolarmente fuori dal comune.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Frank Capra</director>
+      <actor role="Mortimer Brewster">Cary Grant</actor>
+      <actor role="Jonathan Brewster">Raymond Massey</actor>
+      <actor role="Elaine Harper">Priscilla Lane</actor>
+      <actor role="Dr. Einstein">Peter Lorre</actor>
+      <actor role="Officer Patrick &quot;Pat&quot; O'Hara">Jack Carson</actor>
+      <actor role="Aunt Abby Brewster">Josephine Hull</actor>
+      <actor role="Aunt Martha Brewster">Jean Adair</actor>
+      <actor role="Lt. Rooney">James Gleason</actor>
+      <actor role="Reverend Harper">Grant Mitchell</actor>
+      <actor role="Theodore &quot;Teddy Roosevelt&quot; Brewster">John Alexander</actor>
+      <actor role="Mr. Witherspoon">Edward Everett Horton</actor>
+      <actor role="Police Sgt. Brophy">Edward McNamara</actor>
+      <actor role="Taxi Cab Driver">Garry Owen</actor>
+      <actor role="Officer Saunders">John Ridgely</actor>
+      <actor role="Judge Cullman">Vaughan Glaser</actor>
+      <actor role="Dr. Gilchrist">Chester Clute</actor>
+      <actor role="Reporter at Marriage License Office">Charles Lane</actor>
+      <actor role="Mr. Gibbs">Edward McWade</actor>
+      <actor role="Man in Phone Booth">Leo White</actor>
+      <actor role="Marriage License Clerk">Spencer Charters</actor>
+      <actor role="Photographer at Marriage License Office">Hank Mann</actor>
+      <actor role="Umpire">Lee Phelps</actor>
+      <writer>Joseph Kesselring</writer>
+      <writer>Julius J. Epstein</writer>
+      <writer>Philip G. Epstein</writer>
+      <producer>Jack L. Warner</producer>
+      <producer>Frank Capra</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>1944</date>
+    <category>Comedy</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">118</length>
+    <episode-num system="dd_progid">MV008106520000</episode-num>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>TP</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411020600 +0000" stop="20260411034000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Quattro amici e un matrimonio</title>
+    <desc>Un gruppo di trentenni samoani si ritrova a dover superare la sindrome di Peter Pan, passando dalle avventure di una notte all'amore della loro vita.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Chris Graham</director>
+      <actor role="Albert">Oscar Kightley</actor>
+      <actor role="Stanley">Iaheto Ah Hi</actor>
+      <actor role="Sefa">Shimpal Lelisi</actor>
+      <actor role="Michael">Robbie Magasiva</actor>
+      <actor role="Leilani">Teuila Blakely</actor>
+      <actor role="Tania">Madeleine Sami</actor>
+      <actor role="Bolo/Paul">David Fane</actor>
+      <actor role="Principessa">Maryjane McKibbin-Schwenke</actor>
+      <writer>James Griffin</writer>
+      <writer>Oscar Kightley</writer>
+      <producer>John Barnett</producer>
+      <producer>Mark Horowitz</producer>
+      <producer>Chloe Smith</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <date>2006</date>
+    <category>Comedy</category>
+    <category>Romance</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">97</length>
+    <episode-num system="dd_progid">MV006606620000</episode-num>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM18</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
     </rating>
   </programme>
   <programme start="20260411034000 +0000" stop="20260411040600 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>Gianfilippo riceve la visita di Patrizia, la socia di Gisella. La conversazione si fa animata e sembra che Patrizia cominci a fargli la corte.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0.76.</episode-num>
+    <episode-num system="dd_progid">EP023172020071</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260411040600 +0000" stop="20260411045300 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>La famiglia del quinto piano deve affrontare eventi spaventosi, tra cui catastrofi nucleari, tempeste batteriologiche, invasioni di orrendi mostri extraterrestri e fughe di gas.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">23</length>
+    <episode-num system="xmltv_ns">0.77.</episode-num>
+    <episode-num system="dd_progid">EP023172020072</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260411045300 +0000" stop="20260411071600 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I Cesaroni</title>
+    <sub-title>La ricetta perfetta; Inutile nascondersi</sub-title>
+    <desc>Lucia sfida Giulio nel realizzare una ricetta dello chef Vigiani, da far poi giudicare agli amici. Lucia e Giulio sono preoccupati per Stefania ora che Diego non abita più con loro. Lui, intanto, trova rifugio nel locale di Francesco.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Francesco Vicario</director>
+      <director>Stefano Vicario</director>
+      <director>Francesco Pavolini</director>
+      <actor>Francesco Russo</actor>
+      <actor>Claudio Amendola</actor>
+      <actor>Elena Sofia Ricci</actor>
+      <actor>Antonello Fassari</actor>
+      <actor>Elda Alvigini</actor>
+      <actor>Max Tortora</actor>
+      <writer>Carlo Principini</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">160</length>
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <episode-num system="dd_progid">EP018962130238</episode-num>
+    <previously-shown start="20121130" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260411071600 +0000" stop="20260411092500 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I 3 dell'Operazione Drago</title>
+    <desc>Un esperto di arti marziali viene reclutato da un agente dei servizi segreti per indagare su una pericolosa organizzazione criminale che gestisce una vasta rete di traffici illegali.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Robert Clouse</director>
+      <director>Chaplin Chang</director>
+      <actor role="Lee">Bruce Lee</actor>
+      <actor role="Roper">John Saxon</actor>
+      <actor role="Williams">Jim Kelly</actor>
+      <actor role="Tania">Ahna Capri</actor>
+      <actor role="Su Lin">Angela Mao</actor>
+      <actor role="Oharra">Bob Wall</actor>
+      <actor role="Mei Ling">Betty Chung</actor>
+      <actor role="Braithwaite">Geoffrey Weeks</actor>
+      <actor role="Shaolin Fighter">Sammo Kam-Bo Hung</actor>
+      <writer>Michael Allin</writer>
+      <producer>Raymond Chow</producer>
+      <producer>Paul M. Heller</producer>
+      <producer>Fred Weintraub</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1973</date>
+    <category>Action</category>
+    <category>Adventure</category>
+    <category>Martial arts</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">99</length>
+    <episode-num system="dd_progid">MV013428050000</episode-num>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Arcom">
+      <value>-10</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Medietilsynet">
+      <value>18 år</value>
     </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
     </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411092500 +0000" stop="20260411121400 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Flight</title>
+    <desc>Whip, pilota con gravi problemi di alcolismo, compie un difficile atterraggio di emergenza, divenendo un eroe. Le indagini sulle cause dell'incidente, tuttavia fanno sì che il suo segreto venga allo scoperto.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Robert Zemeckis</director>
+      <director>David Lazan</director>
+      <actor role="Whip Whitaker">Denzel Washington</actor>
+      <actor role="Hugh Lang">Don Cheadle</actor>
+      <actor role="Nicole">Kelly Reilly</actor>
+      <actor role="Harling Mays">John Goodman</actor>
+      <actor role="Charlie Anderson">Bruce Greenwood</actor>
+      <actor role="Ken Evans">Brian Geraghty</actor>
+      <actor role="Margaret Thomason">Tamara Tunie</actor>
+      <actor role="Ellen Block">Melissa Leo</actor>
+      <actor role="Katerina Marquez">Nadine Velazquez</actor>
+      <actor role="Avington Karr">Peter Gerety</actor>
+      <actor role="Deana">Garcelle Beauvais</actor>
+      <actor role="Kip">Conor O'Neill</actor>
+      <actor role="Schecter">Will Sherrod</actor>
+      <actor role="Camelia Satou">Boni Yanagisawa</actor>
+      <actor role="Fran">Adam Tomei</actor>
+      <actor role="Derek Hogue">Dane Davenport</actor>
+      <actor role="Craig Matson">E. Roger Mitchell</actor>
+      <actor role="Dott. Kenan">Ravi Kapoor</actor>
+      <actor role="Mark Mellon">Tommy Kane</actor>
+      <actor role="Len Caldwell">Tom Nowicki</actor>
+      <writer>John Gatins</writer>
+      <producer>Cherylanne Martin</producer>
+      <producer>Walter F. Parkes</producer>
+      <producer>Laurie MacDonald</producer>
+      <producer>Steve Starkey</producer>
+      <producer>Jack Rapke</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2012</date>
+    <category>Drama</category>
+    <category>Thriller</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">138</length>
+    <url>http://www.paramount.com/flight/</url>
+    <episode-num system="dd_progid">MV006666420000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>18</value>
     </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>12</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411121400 +0000" stop="20260411144900 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Firefox: Volpe di fuoco</title>
+    <desc>Mitchell Gant, pilota militare con incarichi speciali, dopo la terribile esperienza della guerra nel Vietnam vive ormai isolato da tutti ma con un jet telepatico rubato ai russi.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Clint Eastwood</director>
+      <actor role="Mitchell Gant">Clint Eastwood</actor>
+      <actor role="Kenneth Aubrey">Freddie Jones</actor>
+      <actor role="Captain Buckholz">David Huffman</actor>
+      <actor role="Pavel Upenskoy">Warren Clarke</actor>
+      <actor role="Semelovsky">Ronald Lacey</actor>
+      <actor role="First Secretary">Stefan Schnabel</actor>
+      <actor role="Walters">Austin Willis</actor>
+      <actor role="Captain Seerbacker">Michael Currie</actor>
+      <writer>Alex Lasker</writer>
+      <writer>Wendell Wellman</writer>
+      <producer>Clint Eastwood</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1982</date>
+    <category>Action</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">137</length>
+    <episode-num system="dd_progid">MV005999550000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>TP</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Medietilsynet">
+      <value>16 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411144900 +0000" stop="20260411170300 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Nella morsa del ragno</title>
+    <desc>Un detective e un agente della CIA indagano sul rapimento della figlia di un senatore, scomparsa mentre si trovava a scuola. Tutte le tracce conducono a un pericoloso mitomane che, in cambio dell'ostaggio, cerca di diventare famoso.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Lee Tamahori</director>
+      <director>Matthew F. Leonetti</director>
+      <director>James Brebner</director>
+      <director>Paul Barry</director>
+      <director>Sandy Cochrane</director>
+      <actor role="Alex Cross">Morgan Freeman</actor>
+      <actor role="Jezzie Flannigan">Monica Potter</actor>
+      <actor role="Gary Soneji">Michael Wincott</actor>
+      <actor role="Elizabeth Rose">Penelope Ann Miller</actor>
+      <actor role="Senator Hank Rose">Michael Moriarty</actor>
+      <actor role="Megan Rose">Mika Boorem</actor>
+      <actor role="Ollie McArthur">Dylan Baker</actor>
+      <actor role="Dimitri Starodubov">Anton Yelchin</actor>
+      <actor role="Agente Hickley">Kim Hawthorne</actor>
+      <actor role="Kyle Craig">Jay O. Sanders</actor>
+      <actor role="Ben Devine">Billy Burke</actor>
+      <writer>Marc Moss</writer>
+      <writer>James Patterson</writer>
+      <producer>David Brown</producer>
+      <producer>Joe Wizan</producer>
+      <producer>Morgan Freeman</producer>
+      <producer>Marty Hornstein</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2001</date>
+    <category>Mystery</category>
+    <category>Thriller</category>
+    <category>Crime drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">104</length>
+    <url>http://www.apple.com/trailers/paramount/along_came_a_spider/</url>
+    <episode-num system="dd_progid">MV006675570000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411170300 +0000" stop="20260411191400 +0000" channel="I84621">
     <title>Testimone involontario</title>
@@ -176111,58 +177332,203 @@
     </star-rating>
   </programme>
   <programme start="20260411191400 +0000" stop="20260411213900 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Formula per un delitto</title>
+    <desc>Due studenti ricchi, intelligenti e soprattutto annoiati decidono senza alcun movente di uccidere una donna a caso, per compiere il delitto perfetto.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Barbet Schroeder</director>
+      <director>Luciano Tovoli</director>
+      <director>Howard Feuer</director>
+      <actor role="Cassie Mayweather">Sandra Bullock</actor>
+      <actor role="Richard Haywood">Ryan Gosling</actor>
+      <actor role="Justin Pendleton">Michael Pitt</actor>
+      <actor role="Lisa">Agnes Bruckner</actor>
+      <actor role="Ray">Chris Penn</actor>
+      <actor role="Rod">R.D. Call</actor>
+      <actor role="Sam Kennedy">Ben Chaplin</actor>
+      <actor role="Asst. D.A. Al Swanson">Tom Verica</actor>
+      <writer>Tony Gayton</writer>
+      <producer>Barbet Schroeder</producer>
+      <producer>Sandra Bullock</producer>
+      <producer>Susan Hoffman</producer>
+      <producer>Richard Crystal</producer>
+      <producer>Jeffrey Stott</producer>
+      <producer>Frank Capra III</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2002</date>
+    <category>Thriller</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="hours">2</length>
+    <url>http://murderbynumbersmovie.warnerbros.com/</url>
+    <episode-num system="dd_progid">MV006185990000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>18</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260411213900 +0000" stop="20260412010900 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Presunto innocente</title>
+    <desc>Un procuratore è coinvolto in un'ossessiva relazione con la sua collaboratrice, la quale viene assassinata. La lotta per dimostrare la propria innocenza si trasforma in un vortice di bugie e passioni nascoste.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Alan J. Pakula</director>
+      <actor role="Rozat `'Rusty'` Sabich">Harrison Ford</actor>
+      <actor role="Raymond Horgan">Brian Dennehy</actor>
+      <actor role="Alejandro `'Sandy'` Stern">Raul Julia</actor>
+      <actor role="Barbara Sabich">Bonnie Bedelia</actor>
+      <actor role="Judge Larren Lyttle">Paul Winfield</actor>
+      <actor role="Carolyn Polhemus">Greta Scacchi</actor>
+      <actor role="Det. Lipranzer">John Spencer</actor>
+      <actor role="Tommy Molto">Joe Grifasi</actor>
+      <actor role="` 'Painless'` Kumagai">Sab Shimono</actor>
+      <actor role="Nat Sabich">Jesse Bradford</actor>
+      <writer>Frank Pierson</writer>
+      <writer>Alan J. Pakula</writer>
+      <producer>Susan Solt</producer>
+      <producer>Sydney Pollack</producer>
+      <producer>Mark Rosenberg</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1990</date>
+    <category>Mystery</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">127</length>
+    <episode-num system="dd_progid">MV006400890000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260412040000 +0000" stop="20260412041000 +0000" channel="I84621">
     <title>Non annunciato</title>
@@ -176191,138 +177557,354 @@
     </rating>
   </programme>
   <programme start="20260412041000 +0000" stop="20260412044500 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>La giornata della famiglia del quinto piano inizia all'insegna dell'imprevisto. Gianfilippo, infatti, porta la colazione a letto ai genitori.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">22</length>
+    <episode-num system="xmltv_ns">0.78.</episode-num>
+    <episode-num system="dd_progid">EP023172020073</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260412044500 +0000" stop="20260412070800 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I Cesaroni</title>
+    <sub-title>Siamo tutti così; Uguali e diversi</sub-title>
+    <desc>Lucia e Stefania si fingono lesbiche per mettere alla prova i mariti, i quali si fingono amanti. Cesare ritrova Carla, sua vecchia conoscenza, che tempo prima era innamorata di lui.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Francesco Vicario</director>
+      <director>Stefano Vicario</director>
+      <director>Francesco Pavolini</director>
+      <actor>Francesco Russo</actor>
+      <actor>Claudio Amendola</actor>
+      <actor>Elena Sofia Ricci</actor>
+      <actor>Antonello Fassari</actor>
+      <actor>Elda Alvigini</actor>
+      <actor>Max Tortora</actor>
+      <writer>Carlo Principini</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">2</length>
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <episode-num system="dd_progid">EP018962130240</episode-num>
+    <previously-shown start="20121207" />
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260412070800 +0000" stop="20260412093800 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Formula per un delitto</title>
+    <desc>Due studenti ricchi, intelligenti e soprattutto annoiati decidono senza alcun movente di uccidere una donna a caso, per compiere il delitto perfetto.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Barbet Schroeder</director>
+      <director>Luciano Tovoli</director>
+      <director>Howard Feuer</director>
+      <actor role="Cassie Mayweather">Sandra Bullock</actor>
+      <actor role="Richard Haywood">Ryan Gosling</actor>
+      <actor role="Justin Pendleton">Michael Pitt</actor>
+      <actor role="Lisa">Agnes Bruckner</actor>
+      <actor role="Ray">Chris Penn</actor>
+      <actor role="Rod">R.D. Call</actor>
+      <actor role="Sam Kennedy">Ben Chaplin</actor>
+      <actor role="Asst. D.A. Al Swanson">Tom Verica</actor>
+      <writer>Tony Gayton</writer>
+      <producer>Barbet Schroeder</producer>
+      <producer>Sandra Bullock</producer>
+      <producer>Susan Hoffman</producer>
+      <producer>Richard Crystal</producer>
+      <producer>Jeffrey Stott</producer>
+      <producer>Frank Capra III</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>2002</date>
+    <category>Thriller</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="hours">2</length>
+    <url>http://murderbynumbersmovie.warnerbros.com/</url>
+    <episode-num system="dd_progid">MV006185990000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Comité de Clasificación de Películas">
+      <value>18</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>16</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>2.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260412093800 +0000" stop="20260412121600 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Presunto innocente</title>
+    <desc>Un procuratore è coinvolto in un'ossessiva relazione con la sua collaboratrice, la quale viene assassinata. La lotta per dimostrare la propria innocenza si trasforma in un vortice di bugie e passioni nascoste.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Alan J. Pakula</director>
+      <actor role="Rozat `'Rusty'` Sabich">Harrison Ford</actor>
+      <actor role="Raymond Horgan">Brian Dennehy</actor>
+      <actor role="Alejandro `'Sandy'` Stern">Raul Julia</actor>
+      <actor role="Barbara Sabich">Bonnie Bedelia</actor>
+      <actor role="Judge Larren Lyttle">Paul Winfield</actor>
+      <actor role="Carolyn Polhemus">Greta Scacchi</actor>
+      <actor role="Det. Lipranzer">John Spencer</actor>
+      <actor role="Tommy Molto">Joe Grifasi</actor>
+      <actor role="` 'Painless'` Kumagai">Sab Shimono</actor>
+      <actor role="Nat Sabich">Jesse Bradford</actor>
+      <writer>Frank Pierson</writer>
+      <writer>Alan J. Pakula</writer>
+      <producer>Susan Solt</producer>
+      <producer>Sydney Pollack</producer>
+      <producer>Mark Rosenberg</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1990</date>
+    <category>Mystery</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">127</length>
+    <episode-num system="dd_progid">MV006400890000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
     </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>16</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>3.5/4</value>
+    </star-rating>
   </programme>
   <programme start="20260412121600 +0000" stop="20260412143700 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Il laureato</title>
+    <desc>Benjamin Braddock, rampollo di una ricca famiglia americana, torna a casa dopo il conseguimento della laurea e si innamora di una ragazza. Tuttavia la madre di quest'ultima finisce per sedurlo.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Mike Nichols</director>
+      <director>Don Kranze</director>
+      <actor role="Benjamin Braddock">Dustin Hoffman</actor>
+      <actor role="Sig.ra Robinson">Anne Bancroft</actor>
+      <actor role="Elaine Robinson">Katharine Ross</actor>
+      <actor role="Sig. Braddock">William Daniels</actor>
+      <actor role="Sig. Robinson">Murray Hamilton</actor>
+      <actor role="Sig.ra Braddock">Elizabeth Wilson</actor>
+      <actor role="Carl Smith">Brian Avery</actor>
+      <actor role="Sig. McGuire">Walter Brooke</actor>
+      <actor role="Sig. McCleery">Norman Fell</actor>
+      <actor role="Sig.ra Singleman">Alice Ghostley</actor>
+      <actor role="Addetto alla reception dell'albergo">Buck Henry</actor>
+      <actor role="Sig.na DeWitte">Marion Lorne</actor>
+      <writer>Charles Webb</writer>
+      <writer>Calder Willingham</writer>
+      <writer>Buck Henry</writer>
+      <producer>Mike Nichols</producer>
+      <producer>Lawrence Turman</producer>
+      <producer>Joseph E. Levine</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1967</date>
+    <category>Comedy drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">105</length>
+    <url>http://www.rialtopictures.com/catalogue/the-graduate</url>
+    <episode-num system="dd_progid">MV006081530000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>4/4</value>
+    </star-rating>
   </programme>
   <programme start="20260412143700 +0000" stop="20260412164700 +0000" channel="I84621">
     <title>Blue Jasmine</title>
@@ -176597,56 +178179,125 @@
     </star-rating>
   </programme>
   <programme start="20260413010900 +0000" stop="20260413031000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>Il laureato</title>
+    <desc>Benjamin Braddock, rampollo di una ricca famiglia americana, torna a casa dopo il conseguimento della laurea e si innamora di una ragazza. Tuttavia la madre di quest'ultima finisce per sedurlo.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Mike Nichols</director>
+      <director>Don Kranze</director>
+      <actor role="Benjamin Braddock">Dustin Hoffman</actor>
+      <actor role="Sig.ra Robinson">Anne Bancroft</actor>
+      <actor role="Elaine Robinson">Katharine Ross</actor>
+      <actor role="Sig. Braddock">William Daniels</actor>
+      <actor role="Sig. Robinson">Murray Hamilton</actor>
+      <actor role="Sig.ra Braddock">Elizabeth Wilson</actor>
+      <actor role="Carl Smith">Brian Avery</actor>
+      <actor role="Sig. McGuire">Walter Brooke</actor>
+      <actor role="Sig. McCleery">Norman Fell</actor>
+      <actor role="Sig.ra Singleman">Alice Ghostley</actor>
+      <actor role="Addetto alla reception dell'albergo">Buck Henry</actor>
+      <actor role="Sig.na DeWitte">Marion Lorne</actor>
+      <writer>Charles Webb</writer>
+      <writer>Calder Willingham</writer>
+      <writer>Buck Henry</writer>
+      <producer>Mike Nichols</producer>
+      <producer>Lawrence Turman</producer>
+      <producer>Joseph E. Levine</producer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
+    <date>1967</date>
+    <category>Comedy drama</category>
+    <category>Feature Film</category>
+    <category>movie</category>
+    <length units="minutes">105</length>
+    <url>http://www.rialtopictures.com/catalogue/the-graduate</url>
+    <episode-num system="dd_progid">MV006081530000</episode-num>
     <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
     </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <star-rating system="Gracenote">
+      <value>4/4</value>
+    </star-rating>
   </programme>
   <programme start="20260413031000 +0000" stop="20260413040000 +0000" channel="I84621">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+    <title>I cinque del quinto piano</title>
+    <desc>Le visite in famiglia si susseguono a ritmo incalzante: prima arriva la maestra di Simone, poi la portinaia, e infine la dog sitter.</desc>
     <credits>
-      <director>Kinga Michalska</director>
+      <director>Guido Stagnaro</director>
+      <actor role="Edoardo">Gianfabio Bosco</actor>
+      <actor role="Gisella">Serena Cantalupi</actor>
+      <actor role="Gianfilippo">Luca Sandri</actor>
+      <actor role="Simone">Niccolò Della Bona</actor>
+      <actor role="Stefania">Georgia D'Ambra</actor>
+      <actor role="Rosalia">Guia Jelo</actor>
+      <writer>Umberto Simonetta</writer>
     </credits>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
-    <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH012857740000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+    <category>Sitcom</category>
+    <category>Comedy</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0.79.</episode-num>
+    <episode-num system="dd_progid">EP023172020076</episode-num>
+    <previously-shown start="19880104" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
     </rating>
   </programme>
   <programme start="20260413040000 +0000" stop="20260413080000 +0000" channel="I84621">
