@@ -12,43 +12,43 @@
     <display-name>Rai Storia HD</display-name>
     <display-name>RAISTHD</display-name>
     <display-name>5054</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I102112">
     <display-name>Rai Scuola HD</display-name>
     <display-name>RAISCHD</display-name>
     <display-name>806</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102112_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I109480">
     <display-name>TV8 HD</display-name>
     <display-name>TV8HDIT</display-name>
     <display-name>125</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109480_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I110089">
     <display-name>QVC HD</display-name>
     <display-name>QVCITHD</display-name>
     <display-name>475</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110089_dark_360w_270h.png" />
   </channel>
   <channel id="I115693">
     <display-name>SuperTennis HD</display-name>
     <display-name>SUPERTE</display-name>
     <display-name>5064</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" />
   </channel>
   <channel id="I122486">
     <display-name>27 TwentySeven</display-name>
     <display-name>TWENTY7</display-name>
     <display-name>158</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I122911">
     <display-name>TV2000 HD</display-name>
     <display-name>TV2000HD</display-name>
     <display-name>157</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I142479">
     <display-name>Rai Radio 2</display-name>
@@ -64,97 +64,97 @@
     <display-name>Rai Sport HD</display-name>
     <display-name>RAISPHD</display-name>
     <display-name>227</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I54778">
     <display-name>Italia 1</display-name>
     <display-name>ITALIA1</display-name>
     <display-name>5006</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54778_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I54779">
     <display-name>Rete 4</display-name>
     <display-name>RETE4</display-name>
     <display-name>5004</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54779_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I54780">
     <display-name>Canale 5</display-name>
     <display-name>CABAKE5</display-name>
     <display-name>5005</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54780_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I56247">
     <display-name>La7</display-name>
     <display-name>LA7ITL</display-name>
     <display-name>5007</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I75287">
     <display-name>QVC</display-name>
     <display-name>QVCITA</display-name>
     <display-name>5032</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I75500">
     <display-name>La 5 HD</display-name>
     <display-name>LA5ITL</display-name>
     <display-name>5030</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" />
   </channel>
   <channel id="I84141">
     <display-name>TV2000</display-name>
     <display-name>TV2000IT</display-name>
     <display-name>5028</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" />
   </channel>
   <channel id="I84597">
     <display-name>Nove</display-name>
     <display-name>NOVE</display-name>
     <display-name>5009</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" />
   </channel>
   <channel id="I84614">
     <display-name>Giallo</display-name>
     <display-name>GIALLO</display-name>
     <display-name>5038</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84614_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84614_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I84621">
     <display-name>Iris HD</display-name>
     <display-name>IRIS</display-name>
     <display-name>5022</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" />
   </channel>
   <channel id="I84622">
     <display-name>Italia 1 HD</display-name>
     <display-name>ITAL1HD</display-name>
     <display-name>106</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
   </channel>
   <channel id="I84638">
     <display-name>La7 Cinema</display-name>
     <display-name>LA7CINE</display-name>
     <display-name>5029</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
   </channel>
   <channel id="I84652">
     <display-name>TV8</display-name>
     <display-name>TV8ITAL</display-name>
     <display-name>5008</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84652_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I84694">
     <display-name>Rai 2 HD</display-name>
     <display-name>RAI2HD</display-name>
     <display-name>5002</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84695">
     <display-name>Rai 3 HD</display-name>
     <display-name>RAI3HD</display-name>
     <display-name>5003</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84696">
     <display-name>Rai 1 HD</display-name>
@@ -166,79 +166,79 @@
     <display-name>Rete 4 HD</display-name>
     <display-name>RETE4HD</display-name>
     <display-name>104</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84701_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I86304">
     <display-name>Sky Uno HD</display-name>
     <display-name>SKUNOHD</display-name>
     <display-name>108</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I86825">
     <display-name>La7 HD</display-name>
     <display-name>LA7HD</display-name>
     <display-name>107</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86825_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I89069">
     <display-name>La7 Cinema HD</display-name>
     <display-name>LA7DHD</display-name>
     <display-name>161</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
   </channel>
   <channel id="I90130">
     <display-name>Real Time</display-name>
     <display-name>DISCRTI</display-name>
     <display-name>5031</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I90601">
     <display-name>DMAX</display-name>
     <display-name>DMAXITA</display-name>
     <display-name>5052</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I91186">
     <display-name>Canale 5 HD</display-name>
     <display-name>CANA5HD</display-name>
     <display-name>105</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I91188">
     <display-name>Cielo HD</display-name>
     <display-name>CIELOHD</display-name>
     <display-name>5026</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I91204">
     <display-name>Rai 4 HD</display-name>
     <display-name>RAI4HD</display-name>
     <display-name>5021</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" />
   </channel>
   <channel id="I91205">
     <display-name>Sky TG24 HD</display-name>
     <display-name>SKTG24H</display-name>
     <display-name>500</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I94884">
     <display-name>Rai Radio 1</display-name>
     <display-name>RAIRAD1</display-name>
     <display-name>8820</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I99980">
     <display-name>Rai Movie HD</display-name>
     <display-name>RAIMOVH</display-name>
     <display-name>5024</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I99981">
     <display-name>Rai Premium HD</display-name>
     <display-name>RAIPRIH</display-name>
     <display-name>5025</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <programme start="20260404003900 +0000" stop="20260404013500 +0000" channel="I100806">
     <title>Italian Beauty</title>
@@ -21991,127 +21991,6 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260404000000 +0000" stop="20260404010000 +0000" channel="I102112">
-    <title>I grandi disastri dell'ingegneria</title>
-    <sub-title>Fukushima e Wenzhou</sub-title>
-    <desc>Gli esseri umani hanno creato strutture e tecnologie per resistere alle forze della natura. Tuttavia, è proprio lo scontro tra questi che può portare a disastri, come a Fukushima e Wenzhou.</desc>
-    <credits>
-      <director>Daniel Sharp</director>
-      <director>Sam Cryer</director>
-      <producer>Sam Cryer</producer>
-      <producer>Daniel Sharp</producer>
-    </credits>
-    <category>Science</category>
-    <category>Documentary</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="hours">1</length>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="dd_progid">EP042153500011</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <previously-shown start="20211208" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="I102112">
-    <title>Progetto scienza: Scienziate</title>
-    <sub-title>Chimica</sub-title>
-    <desc>Agnes Luise Wilhelminec Pockels, chimica dell'impero austroungarico, contribuisce alla nascita della disciplina della scienza delle superfici, la quale descrive le proprietà delle superfici liquide e solide.</desc>
-    <category>Science</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">2021..</episode-num>
-    <episode-num system="dd_progid">EP044811160007</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <previously-shown start="20221111" />
-  </programme>
-  <programme start="20260404013000 +0000" stop="20260404023000 +0000" channel="I102112">
-    <title>Progetto scienza Newton</title>
-    <sub-title>Corpi al limite</sub-title>
-    <desc>Parliamo del metabolismo, dell'ipossia, della meccanica della fisiologia e scopriamo come si allenano gli atleti dei record o semplicemente le persone che lavorano in condizioni ambientali proibitive.</desc>
-    <category>Educational</category>
-    <category>Science</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">55</length>
-    <episode-num system="xmltv_ns">2021.1.</episode-num>
-    <episode-num system="dd_progid">EP043911390002</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <previously-shown start="20220723" />
-  </programme>
-  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="I102112">
-    <title>Un giorno per</title>
-    <sub-title>Il gatto</sub-title>
-    <desc>Raccontiamo il mondo dei gatti e il nostro modo di interagire con loro.</desc>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">2023..</episode-num>
-    <episode-num system="dd_progid">EP048928070027</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <previously-shown start="20240702" />
-  </programme>
-  <programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="I102112">
-    <title>I segreti del colore</title>
-    <sub-title>Le vernici nella pittura su tavola e tela</sub-title>
-    <desc>L'utilizzo delle vernici dall'antichità all'epoca moderna per ottenere determinati effetti ottici e per proteggere i dipinti.</desc>
-    <credits>
-      <director>Claudio Parise</director>
-      <producer>Giorgio Marcucci</producer>
-    </credits>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="dd_progid">EP034632100019</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="20201206" />
-    <subtitles type="teletext" />
-  </programme>
-  <programme start="20260404033000 +0000" stop="20260404050000 +0000" channel="I102112">
-    <title>Donne di scienza</title>
-    <sub-title>Alessandra Celletti</sub-title>
-    <desc>Alessandra Celletti, matematica ed astronoma, racconta la propria attività di ricerca, dedicata principalmente alla meccanica celeste.</desc>
-    <category>Documentary</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="dd_progid">EP031108470003</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <previously-shown start="20190201" />
-  </programme>
   <programme start="20260404050000 +0000" stop="20260404055000 +0000" channel="I102112">
     <title>Namibia: Il deserto racconta</title>
     <desc>Partiamo insieme per compiere un viaggio alla scoperta della Namibia e del suo deserto.</desc>
@@ -42560,7 +42439,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260418120000 +0000" stop="20260418160000 +0000" channel="I110089">
+  <programme start="20260418120000 +0000" stop="20260418190000 +0000" channel="I110089">
     <title>Non annunciato</title>
     <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
     <credits>
@@ -42586,31 +42465,15 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260418160000 +0000" stop="20260418200000 +0000" channel="I110089">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
+  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="I110089">
+    <title>Best of the day</title>
+    <desc>Una selezione delle migliori offerte riguardo a prodotti per la casa, la persona e il tempo libero.</desc>
     <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
+    <category>Shopping</category>
     <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">SH061100390000</episode-num>
+    <previously-shown start="20251015" />
   </programme>
   <programme start="20260418200000 +0000" stop="20260419010000 +0000" channel="I110089">
     <title>Non annunciato</title>
@@ -43644,17 +43507,32 @@
     <previously-shown start="20260403" />
   </programme>
   <programme start="20260405093000 +0000" stop="20260405103000 +0000" channel="I115693">
-    <title>Tennis: Credit One Charleston Open 2025</title>
-    <desc>Da Charleston, Stati Uniti.</desc>
+    <title>ATP Tennis</title>
+    <sub-title>Alejandro Tabilo(Chi) vs Lorenzo Musetti (Ita)</sub-title>
+    <desc>Copertura televisiva dei migliori incontri di tennis nazionali ed internazionali.</desc>
+    <category>Classic sport event</category>
     <category>Tennis</category>
     <category>Sports event</category>
-    <category>sports</category>
-    <length units="hours">4</length>
-    <episode-num system="dd_progid">SH056909480000</episode-num>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2025.35.</episode-num>
+    <episode-num system="dd_progid">EP038013210716</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20250331" />
+    <previously-shown start="20260405" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
   </programme>
   <programme start="20260405103000 +0000" stop="20260405104500 +0000" channel="I115693">
     <title>Supertennis Today</title>
@@ -43698,7 +43576,7 @@
     </video>
     <previously-shown start="20201016" />
   </programme>
-  <programme start="20260405120000 +0000" stop="20260405124500 +0000" channel="I115693">
+  <programme start="20260405120000 +0000" stop="20260405121000 +0000" channel="I115693">
     <title>Tennis: Open Città della Disfida 2024</title>
     <desc>Da Barletta, Italia.</desc>
     <category>Tennis</category>
@@ -43711,7 +43589,19 @@
     </video>
     <previously-shown start="20240331" />
   </programme>
-  <programme start="20260405124500 +0000" stop="20260405134500 +0000" channel="I115693">
+  <programme start="20260405121000 +0000" stop="20260405122500 +0000" channel="I115693">
+    <title>Race to Foro</title>
+    <category>Tennis</category>
+    <category>Series</category>
+    <category>tvshow</category>
+    <length units="minutes">15</length>
+    <episode-num system="dd_progid">SH042583520000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20220403" />
+  </programme>
+  <programme start="20260405122500 +0000" stop="20260405134500 +0000" channel="I115693">
     <title>Best of ATP</title>
     <sub-title>Lorenzo MUSETTI (ITA) vsAlexander ZVEREV(GER)</sub-title>
     <desc>Tutte le migliori partite del torneo maschile di ATP.</desc>
@@ -56774,34 +56664,32 @@
   </programme>
   <programme start="20260410173100 +0000" stop="20260410182300 +0000" channel="I122486">
     <title>Colombo</title>
-    <sub-title>Scacco matto a Scotland Yard</sub-title>
-    <desc>Mentre si trova in Gran Bretagna per un periodo di studio a Scotland Yard, il tenente Colombo indaga su un omicidio legato al mondo del teatro.</desc>
+    <sub-title>Concerto con delitto</sub-title>
+    <desc>Alex Benedict, un famoso direttore d'orchestra viene ricattato dalla sua amante Jennifer Welles che minaccia di provocare uno scandalo rendendo pubblica la loro relazione. L'uomo, preoccupato per la sua reputazione e terrorizzato all'idea che la moglie Janice venga a conoscenza della sua tresca amorosa, decide di impedire a Jennifer di mettere in atto i suoi propositi.</desc>
     <credits>
-      <director>Richard Quine</director>
+      <director>Nicholas Colasanto</director>
       <actor role="Lt. Columbo">Peter Falk</actor>
-      <writer>Jackson Gillis</writer>
-      <guest>John Williams</guest>
-      <guest>Richard Basehart</guest>
-      <guest>Honor Blackman</guest>
-      <guest>Bernard Fox</guest>
-      <guest>Wilfrid Hyde-White</guest>
-      <guest>John Fraser</guest>
-      <guest>Richard Pearson</guest>
-      <guest>Arthur Malet</guest>
-      <guest>Harvey Jason</guest>
-      <guest>Ronald Long</guest>
-      <guest>John Orchard</guest>
-      <guest>Peter Church</guest>
-      <guest>Walker Edmiston</guest>
+      <writer>Steven Bochco</writer>
+      <guest>Anjanette Comer</guest>
+      <guest>John Cassavetes</guest>
+      <guest>Blythe Danner</guest>
+      <guest>Myrna Loy</guest>
+      <guest>James Olson</guest>
+      <guest>James McEachin</guest>
+      <guest>Don Knight</guest>
+      <guest>Pat Morita</guest>
+      <guest>Michael Fox</guest>
+      <guest>Dawn Frame</guest>
+      <guest>Charles Macaulay</guest>
     </credits>
     <category>Crime drama</category>
     <category>Mystery</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">98</length>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="dd_progid">EP019394620037</episode-num>
-    <previously-shown start="19721126" />
+    <length units="minutes">97</length>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <episode-num system="dd_progid">EP019394620033</episode-num>
+    <previously-shown start="19720917" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating>
@@ -56816,9 +56704,6 @@
     </rating>
     <rating system="Régie du cinéma">
       <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
@@ -57185,7 +57070,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260410234000 +0000" stop="20260411011800 +0000" channel="I122486">
+  <programme start="20260410234000 +0000" stop="20260411002100 +0000" channel="I122486">
     <title>Shameless</title>
     <sub-title>La donna volubile non ne può più</sub-title>
     <desc>Mickey si sente fuori posto a vivere nel quartiere borghese del West Side e questo rischia di minare i rapporti con Ian. Quest'ultimo, infatti, vuole lasciarsi definitivamente alle spalle la vita precedente, mentre Kev è pieno di ripensamenti.</desc>
@@ -57248,36 +57133,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260411011800 +0000" stop="20260411012100 +0000" channel="I122486">
-    <title>Due per tre</title>
-    <sub-title>Mister pannolino</sub-title>
-    <desc>Gli Antonioli devono convincere una giovane moglie in carriera a dare un figlio a un amico e cliente di Giorgio. In loro aiuto arriva una vicina, che decide di lasciare proprio bambino alla famiglia per mezza giornata.</desc>
-    <credits>
-      <director>Roberto Valentini</director>
-      <actor>Johnny Dorelli</actor>
-      <actor>Loretta Goggi</actor>
-      <actor>Sabrina Marciano</actor>
-      <actor>Susanna Ruffini</actor>
-      <actor>Marta Forghieri</actor>
-      <actor>Elisabetta Torlasco</actor>
-      <writer>Giorgio Vignali</writer>
-    </credits>
-    <category>Sitcom</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
-    <episode-num system="dd_progid">EP006398750029</episode-num>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="19980405" />
-    <subtitles type="teletext" />
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
-    </rating>
-  </programme>
-  <programme start="20260411012100 +0000" stop="20260411021500 +0000" channel="I122486">
+  <programme start="20260411002100 +0000" stop="20260411011800 +0000" channel="I122486">
     <title>Due per tre</title>
     <sub-title>L'anello di San Martino</sub-title>
     <desc>Gli Antonioli esplorano una vecchia tradizione di San Martino: chi trova l'anello in una torta acquista il diritto di comandare per un giorno il resto della famiglia.</desc>
@@ -57301,6 +57157,35 @@
       <stereo>stereo</stereo>
     </audio>
     <previously-shown start="19980503" />
+    <subtitles type="teletext" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260411011800 +0000" stop="20260411021500 +0000" channel="I122486">
+    <title>Due per tre</title>
+    <sub-title>Mister pannolino</sub-title>
+    <desc>Gli Antonioli devono convincere una giovane moglie in carriera a dare un figlio a un amico e cliente di Giorgio. In loro aiuto arriva una vicina, che decide di lasciare proprio bambino alla famiglia per mezza giornata.</desc>
+    <credits>
+      <director>Roberto Valentini</director>
+      <actor>Johnny Dorelli</actor>
+      <actor>Loretta Goggi</actor>
+      <actor>Sabrina Marciano</actor>
+      <actor>Susanna Ruffini</actor>
+      <actor>Marta Forghieri</actor>
+      <actor>Elisabetta Torlasco</actor>
+      <writer>Giorgio Vignali</writer>
+    </credits>
+    <category>Sitcom</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <episode-num system="dd_progid">EP006398750029</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="19980405" />
     <subtitles type="teletext" />
     <rating system="Italy Content Provider Ratings">
       <value>T</value>
@@ -93085,7 +92970,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410034900 +0000" stop="20260410044300 +0000" channel="I54778">
+  <programme start="20260410034900 +0000" stop="20260410040000 +0000" channel="I54778">
     <title>Miami Vice</title>
     <sub-title>Una storia di boxe</sub-title>
     <desc>Zito diventa l'allenatore di una promettente star della boxe, mentre Crockett e Tubbs si fingono i suoi agenti, per smascherare un giro di riciclaggio di denaro.</desc>
@@ -93139,7 +93024,61 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410044300 +0000" stop="20260410054300 +0000" channel="I54778">
+  <programme start="20260410040000 +0000" stop="20260410044700 +0000" channel="I54778">
+    <title>Miami Vice</title>
+    <sub-title>Una storia di boxe</sub-title>
+    <desc>Zito diventa l'allenatore di una promettente star della boxe, mentre Crockett e Tubbs si fingono i suoi agenti, per smascherare un giro di riciclaggio di denaro.</desc>
+    <credits>
+      <director>Richard Compton</director>
+      <actor role="Investigatore James Sonny Crockett">Don Johnson</actor>
+      <actor role="Investigatore Ricardo Tubbs">Philip Michael Thomas</actor>
+      <actor role="Tenente Castillo">Edward James Olmos</actor>
+      <actor role="Investigatrice Gina Navarro Calabrese">Saundra Santiago</actor>
+      <actor role="Investrigatrice Trudy Joplin">Olivia Brown</actor>
+      <actor role="Investigatore Stan Switek">Michael Talbott</actor>
+      <actor role="Investigatore Larry Zito">John Diehl</actor>
+      <writer>Dick Wolf</writer>
+      <writer>John Schulian</writer>
+      <producer>Michael Mann</producer>
+      <guest>Mark Breland</guest>
+      <guest>Randall "Tex" Cobb</guest>
+      <guest>Don King</guest>
+      <guest>Pepe Serna</guest>
+      <guest>Antoni Corone</guest>
+      <guest>Hector Echavarria</guest>
+    </credits>
+    <category>Crime drama</category>
+    <category>Action</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">2.11.0/2</episode-num>
+    <episode-num system="dd_progid">EP018804540029</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="19870109" />
+    <subtitles type="teletext" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260410044700 +0000" stop="20260410054500 +0000" channel="I54778">
     <title>MacGyver</title>
     <sub-title>Pilota</sub-title>
     <desc>MacGyver deve recarsi in una base segreta dell'esercito dove una tremenda esplosione ha messo in pericolo la vita di molte persone tra cui due noti scienziati.</desc>
@@ -93204,20 +93143,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410054300 +0000" stop="20260410064000 +0000" channel="I54778">
+  <programme start="20260410054500 +0000" stop="20260410064100 +0000" channel="I54778">
     <title>MacGyver</title>
-    <sub-title>La sfida</sub-title>
-    <desc>MacGyver viene inviato in un paese del Centro America dall'editore di un giornale che non ha più notizie di una sua fotografa, Kate Connolly. Quest'ultima si trova lì per motivi di ricerca, ma non ha più contattato la sua redazione da tempo.</desc>
+    <sub-title>Il triangolo d'oro</sub-title>
+    <desc>MacGyver è un agente della Fondazione Phoenix. È un eroe solitario che non fa uso di violenza o di armi da fuoco. Aiuta i deboli, rispetta l'ambiente, ama il prossimo ed ha fiducia nella legge.</desc>
     <credits>
-      <director>Lee H. Katzin</director>
+      <director>Paul Stanley</director>
       <actor role="MacGyver">Richard Dean Anderson</actor>
       <actor role="Peter Thornton">Dana Elcar</actor>
-      <writer>Stephan Kandel</writer>
-      <guest>Robin Curtis</guest>
-      <guest>John Vernon</guest>
-      <guest>Gregory Sierra</guest>
-      <guest>Sam Vlahos</guest>
-      <guest>Marco Lopez</guest>
+      <writer>Dennis Foley</writer>
+      <guest>Joan Chen</guest>
+      <guest>George Kee Cheung</guest>
+      <guest>Clyde Kusatsu</guest>
+      <guest>Keye Luke</guest>
+      <guest>Benjamin Lum</guest>
+      <guest>Bryan Price</guest>
+      <guest>James Saito</guest>
     </credits>
     <category>Drama</category>
     <category>Adventure</category>
@@ -93225,12 +93166,15 @@
     <category>Series</category>
     <category>series</category>
     <length units="minutes">49</length>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="dd_progid">EP036827540004</episode-num>
-    <previously-shown start="19851021" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="dd_progid">EP036827540002</episode-num>
+    <previously-shown start="19851006" />
     <subtitles type="teletext" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
@@ -93243,9 +93187,6 @@
     </rating>
     <rating system="Régie du cinéma">
       <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
@@ -93266,7 +93207,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410064000 +0000" stop="20260410073600 +0000" channel="I54778">
+  <programme start="20260410064100 +0000" stop="20260410073600 +0000" channel="I54778">
     <title>Chicago Fire</title>
     <sub-title>Cos'è successo al Whiskey Point?</sub-title>
     <desc>Boden pensa al passato di Pelham mentre contempla una decisione. Il risentimento di Gallo nei confronti di Pelham arriva al culmine. Brett e Ritter costringono Violet ad affrontare i suoi veri sentimenti per Gallo.</desc>
@@ -93638,7 +93579,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410102500 +0000" stop="20260410105900 +0000" channel="I54778">
+  <programme start="20260410102500 +0000" stop="20260410110000 +0000" channel="I54778">
     <title>Studio Aperto</title>
     <sub-title>10.04.2026, 12.25</sub-title>
     <desc>Edizione del notiziario televisivo a cura della redazione giornalistica di Italia 1. Dal Gennaio 1991, ogni giorno, le notizie più importanti a livello nazionale ed internazionale.</desc>
@@ -93664,7 +93605,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410105900 +0000" stop="20260410110900 +0000" channel="I54778">
+  <programme start="20260410110000 +0000" stop="20260410111000 +0000" channel="I54778">
     <title>Grande fratello VIP: Day time</title>
     <desc>Dieci minuti con immagini inedite di quanto succede nella casa più famosa d'Italia, abitata per la prima volta da stelle più o meno luminose del mondo dello spettacolo e della vita pubblica.</desc>
     <credits>
@@ -93682,7 +93623,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410110900 +0000" stop="20260410115800 +0000" channel="I54778">
+  <programme start="20260410111000 +0000" stop="20260410115900 +0000" channel="I54778">
     <title>Sport Mediaset</title>
     <desc>Telegiornale sportivo: novità, anticipazioni, collegamenti in diretta e servizi in esclusiva. Il programma erede di 'Studio Sport' continua a portare nelle case degli italiani le più aggiornate e complete informazioni sul mondo dell'agonismo.</desc>
     <credits>
@@ -93704,23 +93645,23 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410115800 +0000" stop="20260410121200 +0000" channel="I54778">
+  <programme start="20260410115900 +0000" stop="20260410121300 +0000" channel="I54778">
     <title>Sport Mediaset Extra</title>
     <desc>Segui le ultime novità dal mondo dello sport.</desc>
     <category>News</category>
     <category>Sports non-event</category>
     <category>series</category>
-    <length units="hours">1</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
-    <episode-num system="dd_progid">EP020870980397</episode-num>
+    <episode-num system="dd_progid">EP020870980412</episode-num>
     <rating system="Italy Content Provider Ratings">
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410121200 +0000" stop="20260410123900 +0000" channel="I54778">
+  <programme start="20260410121300 +0000" stop="20260410123900 +0000" channel="I54778">
     <title>I Simpson</title>
-    <sub-title>Questa pazza pazza pazza pazza Marge</sub-title>
-    <desc>La fidanzata di Otto, abbandonata sull'altare, si trasferisce temporaneamente a casa Simpson. La giovane attira subito su di sé le simpatie di tutti, ma Marge inizia a sospettare che nasconda qualcosa.</desc>
+    <sub-title>Lisa l'ambientalista</sub-title>
+    <desc>Lisa viene convinta da un gruppo di ambientalisti estremi a vivere su un albero per evitare che venga abbattuto.</desc>
     <credits>
       <actor role="Homer Jay Simpson/Barney Gumble/Nonno Simpson/Sindaco Joe Quimby/Krusty il Clown/Giardiniere Willie">Dan Castellaneta</actor>
       <actor role="Marjorie Bouvier Simpson/Patty Bouvier/Selma Bouvier/Nonna Jackie Bouvier">Julie Kavner</actor>
@@ -93728,12 +93669,11 @@
       <actor role="Lisa Marie Simpson">Yeardley Smith</actor>
       <actor role="Charles Montgomery Burns/Waylon Smithers/Preside Seymour Skinner/Ned Flanders/Otto Mann/Scratchy/Kent Brockman/Reverendo Timothy Lovejoy">Harry Shearer</actor>
       <actor role="Boe Szyslak/Nahasapeemapetilon/Commissario Clarence Winchester/Dott. Nick Riviera">Hank Azaria</actor>
-      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
-      <actor role="Edna Krabappel">Marcia Wallace</actor>
-      <actor role="Drummer">Marc Wilmore</actor>
-      <actor role="Becky">Parker Posey</actor>
+      <actor role="Jesse Grass">Joshua Jackson</actor>
+      <actor role="Herself">Leeza Gibbons</actor>
       <actor role="Dolph">Tress MacNeille</actor>
-      <actor role="Psychologist 2">Karl Wiedergott</actor>
+      <actor role="Caleb">Karl Wiedergott</actor>
+      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
       <producer>James L. Brooks</producer>
       <producer>Matt Groening</producer>
       <producer>David Mirkin</producer>
@@ -93743,12 +93683,12 @@
     <category>Series</category>
     <category>series</category>
     <length units="minutes">23</length>
-    <episode-num system="xmltv_ns">10.20.</episode-num>
-    <episode-num system="dd_progid">EP018737290286</episode-num>
+    <episode-num system="xmltv_ns">11.3.</episode-num>
+    <episode-num system="dd_progid">EP018737290431</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20000514" />
+    <previously-shown start="20001119" />
     <subtitles type="teletext" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -93756,11 +93696,11 @@
     <rating system="Film &amp; Publication Board">
       <value>PG</value>
     </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>PG</value>
@@ -93768,14 +93708,17 @@
     <rating system="Régie du cinéma">
       <value>8+</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
     <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+    <rating system="UK Content Provider">
+      <value>PG</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
@@ -93783,20 +93726,94 @@
     <rating system="Arcom">
       <value>-10</value>
     </rating>
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
-    </rating>
     <rating system="방송통신심의위원회">
       <value>15</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>6</value>
+      <value>12</value>
     </rating>
     <rating system="Goed Gezien">
       <value>6</value>
     </rating>
   </programme>
-  <programme start="20260410123900 +0000" stop="20260410133600 +0000" channel="I54778">
+  <programme start="20260410123900 +0000" stop="20260410130400 +0000" channel="I54778">
+    <title>I Simpson</title>
+    <sub-title>Homer si gioca la dignità</sub-title>
+    <desc>Homer si trova in difficoltà economiche così, pur di ottenere un aumento dal signor Burns, accetta di subire continue umiliazioni.</desc>
+    <credits>
+      <actor role="Homer Jay Simpson/Barney Gumble/Nonno Simpson/Sindaco Joe Quimby/Krusty il Clown/Giardiniere Willie">Dan Castellaneta</actor>
+      <actor role="Marjorie Bouvier Simpson/Patty Bouvier/Selma Bouvier/Nonna Jackie Bouvier">Julie Kavner</actor>
+      <actor role="Bartholomew &quot;Bart&quot; JoJo Simpson/Nelson Muntz">Nancy Cartwright</actor>
+      <actor role="Lisa Marie Simpson">Yeardley Smith</actor>
+      <actor role="Boe Szyslak/Nahasapeemapetilon/Commissario Clarence Winchester/Dott. Nick Riviera">Hank Azaria</actor>
+      <actor role="Charles Montgomery Burns/Waylon Smithers/Preside Seymour Skinner/Ned Flanders/Otto Mann/Scratchy/Kent Brockman/Reverendo Timothy Lovejoy">Harry Shearer</actor>
+      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
+      <actor role="Dolph">Tress MacNeille</actor>
+      <actor role="Edna Krabappel">Marcia Wallace</actor>
+      <actor role="Additional Voices">Karl Wiedergott</actor>
+      <producer>James L. Brooks</producer>
+      <producer>Matt Groening</producer>
+      <producer>David Mirkin</producer>
+    </credits>
+    <category>Animated</category>
+    <category>Sitcom</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">23</length>
+    <episode-num system="xmltv_ns">11.4.</episode-num>
+    <episode-num system="dd_progid">EP018737290432</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20001126" />
+    <subtitles type="teletext" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>8+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20260410130400 +0000" stop="20260410135500 +0000" channel="I54778">
     <title>NCIS: Los Angeles</title>
     <sub-title>Il guardiano</sub-title>
     <desc>Callen e Sam si recano su di una nave ammiraglia nel Golfo Persico per collaborare con il capitano Harmon Rabb quando la squadra viene a conoscenza della presenza di simpatizzanti dell'ISIS sul vascello.</desc>
@@ -93879,7 +93896,7 @@
       <value>A14</value>
     </rating>
   </programme>
-  <programme start="20260410133600 +0000" stop="20260410143300 +0000" channel="I54778">
+  <programme start="20260410135500 +0000" stop="20260410144700 +0000" channel="I54778">
     <title>NCIS: Los Angeles</title>
     <sub-title>Sotto falsa bandiera</sub-title>
     <desc>Callen e Sam collaborano con il capitano Harmon Rabb per scovare un gruppo di simpatizzanti dell'ISIS a bordo di una imbarcazione. Hetty si appoggia ad una amica per ottenere informazioni da un diplomatico russo.</desc>
@@ -93973,7 +93990,7 @@
       <value>A14</value>
     </rating>
   </programme>
-  <programme start="20260410143300 +0000" stop="20260410152400 +0000" channel="I54778">
+  <programme start="20260410144700 +0000" stop="20260410153500 +0000" channel="I54778">
     <title>MacGyver</title>
     <sub-title>Tra male e peggio</sub-title>
     <desc>I piani attentamente elaborati da un nuovo avversario costringono Mac a compiere una scelta difficile: salvare la vita di un amico o quelle di centinaia di innocenti. L'uomo riceve nuove informazioni riguardo al padre.</desc>
@@ -94055,7 +94072,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410152400 +0000" stop="20260410162000 +0000" channel="I54778">
+  <programme start="20260410153500 +0000" stop="20260410162100 +0000" channel="I54778">
     <title>MacGyver</title>
     <sub-title>Dalle ceneri</sub-title>
     <desc>L'ex agente dell'MI6 Russ Taylor recluta gli ex membri della Phoenix Foundation Mac, Riley, Bozer, Matty e Desi. L'obiettivo è recuperare un'arma biologica che dovrebbe essere utilizzata da una misteriosa organizzazione per un attacco terroristico.</desc>
@@ -94139,7 +94156,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410162000 +0000" stop="20260410163000 +0000" channel="I54778">
+  <programme start="20260410162100 +0000" stop="20260410163000 +0000" channel="I54778">
     <title>Studio Aperto Live</title>
     <desc>A cura della redazione di Studio Aperto, una breve anteprima delle notizie che verranno trattate nell'edizione in onda subito dopo.</desc>
     <credits>
@@ -94185,7 +94202,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410165300 +0000" stop="20260410170600 +0000" channel="I54778">
+  <programme start="20260410165300 +0000" stop="20260410170700 +0000" channel="I54778">
     <title>Grande fratello VIP: Day time</title>
     <desc>Dieci minuti con immagini inedite di quanto succede nella casa più famosa d'Italia, abitata per la prima volta da stelle più o meno luminose del mondo dello spettacolo e della vita pubblica.</desc>
     <credits>
@@ -94203,7 +94220,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410170600 +0000" stop="20260410173200 +0000" channel="I54778">
+  <programme start="20260410170700 +0000" stop="20260410173300 +0000" channel="I54778">
     <title>Studio Aperto mag</title>
     <desc>Rotocalco informativo dal piglio giovane e diretto, a cura della redazione di 'Studio aperto': sport, mondo social, moda, divertimento e politica.</desc>
     <credits>
@@ -94220,12 +94237,12 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410173200 +0000" stop="20260410183600 +0000" channel="I54778">
+  <programme start="20260410173300 +0000" stop="20260410183700 +0000" channel="I54778">
     <title>CSI: Scena del crimine</title>
-    <sub-title>Falso colpevole</sub-title>
-    <desc>Il team di Grissom indaga sulla morte di una donna. Il marito ha dichiarato che questa è deceduta dopo essere precipitata dalle scale.</desc>
+    <sub-title>Servizio in camera</sub-title>
+    <desc>Una promettente stella del cinema viene trovata cadavere nella sua camera d'albergo. Nick e Sophia scoprono che la vittima aveva trascorso la notte a festeggiare con un gruppo di suoi scatenati fan.</desc>
     <credits>
-      <director>Jeffrey Hunt</director>
+      <director>Ken Fink</director>
       <actor role="Gil Grissom">William Petersen</actor>
       <actor role="Catherine Willows">Marg Helgenberger</actor>
       <actor role="Warrick Brown">Gary Dourdan</actor>
@@ -94234,7 +94251,8 @@
       <actor role="Capitano Jim Brass">Paul Guilfoyle</actor>
       <actor role="Greg Sanders">Eric Szmanda</actor>
       <actor role="Dottor Al Robbins">Robert David Hall</actor>
-      <writer>Josh Berman</writer>
+      <writer>Dustin Lee Abraham</writer>
+      <writer>Henry Alonso Myers</writer>
       <producer>Jerry Bruckheimer</producer>
       <producer>Carol Mendelsohn</producer>
       <producer>Ann Donahue</producer>
@@ -94243,19 +94261,23 @@
       <guest>David Berman</guest>
       <guest>Louise Lombard</guest>
       <guest>Wallace Langham</guest>
-      <guest>Marc Vann</guest>
       <guest>Archie Kao</guest>
-      <guest>Erik Jensen</guest>
-      <guest>Jon Wellner</guest>
-      <guest>Reed Diamond</guest>
-      <guest>Abigail Spencer</guest>
-      <guest>Skye McCole Bartusiak</guest>
-      <guest>Alan Rachins</guest>
-      <guest>Seamus Dever</guest>
-      <guest>Mary Jo Mrochinski</guest>
-      <guest>Hudson Leick</guest>
-      <guest>Jeff Bass</guest>
-      <guest>Mitchell Fink</guest>
+      <guest>Eric Winter</guest>
+      <guest>Jeff D'Agostino</guest>
+      <guest>Kristin Richardson</guest>
+      <guest>Chi Muoi Lo</guest>
+      <guest>Paul Statman</guest>
+      <guest>Silas Weir Mitchell</guest>
+      <guest>Alona Tal</guest>
+      <guest>Maite Schwartz</guest>
+      <guest>Art Chudabala</guest>
+      <guest>Larry Mitchell</guest>
+      <guest>David Kagen</guest>
+      <guest>Kyle Davis</guest>
+      <guest>Tang Nguyen</guest>
+      <guest>Paul Dillon</guest>
+      <guest>Tess Lina</guest>
+      <guest>Jeri Weil</guest>
     </credits>
     <category>Crime drama</category>
     <category>Action</category>
@@ -94263,13 +94285,13 @@
     <category>Mystery</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">45</length>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
-    <episode-num system="dd_progid">EP018809450084</episode-num>
+    <length units="minutes">44</length>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <episode-num system="dd_progid">EP018809450086</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20051006" />
+    <previously-shown start="20050929" />
     <subtitles type="teletext" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
@@ -94295,14 +94317,14 @@
     <rating system="UK Content Provider">
       <value>PG</value>
     </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
     <rating system="방송통신심의위원회">
       <value>15</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
     </rating>
     <rating system="Arcom">
       <value>-12</value>
@@ -94317,7 +94339,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410183600 +0000" stop="20260410192000 +0000" channel="I54778">
+  <programme start="20260410183700 +0000" stop="20260410192700 +0000" channel="I54778">
     <title>NCIS: Unità anticrimine</title>
     <sub-title>Affari interni</sub-title>
     <desc>Il cadavere di La Grenouille viene ritrovato solo ora nel porto. Il team viene messo sotto inchiesta e l'indagine interna viene affidata all'FBI. Per primo viene indagato Tony ma alla fine si scopre che è stato un agente della CIA sotto copertura.</desc>
@@ -94387,7 +94409,7 @@
       <value>A16</value>
     </rating>
   </programme>
-  <programme start="20260410192000 +0000" stop="20260410214500 +0000" channel="I54778">
+  <programme start="20260410192700 +0000" stop="20260410215000 +0000" channel="I54778">
     <title>Aquaman e il regno perduto</title>
     <desc>Aquaman prova ogni mezzo per salvare la città sottomarina di Atlantide e il resto del pianeta dall'imminente rovina. Per ridurre al minimo i danni, dovrà sforzarsi di stringere un'alleanza difficile con un improbabile alleato.</desc>
     <credits>
@@ -94495,7 +94517,7 @@
       <value>2/4</value>
     </star-rating>
   </programme>
-  <programme start="20260410214500 +0000" stop="20260411011400 +0000" channel="I54778">
+  <programme start="20260410215000 +0000" stop="20260410235900 +0000" channel="I54778">
     <title>Terminator Genisys</title>
     <desc>Anno 2029, un cyborg viene inviato nel 1984 per uccidere Sarah Connor, la donna che è destinata a dare alla luce il futuro capo della resistenza del genere umano contro il dominio delle macchine.</desc>
     <credits>
@@ -94618,7 +94640,7 @@
       <value>2/4</value>
     </star-rating>
   </programme>
-  <programme start="20260411011400 +0000" stop="20260411013200 +0000" channel="I54778">
+  <programme start="20260410235900 +0000" stop="20260411001500 +0000" channel="I54778">
     <title>Studio Aperto: La giornata</title>
     <desc>Aggiornamenti sugli eventi nazionali ed internazionali e relativi approfondimenti. Una selezione delle più importanti notizie dalla giornata in corso proposta dalla redazione giornalistica di Italia 1.</desc>
     <category>News</category>
@@ -94631,7 +94653,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411013200 +0000" stop="20260411013800 +0000" channel="I54778">
+  <programme start="20260411001500 +0000" stop="20260411003000 +0000" channel="I54778">
     <title>Sport Mediaset: La giornata</title>
     <desc>Approfondimento sul mondo del calcio e dello sport a cura della redazione di Sport Mediaset.</desc>
     <credits>
@@ -94648,33 +94670,49 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411013800 +0000" stop="20260411015200 +0000" channel="I54778">
-    <title>Ramses: Storia di un grande re</title>
-    <sub-title>Infanzia reale</sub-title>
-    <desc>Dopo il breve regno di Ramses I, sale al trono d'Egitto il figlio Seti I. Fin da subito, Seti si dedica alla costruzione di monumenti che immortalano la sua grandezza, ma tutti gli occhi sono puntati sul giovane principe Ramses.</desc>
+  <programme start="20260411003000 +0000" stop="20260411011800 +0000" channel="I54778">
+    <title>Mega Shippers</title>
+    <sub-title>Monopali: Prima parte; La locomotiva King Edward II</sub-title>
+    <desc>Una storica locomotiva a vapore, la King Edward II, fa un viaggio di 360 km. Un trasporto eccezionale parte dalla Germania verso Paesi Bassi.</desc>
     <credits>
-      <director>Sigrid Clement</director>
-      <director>Samuel Collardey</director>
+      <producer>David Notman-Watt</producer>
     </credits>
     <category>Documentary</category>
-    <category>Ancient history</category>
+    <category>Technology</category>
+    <category>Science</category>
+    <category>Boat</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">50</length>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="dd_progid">EP053310540002</episode-num>
-    <previously-shown start="20240212" />
-    <rating system="Arcom">
-      <value>Tous publics</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="UK Content Provider">
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="dd_progid">EP024413690024</episode-num>
+    <previously-shown start="20200915" />
+    <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20260411015200 +0000" stop="20260411022500 +0000" channel="I54778">
+  <programme start="20260411011800 +0000" stop="20260411020200 +0000" channel="I54778">
     <title>Ramses: Storia di un grande re</title>
     <sub-title>La nascita di una dinastia</sub-title>
     <desc>La gestione fallimentare del Regno d'Egitto da parte di Akhenaton e Tutankhamon fa sprofondare il Paese nel caos. Paramessou, che si è dimostrato valido in campo militare, succede a Horemheb. La dinastia ramesside è pronta a governare.</desc>
@@ -94700,7 +94738,33 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260411022500 +0000" stop="20260411031100 +0000" channel="I54778">
+  <programme start="20260411020200 +0000" stop="20260411024900 +0000" channel="I54778">
+    <title>Ramses: Storia di un grande re</title>
+    <sub-title>Infanzia reale</sub-title>
+    <desc>Dopo il breve regno di Ramses I, sale al trono d'Egitto il figlio Seti I. Fin da subito, Seti si dedica alla costruzione di monumenti che immortalano la sua grandezza, ma tutti gli occhi sono puntati sul giovane principe Ramses.</desc>
+    <credits>
+      <director>Sigrid Clement</director>
+      <director>Samuel Collardey</director>
+    </credits>
+    <category>Documentary</category>
+    <category>Ancient history</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="dd_progid">EP053310540002</episode-num>
+    <previously-shown start="20240212" />
+    <rating system="Arcom">
+      <value>Tous publics</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260411024900 +0000" stop="20260411033400 +0000" channel="I54778">
     <title>Ramses: Storia di un grande re</title>
     <sub-title>L' inizio di un grande regno</sub-title>
     <desc>Dopo la morte del faraone Seti primo, il giovane Ramses secondo sale al trono a soli dieci anni. Lo scopo del sovrano è quello di proiettare l'Egitto verso nuovi orizzonti e di renderlo un grande regno.</desc>
@@ -94726,7 +94790,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260411031100 +0000" stop="20260411035500 +0000" channel="I54778">
+  <programme start="20260411033400 +0000" stop="20260411035500 +0000" channel="I54778">
     <title>Visti dal cielo: Misteri di questo mondo</title>
     <sub-title>Le civiltà antiche</sub-title>
     <desc>Le piramidi nubiane rivelano l'ascesa del potere femminile nell'antica Kush. Inoltre, una sconvolgente immagine satellitare svela i segreti di un antico sito ancestrale, chiamato Puebloan, in Nuovo Messico.</desc>
@@ -122363,7 +122427,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260417120000 +0000" stop="20260417160000 +0000" channel="I75287">
+  <programme start="20260417120000 +0000" stop="20260417190000 +0000" channel="I75287">
     <title>Non annunciato</title>
     <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
     <credits>
@@ -122389,31 +122453,15 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260417160000 +0000" stop="20260417200000 +0000" channel="I75287">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
+  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="I75287">
+    <title>Best of the day</title>
+    <desc>Una selezione delle migliori offerte riguardo a prodotti per la casa, la persona e il tempo libero.</desc>
     <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
+    <category>Shopping</category>
     <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">SH061100390000</episode-num>
+    <previously-shown start="20251015" />
   </programme>
   <programme start="20260417200000 +0000" stop="20260418000000 +0000" channel="I75287">
     <title>Non annunciato</title>
@@ -122519,7 +122567,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260418120000 +0000" stop="20260418160000 +0000" channel="I75287">
+  <programme start="20260418120000 +0000" stop="20260418190000 +0000" channel="I75287">
     <title>Non annunciato</title>
     <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
     <credits>
@@ -122545,31 +122593,15 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260418160000 +0000" stop="20260418200000 +0000" channel="I75287">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
+  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="I75287">
+    <title>Best of the day</title>
+    <desc>Una selezione delle migliori offerte riguardo a prodotti per la casa, la persona e il tempo libero.</desc>
     <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
+    <category>Shopping</category>
     <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">SH061100390000</episode-num>
+    <previously-shown start="20251015" />
   </programme>
   <programme start="20260418200000 +0000" stop="20260419010000 +0000" channel="I75287">
     <title>Non annunciato</title>
@@ -128309,7 +128341,7 @@
   </programme>
   <programme start="20260410053800 +0000" stop="20260410061400 +0000" channel="I75500">
     <title>Centovetrine</title>
-    <desc>Dimostrando notevole coraggio, Valerio riesce a incastrare il responsabile della morte del padre, ma a Elda chiede all'ex-poliziotto un'ultima prova.</desc>
+    <desc>Anche se la vicenda di Elda sembra conclusa, il ricordo di quelle tristi vicende pesa ancora nella famiglia Bettini.</desc>
     <credits>
       <actor role="Valerio Bettini">Sergio Troiano</actor>
       <actor role="Laura Beccaria">Elisabetta Coraini</actor>
@@ -128322,8 +128354,8 @@
     <category>Series</category>
     <category>series</category>
     <length units="minutes">23</length>
-    <episode-num system="xmltv_ns">0.160.</episode-num>
-    <episode-num system="dd_progid">EP018779230160</episode-num>
+    <episode-num system="xmltv_ns">0.162.</episode-num>
+    <episode-num system="dd_progid">EP018779230162</episode-num>
     <previously-shown start="20010115" />
     <subtitles type="teletext" />
     <rating system="Italy Content Provider Ratings">
@@ -128332,7 +128364,7 @@
   </programme>
   <programme start="20260410061400 +0000" stop="20260410065000 +0000" channel="I75500">
     <title>Centovetrine</title>
-    <desc>Anita cerca ancora una volta di recuperare il rapporto con Federico, cercando di convincere il ragazzo a perdonarla.</desc>
+    <desc>Anita tenta di riallacciare i rapporti con Giuliano, ricordandogli la sua difficile infanzia. La ragazza tenta di commuovere l'amato fratellastro.</desc>
     <credits>
       <actor role="Valerio Bettini">Sergio Troiano</actor>
       <actor role="Laura Beccaria">Elisabetta Coraini</actor>
@@ -128344,9 +128376,9 @@
     <category>Soap</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">22</length>
-    <episode-num system="xmltv_ns">0.161.</episode-num>
-    <episode-num system="dd_progid">EP018779230161</episode-num>
+    <length units="minutes">23</length>
+    <episode-num system="xmltv_ns">0.163.</episode-num>
+    <episode-num system="dd_progid">EP018779230163</episode-num>
     <previously-shown start="20010115" />
     <subtitles type="teletext" />
     <rating system="Italy Content Provider Ratings">
@@ -128916,7 +128948,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410235800 +0000" stop="20260411010100 +0000" channel="I75500">
+  <programme start="20260410235800 +0000" stop="20260411003900 +0000" channel="I75500">
     <title>Grande fratello VIP: Live</title>
     <desc>In diretta dalla casa di Cinecittà, le telecamere seguono gli inquilini protagonisti della nuova edizione de 'Il grande fratello VIP', impegnati nell'accattivarsi le simpatie del pubblico.</desc>
     <category>Reality</category>
@@ -128930,7 +128962,21 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411010100 +0000" stop="20260411013900 +0000" channel="I75500">
+  <programme start="20260411003900 +0000" stop="20260411010100 +0000" channel="I75500">
+    <title>Grande fratello VIP: Daily</title>
+    <desc>L'appuntamento quotidiano con le immagini e il racconto della casa più spiata d'Italia.</desc>
+    <category>Reality</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">22</length>
+    <episode-num system="xmltv_ns">2025.16.</episode-num>
+    <episode-num system="dd_progid">EP063408730017</episode-num>
+    <previously-shown start="20260410" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260411010100 +0000" stop="20260411014300 +0000" channel="I75500">
     <title>DayDreamer: Le ali del sogno</title>
     <desc>Sanem si riconcilia con Can e passa la notte con lui al rifugio. Tutto procede per il verso giusto, ma poi l'uomo apprende che Sanem è decisa a continuare a lavorare per Yigit.</desc>
     <credits>
@@ -128956,20 +129002,6 @@
     </rating>
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
-    </rating>
-  </programme>
-  <programme start="20260411013900 +0000" stop="20260411014300 +0000" channel="I75500">
-    <title>Grande fratello VIP: Daily</title>
-    <desc>L'appuntamento quotidiano con le immagini e il racconto della casa più spiata d'Italia.</desc>
-    <category>Reality</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">22</length>
-    <episode-num system="xmltv_ns">2025.16.</episode-num>
-    <episode-num system="dd_progid">EP063408730017</episode-num>
-    <previously-shown start="20260410" />
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
     </rating>
   </programme>
   <programme start="20260411014300 +0000" stop="20260411022500 +0000" channel="I75500">
@@ -180808,7 +180840,7 @@
       <value>2.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260410214400 +0000" stop="20260411010500 +0000" channel="I84621">
+  <programme start="20260410214400 +0000" stop="20260411000500 +0000" channel="I84621">
     <title>Il cavaliere pallido</title>
     <desc>Il ricco Roy Lahood cerca di convincere un gruppo di cercatori d'oro a vendergli i diritti di sfruttamento delle terre , ma quando sembra esserci riuscito, compare un misterioso Predicatore.</desc>
     <credits>
@@ -180884,7 +180916,7 @@
       <value>3/4</value>
     </star-rating>
   </programme>
-  <programme start="20260411010500 +0000" stop="20260411020600 +0000" channel="I84621">
+  <programme start="20260411000500 +0000" stop="20260411020600 +0000" channel="I84621">
     <title>Arsenico e vecchi merletti</title>
     <desc>Lo scrittore Mortimer Brewster si innamora perdutamente di Elaine Harper, la classica ragazza della porta accanto. I due convolano a nozze il giorno della festa di Halloween e quando tornano a casa dai rispettivi genitori per dare loro la lieta notizia, scoprono di avere una famiglia particolarmente fuori dal comune.</desc>
     <credits>
@@ -194333,7 +194365,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410030500 +0000" stop="20260410034900 +0000" channel="I84622">
+  <programme start="20260410030500 +0000" stop="20260410040000 +0000" channel="I84622">
     <title>Visti dal cielo: Misteri di questo mondo</title>
     <sub-title>Sommersi</sub-title>
     <desc>La siccità rivela un'antica basilica da tempo perduta in Turchia. Inoltre, la guglia di una chiesa perfora la superficie di un fango tossico in Romania, mentre lo scafo di un'enorme nave nel Mare del Nord risponde a domande vecchie di decenni.</desc>
@@ -194363,7 +194395,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410034900 +0000" stop="20260410044300 +0000" channel="I84622">
+  <programme start="20260410040000 +0000" stop="20260410044700 +0000" channel="I84622">
     <title>Miami Vice</title>
     <sub-title>Una storia di boxe</sub-title>
     <desc>Zito diventa l'allenatore di una promettente star della boxe, mentre Crockett e Tubbs si fingono i suoi agenti, per smascherare un giro di riciclaggio di denaro.</desc>
@@ -194417,7 +194449,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410044300 +0000" stop="20260410054300 +0000" channel="I84622">
+  <programme start="20260410044700 +0000" stop="20260410054500 +0000" channel="I84622">
     <title>MacGyver</title>
     <sub-title>Pilota</sub-title>
     <desc>MacGyver deve recarsi in una base segreta dell'esercito dove una tremenda esplosione ha messo in pericolo la vita di molte persone tra cui due noti scienziati.</desc>
@@ -194481,20 +194513,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410054300 +0000" stop="20260410064000 +0000" channel="I84622">
+  <programme start="20260410054500 +0000" stop="20260410064100 +0000" channel="I84622">
     <title>MacGyver</title>
-    <sub-title>La sfida</sub-title>
-    <desc>MacGyver viene inviato in un paese del Centro America dall'editore di un giornale che non ha più notizie di una sua fotografa, Kate Connolly. Quest'ultima si trova lì per motivi di ricerca, ma non ha più contattato la sua redazione da tempo.</desc>
+    <sub-title>Il triangolo d'oro</sub-title>
+    <desc>MacGyver è un agente della Fondazione Phoenix. È un eroe solitario che non fa uso di violenza o di armi da fuoco. Aiuta i deboli, rispetta l'ambiente, ama il prossimo ed ha fiducia nella legge.</desc>
     <credits>
-      <director>Lee H. Katzin</director>
+      <director>Paul Stanley</director>
       <actor role="MacGyver">Richard Dean Anderson</actor>
       <actor role="Peter Thornton">Dana Elcar</actor>
-      <writer>Stephan Kandel</writer>
-      <guest>Robin Curtis</guest>
-      <guest>John Vernon</guest>
-      <guest>Gregory Sierra</guest>
-      <guest>Sam Vlahos</guest>
-      <guest>Marco Lopez</guest>
+      <writer>Dennis Foley</writer>
+      <guest>Joan Chen</guest>
+      <guest>George Kee Cheung</guest>
+      <guest>Clyde Kusatsu</guest>
+      <guest>Keye Luke</guest>
+      <guest>Benjamin Lum</guest>
+      <guest>Bryan Price</guest>
+      <guest>James Saito</guest>
     </credits>
     <category>Drama</category>
     <category>Adventure</category>
@@ -194502,11 +194536,14 @@
     <category>Series</category>
     <category>series</category>
     <length units="minutes">49</length>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="dd_progid">EP036827540004</episode-num>
-    <previously-shown start="19851021" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="dd_progid">EP036827540002</episode-num>
+    <previously-shown start="19851006" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
     </rating>
     <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
@@ -194519,9 +194556,6 @@
     </rating>
     <rating system="Régie du cinéma">
       <value>13+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
@@ -194542,7 +194576,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410064000 +0000" stop="20260410073600 +0000" channel="I84622">
+  <programme start="20260410064100 +0000" stop="20260410073600 +0000" channel="I84622">
     <title>Chicago Fire</title>
     <sub-title>Cos'è successo al Whiskey Point?</sub-title>
     <desc>Boden pensa al passato di Pelham mentre contempla una decisione. Il risentimento di Gallo nei confronti di Pelham arriva al culmine. Brett e Ritter costringono Violet ad affrontare i suoi veri sentimenti per Gallo.</desc>
@@ -194914,7 +194948,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410102500 +0000" stop="20260410105900 +0000" channel="I84622">
+  <programme start="20260410102500 +0000" stop="20260410110000 +0000" channel="I84622">
     <title>Studio Aperto</title>
     <sub-title>10.04.2026, 12.25</sub-title>
     <desc>Edizione del notiziario televisivo a cura della redazione giornalistica di Italia 1. Dal Gennaio 1991, ogni giorno, le notizie più importanti a livello nazionale ed internazionale.</desc>
@@ -194940,7 +194974,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410105900 +0000" stop="20260410110900 +0000" channel="I84622">
+  <programme start="20260410110000 +0000" stop="20260410111000 +0000" channel="I84622">
     <title>Grande fratello VIP: Day time</title>
     <desc>Dieci minuti con immagini inedite di quanto succede nella casa più famosa d'Italia, abitata per la prima volta da stelle più o meno luminose del mondo dello spettacolo e della vita pubblica.</desc>
     <credits>
@@ -194958,7 +194992,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410110900 +0000" stop="20260410115800 +0000" channel="I84622">
+  <programme start="20260410111000 +0000" stop="20260410115900 +0000" channel="I84622">
     <title>Sport Mediaset</title>
     <desc>Telegiornale sportivo: novità, anticipazioni, collegamenti in diretta e servizi in esclusiva. Il programma erede di 'Studio Sport' continua a portare nelle case degli italiani le più aggiornate e complete informazioni sul mondo dell'agonismo.</desc>
     <credits>
@@ -194980,23 +195014,23 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410115800 +0000" stop="20260410121200 +0000" channel="I84622">
+  <programme start="20260410115900 +0000" stop="20260410121300 +0000" channel="I84622">
     <title>Sport Mediaset Extra</title>
     <desc>Segui le ultime novità dal mondo dello sport.</desc>
     <category>News</category>
     <category>Sports non-event</category>
     <category>series</category>
-    <length units="hours">1</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">2025..</episode-num>
-    <episode-num system="dd_progid">EP020870980397</episode-num>
+    <episode-num system="dd_progid">EP020870980412</episode-num>
     <rating system="Italy Content Provider Ratings">
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410121200 +0000" stop="20260410123900 +0000" channel="I84622">
+  <programme start="20260410121300 +0000" stop="20260410123900 +0000" channel="I84622">
     <title>I Simpson</title>
-    <sub-title>Questa pazza pazza pazza pazza Marge</sub-title>
-    <desc>La fidanzata di Otto, abbandonata sull'altare, si trasferisce temporaneamente a casa Simpson. La giovane attira subito su di sé le simpatie di tutti, ma Marge inizia a sospettare che nasconda qualcosa.</desc>
+    <sub-title>Lisa l'ambientalista</sub-title>
+    <desc>Lisa viene convinta da un gruppo di ambientalisti estremi a vivere su un albero per evitare che venga abbattuto.</desc>
     <credits>
       <actor role="Homer Jay Simpson/Barney Gumble/Nonno Simpson/Sindaco Joe Quimby/Krusty il Clown/Giardiniere Willie">Dan Castellaneta</actor>
       <actor role="Marjorie Bouvier Simpson/Patty Bouvier/Selma Bouvier/Nonna Jackie Bouvier">Julie Kavner</actor>
@@ -195004,12 +195038,11 @@
       <actor role="Lisa Marie Simpson">Yeardley Smith</actor>
       <actor role="Charles Montgomery Burns/Waylon Smithers/Preside Seymour Skinner/Ned Flanders/Otto Mann/Scratchy/Kent Brockman/Reverendo Timothy Lovejoy">Harry Shearer</actor>
       <actor role="Boe Szyslak/Nahasapeemapetilon/Commissario Clarence Winchester/Dott. Nick Riviera">Hank Azaria</actor>
-      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
-      <actor role="Edna Krabappel">Marcia Wallace</actor>
-      <actor role="Drummer">Marc Wilmore</actor>
-      <actor role="Becky">Parker Posey</actor>
+      <actor role="Jesse Grass">Joshua Jackson</actor>
+      <actor role="Herself">Leeza Gibbons</actor>
       <actor role="Dolph">Tress MacNeille</actor>
-      <actor role="Psychologist 2">Karl Wiedergott</actor>
+      <actor role="Caleb">Karl Wiedergott</actor>
+      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
       <producer>James L. Brooks</producer>
       <producer>Matt Groening</producer>
       <producer>David Mirkin</producer>
@@ -195019,12 +195052,12 @@
     <category>Series</category>
     <category>series</category>
     <length units="minutes">23</length>
-    <episode-num system="xmltv_ns">10.20.</episode-num>
-    <episode-num system="dd_progid">EP018737290286</episode-num>
+    <episode-num system="xmltv_ns">11.3.</episode-num>
+    <episode-num system="dd_progid">EP018737290431</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20000514" />
+    <previously-shown start="20001119" />
     <subtitles type="teletext" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -195032,11 +195065,11 @@
     <rating system="Film &amp; Publication Board">
       <value>PG</value>
     </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
     <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>PG</value>
@@ -195044,14 +195077,17 @@
     <rating system="Régie du cinéma">
       <value>8+</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating>
     <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+    <rating system="UK Content Provider">
+      <value>PG</value>
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
@@ -195059,20 +195095,94 @@
     <rating system="Arcom">
       <value>-10</value>
     </rating>
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
-    </rating>
     <rating system="방송통신심의위원회">
       <value>15</value>
     </rating>
     <rating system="Kijkwijzer">
-      <value>6</value>
+      <value>12</value>
     </rating>
     <rating system="Goed Gezien">
       <value>6</value>
     </rating>
   </programme>
-  <programme start="20260410123900 +0000" stop="20260410133600 +0000" channel="I84622">
+  <programme start="20260410123900 +0000" stop="20260410130400 +0000" channel="I84622">
+    <title>I Simpson</title>
+    <sub-title>Homer si gioca la dignità</sub-title>
+    <desc>Homer si trova in difficoltà economiche così, pur di ottenere un aumento dal signor Burns, accetta di subire continue umiliazioni.</desc>
+    <credits>
+      <actor role="Homer Jay Simpson/Barney Gumble/Nonno Simpson/Sindaco Joe Quimby/Krusty il Clown/Giardiniere Willie">Dan Castellaneta</actor>
+      <actor role="Marjorie Bouvier Simpson/Patty Bouvier/Selma Bouvier/Nonna Jackie Bouvier">Julie Kavner</actor>
+      <actor role="Bartholomew &quot;Bart&quot; JoJo Simpson/Nelson Muntz">Nancy Cartwright</actor>
+      <actor role="Lisa Marie Simpson">Yeardley Smith</actor>
+      <actor role="Boe Szyslak/Nahasapeemapetilon/Commissario Clarence Winchester/Dott. Nick Riviera">Hank Azaria</actor>
+      <actor role="Charles Montgomery Burns/Waylon Smithers/Preside Seymour Skinner/Ned Flanders/Otto Mann/Scratchy/Kent Brockman/Reverendo Timothy Lovejoy">Harry Shearer</actor>
+      <actor role="Milhouse Van Houten">Pamela Hayden</actor>
+      <actor role="Dolph">Tress MacNeille</actor>
+      <actor role="Edna Krabappel">Marcia Wallace</actor>
+      <actor role="Additional Voices">Karl Wiedergott</actor>
+      <producer>James L. Brooks</producer>
+      <producer>Matt Groening</producer>
+      <producer>David Mirkin</producer>
+    </credits>
+    <category>Animated</category>
+    <category>Sitcom</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">23</length>
+    <episode-num system="xmltv_ns">11.4.</episode-num>
+    <episode-num system="dd_progid">EP018737290432</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20001126" />
+    <subtitles type="teletext" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>8+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20260410130400 +0000" stop="20260410135500 +0000" channel="I84622">
     <title>NCIS: Los Angeles</title>
     <sub-title>Il guardiano</sub-title>
     <desc>Callen e Sam si recano su di una nave ammiraglia nel Golfo Persico per collaborare con il capitano Harmon Rabb quando la squadra viene a conoscenza della presenza di simpatizzanti dell'ISIS sul vascello.</desc>
@@ -195155,7 +195265,7 @@
       <value>A14</value>
     </rating>
   </programme>
-  <programme start="20260410133600 +0000" stop="20260410143300 +0000" channel="I84622">
+  <programme start="20260410135500 +0000" stop="20260410144700 +0000" channel="I84622">
     <title>NCIS: Los Angeles</title>
     <sub-title>Sotto falsa bandiera</sub-title>
     <desc>Callen e Sam collaborano con il capitano Harmon Rabb per scovare un gruppo di simpatizzanti dell'ISIS a bordo di una imbarcazione. Hetty si appoggia ad una amica per ottenere informazioni da un diplomatico russo.</desc>
@@ -195249,7 +195359,7 @@
       <value>A14</value>
     </rating>
   </programme>
-  <programme start="20260410143300 +0000" stop="20260410152400 +0000" channel="I84622">
+  <programme start="20260410144700 +0000" stop="20260410153500 +0000" channel="I84622">
     <title>MacGyver</title>
     <sub-title>Tra male e peggio</sub-title>
     <desc>I piani attentamente elaborati da un nuovo avversario costringono Mac a compiere una scelta difficile: salvare la vita di un amico o quelle di centinaia di innocenti. L'uomo riceve nuove informazioni riguardo al padre.</desc>
@@ -195331,7 +195441,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410152400 +0000" stop="20260410162000 +0000" channel="I84622">
+  <programme start="20260410153500 +0000" stop="20260410162100 +0000" channel="I84622">
     <title>MacGyver</title>
     <sub-title>Dalle ceneri</sub-title>
     <desc>L'ex agente dell'MI6 Russ Taylor recluta gli ex membri della Phoenix Foundation Mac, Riley, Bozer, Matty e Desi. L'obiettivo è recuperare un'arma biologica che dovrebbe essere utilizzata da una misteriosa organizzazione per un attacco terroristico.</desc>
@@ -195415,7 +195525,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410162000 +0000" stop="20260410163000 +0000" channel="I84622">
+  <programme start="20260410162100 +0000" stop="20260410163000 +0000" channel="I84622">
     <title>Studio Aperto Live</title>
     <desc>A cura della redazione di Studio Aperto, una breve anteprima delle notizie che verranno trattate nell'edizione in onda subito dopo.</desc>
     <credits>
@@ -195461,7 +195571,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410165300 +0000" stop="20260410170600 +0000" channel="I84622">
+  <programme start="20260410165300 +0000" stop="20260410170700 +0000" channel="I84622">
     <title>Grande fratello VIP: Day time</title>
     <desc>Dieci minuti con immagini inedite di quanto succede nella casa più famosa d'Italia, abitata per la prima volta da stelle più o meno luminose del mondo dello spettacolo e della vita pubblica.</desc>
     <credits>
@@ -195479,7 +195589,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410170600 +0000" stop="20260410173200 +0000" channel="I84622">
+  <programme start="20260410170700 +0000" stop="20260410173300 +0000" channel="I84622">
     <title>Studio Aperto mag</title>
     <desc>Rotocalco informativo dal piglio giovane e diretto, a cura della redazione di 'Studio aperto': sport, mondo social, moda, divertimento e politica.</desc>
     <credits>
@@ -195496,12 +195606,12 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260410173200 +0000" stop="20260410183600 +0000" channel="I84622">
+  <programme start="20260410173300 +0000" stop="20260410183700 +0000" channel="I84622">
     <title>CSI: Scena del crimine</title>
-    <sub-title>Falso colpevole</sub-title>
-    <desc>Il team di Grissom indaga sulla morte di una donna. Il marito ha dichiarato che questa è deceduta dopo essere precipitata dalle scale.</desc>
+    <sub-title>Servizio in camera</sub-title>
+    <desc>Una promettente stella del cinema viene trovata cadavere nella sua camera d'albergo. Nick e Sophia scoprono che la vittima aveva trascorso la notte a festeggiare con un gruppo di suoi scatenati fan.</desc>
     <credits>
-      <director>Jeffrey Hunt</director>
+      <director>Ken Fink</director>
       <actor role="Gil Grissom">William Petersen</actor>
       <actor role="Catherine Willows">Marg Helgenberger</actor>
       <actor role="Warrick Brown">Gary Dourdan</actor>
@@ -195510,7 +195620,8 @@
       <actor role="Capitano Jim Brass">Paul Guilfoyle</actor>
       <actor role="Greg Sanders">Eric Szmanda</actor>
       <actor role="Dottor Al Robbins">Robert David Hall</actor>
-      <writer>Josh Berman</writer>
+      <writer>Dustin Lee Abraham</writer>
+      <writer>Henry Alonso Myers</writer>
       <producer>Jerry Bruckheimer</producer>
       <producer>Carol Mendelsohn</producer>
       <producer>Ann Donahue</producer>
@@ -195519,19 +195630,23 @@
       <guest>David Berman</guest>
       <guest>Louise Lombard</guest>
       <guest>Wallace Langham</guest>
-      <guest>Marc Vann</guest>
       <guest>Archie Kao</guest>
-      <guest>Erik Jensen</guest>
-      <guest>Jon Wellner</guest>
-      <guest>Reed Diamond</guest>
-      <guest>Abigail Spencer</guest>
-      <guest>Skye McCole Bartusiak</guest>
-      <guest>Alan Rachins</guest>
-      <guest>Seamus Dever</guest>
-      <guest>Mary Jo Mrochinski</guest>
-      <guest>Hudson Leick</guest>
-      <guest>Jeff Bass</guest>
-      <guest>Mitchell Fink</guest>
+      <guest>Eric Winter</guest>
+      <guest>Jeff D'Agostino</guest>
+      <guest>Kristin Richardson</guest>
+      <guest>Chi Muoi Lo</guest>
+      <guest>Paul Statman</guest>
+      <guest>Silas Weir Mitchell</guest>
+      <guest>Alona Tal</guest>
+      <guest>Maite Schwartz</guest>
+      <guest>Art Chudabala</guest>
+      <guest>Larry Mitchell</guest>
+      <guest>David Kagen</guest>
+      <guest>Kyle Davis</guest>
+      <guest>Tang Nguyen</guest>
+      <guest>Paul Dillon</guest>
+      <guest>Tess Lina</guest>
+      <guest>Jeri Weil</guest>
     </credits>
     <category>Crime drama</category>
     <category>Action</category>
@@ -195539,13 +195654,13 @@
     <category>Mystery</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">45</length>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
-    <episode-num system="dd_progid">EP018809450084</episode-num>
+    <length units="minutes">44</length>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <episode-num system="dd_progid">EP018809450086</episode-num>
     <audio>
       <stereo>stereo</stereo>
     </audio>
-    <previously-shown start="20051006" />
+    <previously-shown start="20050929" />
     <subtitles type="teletext" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
@@ -195571,14 +195686,14 @@
     <rating system="UK Content Provider">
       <value>PG</value>
     </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
     <rating system="방송통신심의위원회">
       <value>15</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
     </rating>
     <rating system="Arcom">
       <value>-12</value>
@@ -195593,7 +195708,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260410183600 +0000" stop="20260410192000 +0000" channel="I84622">
+  <programme start="20260410183700 +0000" stop="20260410192700 +0000" channel="I84622">
     <title>NCIS: Unità anticrimine</title>
     <sub-title>Affari interni</sub-title>
     <desc>Il cadavere di La Grenouille viene ritrovato solo ora nel porto. Il team viene messo sotto inchiesta e l'indagine interna viene affidata all'FBI. Per primo viene indagato Tony ma alla fine si scopre che è stato un agente della CIA sotto copertura.</desc>
@@ -195663,7 +195778,7 @@
       <value>A16</value>
     </rating>
   </programme>
-  <programme start="20260410192000 +0000" stop="20260410214500 +0000" channel="I84622">
+  <programme start="20260410192700 +0000" stop="20260410215000 +0000" channel="I84622">
     <title>Aquaman e il regno perduto</title>
     <desc>Aquaman prova ogni mezzo per salvare la città sottomarina di Atlantide e il resto del pianeta dall'imminente rovina. Per ridurre al minimo i danni, dovrà sforzarsi di stringere un'alleanza difficile con un improbabile alleato.</desc>
     <credits>
@@ -195771,7 +195886,7 @@
       <value>2/4</value>
     </star-rating>
   </programme>
-  <programme start="20260410214500 +0000" stop="20260411011400 +0000" channel="I84622">
+  <programme start="20260410215000 +0000" stop="20260410235900 +0000" channel="I84622">
     <title>Terminator Genisys</title>
     <desc>Anno 2029, un cyborg viene inviato nel 1984 per uccidere Sarah Connor, la donna che è destinata a dare alla luce il futuro capo della resistenza del genere umano contro il dominio delle macchine.</desc>
     <credits>
@@ -195894,7 +196009,7 @@
       <value>2/4</value>
     </star-rating>
   </programme>
-  <programme start="20260411011400 +0000" stop="20260411013200 +0000" channel="I84622">
+  <programme start="20260410235900 +0000" stop="20260411001500 +0000" channel="I84622">
     <title>Studio Aperto: La giornata</title>
     <desc>Aggiornamenti sugli eventi nazionali ed internazionali e relativi approfondimenti. Una selezione delle più importanti notizie dalla giornata in corso proposta dalla redazione giornalistica di Italia 1.</desc>
     <category>News</category>
@@ -195907,7 +196022,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411013200 +0000" stop="20260411013800 +0000" channel="I84622">
+  <programme start="20260411001500 +0000" stop="20260411003000 +0000" channel="I84622">
     <title>Sport Mediaset: La giornata</title>
     <desc>Approfondimento sul mondo del calcio e dello sport a cura della redazione di Sport Mediaset.</desc>
     <credits>
@@ -195924,33 +196039,49 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411013800 +0000" stop="20260411015200 +0000" channel="I84622">
-    <title>Ramses: Storia di un grande re</title>
-    <sub-title>Infanzia reale</sub-title>
-    <desc>Dopo il breve regno di Ramses I, sale al trono d'Egitto il figlio Seti I. Fin da subito, Seti si dedica alla costruzione di monumenti che immortalano la sua grandezza, ma tutti gli occhi sono puntati sul giovane principe Ramses.</desc>
+  <programme start="20260411003000 +0000" stop="20260411011800 +0000" channel="I84622">
+    <title>Mega Shippers</title>
+    <sub-title>Monopali: Prima parte; La locomotiva King Edward II</sub-title>
+    <desc>Una storica locomotiva a vapore, la King Edward II, fa un viaggio di 360 km. Un trasporto eccezionale parte dalla Germania verso Paesi Bassi.</desc>
     <credits>
-      <director>Sigrid Clement</director>
-      <director>Samuel Collardey</director>
+      <producer>David Notman-Watt</producer>
     </credits>
     <category>Documentary</category>
-    <category>Ancient history</category>
+    <category>Technology</category>
+    <category>Science</category>
+    <category>Boat</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">50</length>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="dd_progid">EP053310540002</episode-num>
-    <previously-shown start="20240212" />
-    <rating system="Arcom">
-      <value>Tous publics</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="UK Content Provider">
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="dd_progid">EP024413690024</episode-num>
+    <previously-shown start="20200915" />
+    <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20260411015200 +0000" stop="20260411022500 +0000" channel="I84622">
+  <programme start="20260411011800 +0000" stop="20260411020200 +0000" channel="I84622">
     <title>Ramses: Storia di un grande re</title>
     <sub-title>La nascita di una dinastia</sub-title>
     <desc>La gestione fallimentare del Regno d'Egitto da parte di Akhenaton e Tutankhamon fa sprofondare il Paese nel caos. Paramessou, che si è dimostrato valido in campo militare, succede a Horemheb. La dinastia ramesside è pronta a governare.</desc>
@@ -195976,7 +196107,33 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260411022500 +0000" stop="20260411031100 +0000" channel="I84622">
+  <programme start="20260411020200 +0000" stop="20260411024900 +0000" channel="I84622">
+    <title>Ramses: Storia di un grande re</title>
+    <sub-title>Infanzia reale</sub-title>
+    <desc>Dopo il breve regno di Ramses I, sale al trono d'Egitto il figlio Seti I. Fin da subito, Seti si dedica alla costruzione di monumenti che immortalano la sua grandezza, ma tutti gli occhi sono puntati sul giovane principe Ramses.</desc>
+    <credits>
+      <director>Sigrid Clement</director>
+      <director>Samuel Collardey</director>
+    </credits>
+    <category>Documentary</category>
+    <category>Ancient history</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="dd_progid">EP053310540002</episode-num>
+    <previously-shown start="20240212" />
+    <rating system="Arcom">
+      <value>Tous publics</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260411024900 +0000" stop="20260411033400 +0000" channel="I84622">
     <title>Ramses: Storia di un grande re</title>
     <sub-title>L' inizio di un grande regno</sub-title>
     <desc>Dopo la morte del faraone Seti primo, il giovane Ramses secondo sale al trono a soli dieci anni. Lo scopo del sovrano è quello di proiettare l'Egitto verso nuovi orizzonti e di renderlo un grande regno.</desc>
@@ -196002,7 +196159,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260411031100 +0000" stop="20260411035500 +0000" channel="I84622">
+  <programme start="20260411033400 +0000" stop="20260411035500 +0000" channel="I84622">
     <title>Visti dal cielo: Misteri di questo mondo</title>
     <sub-title>Le civiltà antiche</sub-title>
     <desc>Le piramidi nubiane rivelano l'ascesa del potere femminile nell'antica Kush. Inoltre, una sconvolgente immagine satellitare svela i segreti di un antico sito ancestrale, chiamato Puebloan, in Nuovo Messico.</desc>
@@ -351464,6 +351621,9 @@
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating>
+    <rating system="Goed Gezien">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260405232700 +0000" stop="20260405233000 +0000" channel="I91204">
     <title>Appuntamento al cinema</title>
@@ -405124,7 +405284,23 @@
       <value>A14</value>
     </rating>
   </programme>
-  <programme start="20260408030000 +0000" stop="20260408050000 +0000" channel="I99980">
+  <programme start="20260408030000 +0000" stop="20260408031500 +0000" channel="I99980">
+    <title>Mammamia!</title>
+    <sub-title>Spesa al supermercato</sub-title>
+    <desc>A chi non è capitato almeno una volta di trovarsi in un supermercato a lottare.</desc>
+    <credits>
+      <director>Maurizio Nichetti</director>
+      <actor>Maurizio Nichetti</actor>
+    </credits>
+    <category>Comedy drama</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">15</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <episode-num system="dd_progid">EP042905100002</episode-num>
+    <previously-shown start="20040214" />
+  </programme>
+  <programme start="20260408031500 +0000" stop="20260408050500 +0000" channel="I99980">
     <title>Sedotta e abbandonata</title>
     <desc>Agnese, sedici anni, viene sedotta dal fidanzato della sorella Matilde. Il babbo pretende le nozze riparatrici, ma il seduttore nicchia.</desc>
     <credits>
@@ -405164,7 +405340,7 @@
       <value>3/4</value>
     </star-rating>
   </programme>
-  <programme start="20260408050000 +0000" stop="20260408063500 +0000" channel="I99980">
+  <programme start="20260408050500 +0000" stop="20260408064000 +0000" channel="I99980">
     <title>Lo smemorato di Collegno</title>
     <desc>Un reduce dalla guerra, senza soldi e vittima di un'amnesia, si rifugia in un vespasiano, ma molte persone credono di riconoscerlo.</desc>
     <credits>
@@ -405187,7 +405363,7 @@
     <length units="minutes">87</length>
     <episode-num system="dd_progid">MV004974130000</episode-num>
   </programme>
-  <programme start="20260408063500 +0000" stop="20260408064000 +0000" channel="I99980">
+  <programme start="20260408064000 +0000" stop="20260408064500 +0000" channel="I99980">
     <title>Appuntamento al cinema</title>
     <desc>Guida alle produzioni cinematografiche nazionali e straniere per essere sempre informati, in anteprima, sulle pellicole in uscita in italia. Uno sguardo ai trailer dei film che ci attendono al cinema.</desc>
     <category>Newsmagazine</category>
@@ -405202,7 +405378,7 @@
     <previously-shown start="20260104" />
     <subtitles type="teletext" />
   </programme>
-  <programme start="20260408064000 +0000" stop="20260408090000 +0000" channel="I99980">
+  <programme start="20260408064500 +0000" stop="20260408090500 +0000" channel="I99980">
     <title>Ammore e malavita</title>
     <desc>Don Vincenzo, un boss della camorra, sopravvive a un attentato e decide di cambiare vita. Dietro consiglio della moglie, finge di essere morto, ma il suo segreto non resta tale a lungo.</desc>
     <credits>
@@ -405246,7 +405422,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260408090000 +0000" stop="20260408105500 +0000" channel="I99980">
+  <programme start="20260408090500 +0000" stop="20260408105500 +0000" channel="I99980">
     <title>One Life</title>
     <desc>Il broker londinese Nicholas 'Nicky' Winton aiuta a salvare centinaia di bambini prevalentemente ebrei dalla Cecoslovacchia in una corsa contro il tempo, prima che l'occupazione nazista chiuda le frontiere.</desc>
     <credits>
