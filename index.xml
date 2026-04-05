@@ -6,13 +6,13 @@
     <display-name>Rai 5 HD</display-name>
     <display-name>RAI5HD</display-name>
     <display-name>5023</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100806_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100806_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I102111">
     <display-name>Rai Storia HD</display-name>
     <display-name>RAISTHD</display-name>
     <display-name>5054</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102111_dark_360w_270h.png" />
   </channel>
   <channel id="I102112">
     <display-name>Rai Scuola HD</display-name>
@@ -36,19 +36,19 @@
     <display-name>SuperTennis HD</display-name>
     <display-name>SUPERTE</display-name>
     <display-name>5064</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115693_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I122486">
     <display-name>27 TwentySeven</display-name>
     <display-name>TWENTY7</display-name>
     <display-name>158</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" height="270" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122486_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I122911">
     <display-name>TV2000 HD</display-name>
     <display-name>TV2000HD</display-name>
     <display-name>157</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122911_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I142479">
     <display-name>Rai Radio 2</display-name>
@@ -64,7 +64,7 @@
     <display-name>Rai Sport HD</display-name>
     <display-name>RAISPHD</display-name>
     <display-name>227</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54777_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I54778">
     <display-name>Italia 1</display-name>
@@ -88,31 +88,31 @@
     <display-name>La7</display-name>
     <display-name>LA7ITL</display-name>
     <display-name>5007</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56247_dark_360w_270h.png" />
   </channel>
   <channel id="I75287">
     <display-name>QVC</display-name>
     <display-name>QVCITA</display-name>
     <display-name>5032</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75287_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I75500">
     <display-name>La 5 HD</display-name>
     <display-name>LA5ITL</display-name>
     <display-name>5030</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75500_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I84141">
     <display-name>TV2000</display-name>
     <display-name>TV2000IT</display-name>
     <display-name>5028</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84141_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I84597">
     <display-name>Nove</display-name>
     <display-name>NOVE</display-name>
     <display-name>5009</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84597_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84614">
     <display-name>Giallo</display-name>
@@ -124,19 +124,19 @@
     <display-name>Iris HD</display-name>
     <display-name>IRIS</display-name>
     <display-name>5022</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84621_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84622">
     <display-name>Italia 1 HD</display-name>
     <display-name>ITAL1HD</display-name>
     <display-name>106</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84622_dark_360w_270h.png" />
   </channel>
   <channel id="I84638">
     <display-name>La7 Cinema</display-name>
     <display-name>LA7CINE</display-name>
     <display-name>5029</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002C8DL2.png_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I84652">
     <display-name>TV8</display-name>
@@ -148,13 +148,13 @@
     <display-name>Rai 2 HD</display-name>
     <display-name>RAI2HD</display-name>
     <display-name>5002</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" height="270" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84694_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84695">
     <display-name>Rai 3 HD</display-name>
     <display-name>RAI3HD</display-name>
     <display-name>5003</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" height="270" width="360" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84695_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I84696">
     <display-name>Rai 1 HD</display-name>
@@ -172,7 +172,7 @@
     <display-name>Sky Uno HD</display-name>
     <display-name>SKUNOHD</display-name>
     <display-name>108</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86304_dark_360w_270h.png" />
   </channel>
   <channel id="I86825">
     <display-name>La7 HD</display-name>
@@ -184,61 +184,61 @@
     <display-name>La7 Cinema HD</display-name>
     <display-name>LA7DHD</display-name>
     <display-name>161</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" />
+    <icon height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89069_dark_360w_270h.png" width="360" />
   </channel>
   <channel id="I90130">
     <display-name>Real Time</display-name>
     <display-name>DISCRTI</display-name>
     <display-name>5031</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90130_dark_360w_270h.png" />
   </channel>
   <channel id="I90601">
     <display-name>DMAX</display-name>
     <display-name>DMAXITA</display-name>
     <display-name>5052</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90601_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91186">
     <display-name>Canale 5 HD</display-name>
     <display-name>CANA5HD</display-name>
     <display-name>105</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91186_dark_360w_270h.png" />
   </channel>
   <channel id="I91188">
     <display-name>Cielo HD</display-name>
     <display-name>CIELOHD</display-name>
     <display-name>5026</display-name>
-    <icon width="360" height="270" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91188_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91204">
     <display-name>Rai 4 HD</display-name>
     <display-name>RAI4HD</display-name>
     <display-name>5021</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" width="360" height="270" />
+    <icon width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91204_dark_360w_270h.png" height="270" />
   </channel>
   <channel id="I91205">
     <display-name>Sky TG24 HD</display-name>
     <display-name>SKTG24H</display-name>
     <display-name>500</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" width="360" height="270" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91205_dark_360w_270h.png" />
   </channel>
   <channel id="I94884">
     <display-name>Rai Radio 1</display-name>
     <display-name>RAIRAD1</display-name>
     <display-name>8820</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" height="270" width="360" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023PF9J.png_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <channel id="I99980">
     <display-name>Rai Movie HD</display-name>
     <display-name>RAIMOVH</display-name>
     <display-name>5024</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" height="270" width="360" />
+    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99980_dark_360w_270h.png" />
   </channel>
   <channel id="I99981">
     <display-name>Rai Premium HD</display-name>
     <display-name>RAIPRIH</display-name>
     <display-name>5025</display-name>
-    <icon height="270" width="360" src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" />
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99981_dark_360w_270h.png" width="360" height="270" />
   </channel>
   <programme start="20260405004600 +0000" stop="20260405010400 +0000" channel="I100806">
     <title>Mito e pensiero</title>
@@ -27511,159 +27511,1375 @@
     </video>
     <previously-shown start="20200306" />
   </programme>
-  <programme start="20260412040000 +0000" stop="20260412080000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412040000 +0000" stop="20260412045000 +0000" channel="I102112">
+    <title>Storia della matematica</title>
+    <sub-title>Il genio dell'est</sub-title>
+    <desc>Visitiamo la Cina e analizziamo come la matematica abbia contribuito a costruire la Cina imperiale. Inoltre, il suo ruolo nelle straordinarie imprese ingegneristiche come la Grande Muraglia.</desc>
+    <credits>
+      <presenter>Marcus du Sautoy</presenter>
+    </credits>
     <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <category>Science</category>
+    <category>History</category>
+    <category>Miniseries</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP062894850002</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20081013" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20260412080000 +0000" stop="20260412120000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412045000 +0000" stop="20260412050000 +0000" channel="I102112">
+    <title>Gocce</title>
+    <sub-title>Il mare come regolatore climatico; Il movimento dei ragni</sub-title>
+    <desc>Andiamo a scoprire il potere del mare di regolare il clima. Parliamo del movimento dei ragni.</desc>
+    <category>Science</category>
     <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">15</length>
+    <episode-num system="dd_progid">EP047134770008</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20230424" />
   </programme>
-  <programme start="20260412120000 +0000" stop="20260412160000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412050000 +0000" stop="20260412053000 +0000" channel="I102112">
+    <title>Riedizioni ed eventi speciali</title>
+    <sub-title>Oggi è 12 Aprile: Giornata internazionale dei viaggi dell'uomo nello spazio</sub-title>
+    <desc>Il 12 aprile, data del primo volo intorno alla Terra compiuto da Gagarin nel 1961, si celebra la Giornata internazionale dei viaggi dell'uomo nello spazio.</desc>
+    <category>Nature</category>
+    <category>Science</category>
     <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP046820860004</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
   </programme>
-  <programme start="20260412160000 +0000" stop="20260412200000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+  <programme start="20260412053000 +0000" stop="20260412060000 +0000" channel="I102112">
+    <title>I luoghi della scienza</title>
+    <sub-title>Campi Flegrei</sub-title>
+    <desc>Andiamo a conoscere i Campi Flegrei, un'area situata nel golfo di Pozzuoli, a ovest della città di Napoli e del suo golfo. Sono un laboratorio scientifico di enormi proporzioni dove si svolgono quotidianamente analisi ed esperimenti con la natura.</desc>
+    <credits>
+      <director>Caterina Mazzuoli</director>
+      <writer>Massimo Bongiorno</writer>
+      <writer>Federica De Maria</writer>
+      <writer>Valentina Rizzo</writer>
+      <writer>Alessandro Viola</writer>
+      <presenter>Chiara Buratti</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">35</length>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="dd_progid">EP026989880023</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20171118" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20260412200000 +0000" stop="20260413000000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412060000 +0000" stop="20260412070000 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <desc>La divulgazione scientifica si fa racconto, in una serie di puntate speciali che hanno in comune la voglia di condividere ciò che sappiamo in modo spettacolare e coinvolgente.</desc>
+    <credits>
+      <director>Nicoletta Piu</director>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
     <category>Educational</category>
+    <category>Series</category>
     <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <length units="minutes">55</length>
+    <episode-num system="dd_progid">SH045334150000</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20221118" />
   </programme>
-  <programme start="20260413000000 +0000" stop="20260413040000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412070000 +0000" stop="20260412073000 +0000" channel="I102112">
+    <title>Nautilus</title>
+    <sub-title>Fusione nucleare, la frontiera della ricerca</sub-title>
+    <desc>Con l'astrofisico e divulgatore Luca Perri andiamo alla scoperta del mondo che ci circonda e delle sue regole. In questa puntata parliamo di fusione nucleare, di che cosa è e dei suoi principi regolatori.</desc>
+    <credits>
+      <director>Piccio Raffainini</director>
+      <writer>Federico Taddia</writer>
+      <writer>Tommaso Franchini</writer>
+      <producer>Diego Garbati</producer>
+      <presenter>Luca Perri</presenter>
+    </credits>
     <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">35</length>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <episode-num system="dd_progid">EP017755890176</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20210502" />
+    <subtitles type="teletext" />
   </programme>
-  <programme start="20260413040000 +0000" stop="20260413080000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+  <programme start="20260412073000 +0000" stop="20260412080000 +0000" channel="I102112">
+    <title>Memex Doc</title>
+    <sub-title>Vita da ricercatore: John Robert Brucato, astrofisico</sub-title>
+    <desc>Incontro con l'astrofisico John Robert Brucato, esperto di astrobiologia attivo presso l'Osservatorio di Arcetri e collaboratore dell'ESA e della NASA.</desc>
+    <credits>
+      <director>Giuseppe Cembalo</director>
+      <producer>Diego Garbati</producer>
+      <producer>Livia Lauriola</producer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP028211170038</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20190719" />
   </programme>
-  <programme start="20260413080000 +0000" stop="20260413120000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
+  <programme start="20260412080000 +0000" stop="20260412090000 +0000" channel="I102112">
+    <title>Progetto scienza</title>
+    <sub-title>Le ragioni del sonno</sub-title>
+    <desc>Scopriamo tutto quello che c'è da sapere sul sonno, uno stato di sospensione della vigilanza comune a tutte le forme di vita superiore, ma ognuna con proprie modalità.</desc>
+    <credits>
+      <director>Giancarlo Russo</director>
+      <presenter>Silvia Bencivelli</presenter>
+    </credits>
+    <category>Science</category>
     <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <episode-num system="dd_progid">EP045334270004</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20230103" />
   </programme>
-  <programme start="20260413120000 +0000" stop="20260413160000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+  <programme start="20260412090000 +0000" stop="20260412094500 +0000" channel="I102112">
+    <title>Oasi</title>
+    <sub-title>Oman: I giardini sospesi del Jebel Akhdar</sub-title>
+    <desc>Nel nord del Sultanato dell'Oman si trovano i giardini pensili dell'oasi di Jebel Akhdar. I canali scavati nel cuore della roccia duemila anni fa catturano l'acqua che si nasconde nelle viscere del deserto.</desc>
+    <credits>
+      <director>Sarah Laîné</director>
+      <director>Stéphane Jacques</director>
+      <director>Guy Beauché</director>
+      <director>Benoît Laborde</director>
+    </credits>
+    <category>Documentary</category>
+    <category>Travel</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">52</length>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="dd_progid">EP039314860003</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20260413160000 +0000" stop="20260413200000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+  <programme start="20260412094500 +0000" stop="20260412103000 +0000" channel="I102112">
+    <title>Serengeti</title>
+    <sub-title>Rinascita</sub-title>
+    <desc>Per oltre un anno, seguiamo le storie interconnesse di un gruppo di animali della savana nelle pianure della Tanzania, in Africa, in una delle ultime grandi terre selvagge del mondo: il Serengeti.</desc>
+    <credits>
+      <director>John Downer</director>
+      <producer>Simon Fuller</producer>
+      <producer>John Downer</producer>
+    </credits>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <category>Animals</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="dd_progid">EP044543570019</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20190908" />
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
   </programme>
-  <programme start="20260413200000 +0000" stop="20260414000000 +0000" channel="I102112">
-    <title>Rai Scuola</title>
-    <desc>Rai Scuola.</desc>
-    <category>Special</category>
-    <category>Entertainment</category>
-    <category>Educational</category>
-    <category>tvshow</category>
-    <length units="hours">6</length>
-    <episode-num system="dd_progid">SH019096630000</episode-num>
+  <programme start="20260412103000 +0000" stop="20260412113000 +0000" channel="I102112">
+    <title>Di là dal fiume e tra gli alberi</title>
+    <sub-title>Ventimiglia</sub-title>
+    <desc>Partiamo per Ventimiglia e, salendo sul Treno delle Meraviglie, scopre una città bellissima. La città si sviluppa presso la foce del fiume Roia, a otto km dalla frontiera francese.</desc>
+    <credits>
+      <writer>Gianfranco Anzini</writer>
+      <writer>Lorenzo Di Majo</writer>
+      <writer>Gemma Giorgini</writer>
+      <writer>Monica Ghezzi</writer>
+      <writer>Lucrezia Lo Bianco</writer>
+      <writer>Guido Morandini</writer>
+      <writer>Vincenzo Saccone</writer>
+      <writer>Giuseppe Sansonna</writer>
+      <writer>Paolo Severini</writer>
+      <writer>Francesco Zippel</writer>
+      <producer>Marco Melega</producer>
+      <producer>Vittorio Rizzo</producer>
+    </credits>
+    <category>Nature</category>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP031621380158</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
-    <previously-shown start="20140426" />
+    <previously-shown start="20230910" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412123000 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>Disastri: Uragani</sub-title>
+    <desc>La divulgazione scientifica si fa racconto, in una serie di puntate speciali che hanno in comune la voglia di condividere ciò che sappiamo in modo spettacolare e coinvolgente.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP045334150025</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20251130" />
+  </programme>
+  <programme start="20260412123000 +0000" stop="20260412131500 +0000" channel="I102112">
+    <title>Digital World</title>
+    <sub-title>Fake News</sub-title>
+    <desc>Nella puntata di oggi, scopriamo cosa sono le fake news e come è possibile smascherarle con fact cheking e debunking. Poi, un servizio sull'uso della disinformazione manipolata, che è sempre più frequente sulle piattaforme digitali.</desc>
+    <credits>
+      <director>Giancarlo Ronchi</director>
+      <actor>Luigi Bertolo</actor>
+      <presenter>Matteo Bordone</presenter>
+    </credits>
+    <category>Documentary</category>
+    <category>Technology</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <episode-num system="dd_progid">EP025223500497</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20230320" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412131500 +0000" stop="20260412141500 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>La nostra acqua</sub-title>
+    <desc>La superficie del nostro Pianeta è ricoperta d'acqua per il 70%. Dallo spazio la Terra è quasi tutta blu.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP045334150011</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250207" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412141500 +0000" stop="20260412150000 +0000" channel="I102112">
+    <title>American Genius</title>
+    <sub-title>Oppenheimer VS Heisenberg: Bomba atomica</sub-title>
+    <desc>I fisici Werner Heisenberg e Robert Oppenheimer cercano di sfruttare le leggi della fisica per creare l'arma più potente che il mondo abbia mai visto, la bomba atomica.</desc>
+    <credits>
+      <guest>Michio Kaku</guest>
+    </credits>
+    <category>Documentary</category>
+    <category>History</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="dd_progid">EP031950380003</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20150622" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="I102112">
+    <title>Le nostre domande</title>
+    <sub-title>Michelangelo Pistoletto: Cos'è l'arte?</sub-title>
+    <desc>Incontriamo Michelangelo Pistoletto, artista italiano protagonista da oltre mezzo secolo della scena culturale internazionale. Esponente della pop art e dell'arte povera, dagli anni Sessanta ha sviluppato originali soluzioni artistiche.</desc>
+    <credits>
+      <director>Nicoletta Piu</director>
+      <actor>Telmo Pievani</actor>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP045546300006</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221230" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412153000 +0000" stop="20260412160000 +0000" channel="I102112">
+    <title>Progetto scienza</title>
+    <sub-title>Racconti di scienza</sub-title>
+    <desc>Scopriamo personaggi, invenzioni, scoperte, errori, innovazione tecnologica, passi in avanti nella conoscenza scientifica che hanno cambiato per sempre il nostro modo di vedere il mondo che ci circonda.</desc>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <episode-num system="dd_progid">EP045334270001</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221119" />
+  </programme>
+  <programme start="20260412160000 +0000" stop="20260412163000 +0000" channel="I102112">
+    <title>Edgar Allan Poe: The last four days</title>
+    <desc>Serie documentale dedicata agli ultimi giorni del principe del mistero, lo scrittore americano Edgar Allan Poe. Analizziamo le sue opere dal punto di vista letterario, sociologico, psicologico e artistico.</desc>
+    <category>Documentary</category>
+    <category>Biography</category>
+    <category>Series</category>
+    <category>tvshow</category>
+    <length units="minutes">27</length>
+    <episode-num system="dd_progid">SH030653380000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20140115" />
+  </programme>
+  <programme start="20260412163000 +0000" stop="20260412171500 +0000" channel="I102112">
+    <title>Oasi</title>
+    <sub-title>Marocco: I maestri dell'acqua di Tafialet</sub-title>
+    <desc>La valle del Tafilalet, nel'est del Marocco, ospita una delle oasi più grandi del mondo. Questo insieme di isole verdi nel mezzo del deserto, alimentato da un sistema di irrigazione antichissimo, è minacciato dal cambiamento climatico.</desc>
+    <credits>
+      <director>Sarah Laîné</director>
+      <director>Stéphane Jacques</director>
+      <director>Guy Beauché</director>
+      <director>Benoît Laborde</director>
+    </credits>
+    <category>Documentary</category>
+    <category>Travel</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">52</length>
+    <episode-num system="dd_progid">EP039314860004</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260412171500 +0000" stop="20260412180000 +0000" channel="I102112">
+    <title>Maialini straordinari</title>
+    <desc>I maiali sono tra i mammiferi più numerosi e diffusi del pianeta. Vivono con noi da migliaia di anni e prosperano in tutti i continenti tranne l'Antartide. Esplora i diversi tipi di maiali in tutto il mondo, dal facocero ugandese ai maiali Exuma.</desc>
+    <credits>
+      <director>Matt Hamilton</director>
+      <writer>Matt Hamilton</writer>
+      <producer>Martin Mészáros</producer>
+      <producer>Sabine Holzer</producer>
+    </credits>
+    <category>Special</category>
+    <category>Documentary</category>
+    <category>Animals</category>
+    <category>tvshow</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">SH045780620000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20190213" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme start="20260412180000 +0000" stop="20260412190000 +0000" channel="I102112">
+    <title>Ordine e disordine</title>
+    <sub-title>L'energia</sub-title>
+    <desc>Scopriamo cosa sia l'energia e perché le macchine, il corpo umano e l'universo intero non potrebbero esistere senza di essa. Esploriamo alcuni sorprendenti fenomeni sull'argomento.</desc>
+    <credits>
+      <director>Nic Stacey</director>
+      <writer>Nic Stacey</writer>
+      <producer>Paul Sen</producer>
+      <presenter>Jim Al-Khalili</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="dd_progid">EP029347370001</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20150901" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412195500 +0000" channel="I102112">
+    <title>Grandi migrazioni: Un'avventura straordinaria</title>
+    <sub-title>Zebre</sub-title>
+    <desc>Le zebre sono spesso le apripista della migrazione. Essendo erbivori meno selettivi, mangiano la parte più alta e dura dell'erba, aprendo la strada agli altri che preferiscono l'erba più tenera e corta.</desc>
+    <credits>
+      <director>David Johnson</director>
+      <director>Joe Keenan</director>
+      <director>Mark Wheeler</director>
+      <writer>Mark Wheeler</writer>
+      <producer>Tim Scoones</producer>
+      <producer>Scott Alexander</producer>
+      <presenter>Liz Bonnin</presenter>
+    </credits>
+    <category>Nature</category>
+    <category>Documentary</category>
+    <category>Animals</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">48</length>
+    <episode-num system="xmltv_ns">0.2.2/3</episode-num>
+    <episode-num system="dd_progid">EP063327060003</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20160525" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>8+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>Family</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20260412195500 +0000" stop="20260412205500 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>Le sentinelle della Grande Barriera Corallina</sub-title>
+    <desc>Un squadra internazionale di scienziati sviluppa soluzioni per salvare la Grande Barriera Corallina.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP045334150021</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250907" />
+  </programme>
+  <programme start="20260412205500 +0000" stop="20260412214500 +0000" channel="I102112">
+    <title>Progetto scienza Newton</title>
+    <sub-title>Le regole del gioco</sub-title>
+    <desc>Il pedagogista dell'Università di Roma Tre Fabio Bocci, spiega come mai il gioco serva ad educare, faccia diventare grandi e abbia molto a che fare con l'apprendimento, con il rapporto con gli altri e la costruzione della propria felicità.</desc>
+    <credits>
+      <director>Alberto Polimanti</director>
+      <writer>Diego Garbati</writer>
+      <writer>Francesco Linguiti</writer>
+      <writer>Pino Roggero</writer>
+      <writer>Davide Coero Borga</writer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2021.10.</episode-num>
+    <episode-num system="dd_progid">EP043911390047</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221012" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412214500 +0000" stop="20260412220000 +0000" channel="I102112">
+    <title>Profili</title>
+    <sub-title>Charles Darwin</sub-title>
+    <desc>Un viaggio può cambiare la vita delle persone ma qualche volta modifica anche il corso della scienza.</desc>
+    <credits>
+      <actor>Chiara Buratti</actor>
+    </credits>
+    <category>Science</category>
+    <category>History</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">2022.1.</episode-num>
+    <episode-num system="dd_progid">EP049580120001</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20231210" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412230000 +0000" channel="I102112">
+    <title>Di là dal fiume e tra gli alberi</title>
+    <sub-title>Do pasi per Verona</sub-title>
+    <desc>Il racconto di una Verona dai mille volti: da un lato la città dell'amore e della tradizione, dall'altro una realtà più pulsante e multietnica che trova espressione nel quartiere di Veronetta.</desc>
+    <credits>
+      <writer>Gianfranco Anzini</writer>
+      <writer>Lorenzo Di Majo</writer>
+      <writer>Gemma Giorgini</writer>
+      <writer>Monica Ghezzi</writer>
+      <writer>Lucrezia Lo Bianco</writer>
+      <writer>Guido Morandini</writer>
+      <writer>Vincenzo Saccone</writer>
+      <writer>Giuseppe Sansonna</writer>
+      <writer>Paolo Severini</writer>
+      <writer>Francesco Zippel</writer>
+      <producer>Marco Melega</producer>
+      <producer>Vittorio Rizzo</producer>
+      <presenter>Gemma Giorgini</presenter>
+    </credits>
+    <category>Nature</category>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <episode-num system="dd_progid">EP031621380186</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20230903" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412230000 +0000" stop="20260413000000 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <desc>La divulgazione scientifica si fa racconto, in una serie di puntate speciali che hanno in comune la voglia di condividere ciò che sappiamo in modo spettacolare e coinvolgente.</desc>
+    <credits>
+      <director>Nicoletta Piu</director>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>tvshow</category>
+    <length units="minutes">55</length>
+    <episode-num system="dd_progid">SH045334150000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221118" />
+  </programme>
+  <programme start="20260413000000 +0000" stop="20260413003000 +0000" channel="I102112">
+    <title>Memex Doc</title>
+    <sub-title>Vita da Ricercatore: Andrea Borghini, filosofo</sub-title>
+    <desc>In contro con Andrea Borghini, professore associato di Filosofia presso l'Università degli Studi di Milano.</desc>
+    <credits>
+      <director>Giuseppe Cembalo</director>
+      <producer>Diego Garbati</producer>
+      <producer>Livia Lauriola</producer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">40</length>
+    <episode-num system="dd_progid">EP028211170037</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20190712" />
+  </programme>
+  <programme start="20260413003000 +0000" stop="20260413013000 +0000" channel="I102112">
+    <title>Progetto scienza Newton</title>
+    <sub-title>Cavalcando l'onda gravitazionale</sub-title>
+    <desc>Con l'astrofisica Marica Branchesi del Gran Sasso Science Institute parliamo delle onde gravitazionali, le increspature dello spazio tempo previste dalla teoria di Einstein più di cento anni fa, e osservate per la prima volta nel 2015.</desc>
+    <credits>
+      <director>Alberto Polimanti</director>
+      <writer>Diego Garbati</writer>
+      <writer>Francesco Linguiti</writer>
+      <writer>Pino Roggero</writer>
+      <writer>Davide Coero Borga</writer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2021.12.</episode-num>
+    <episode-num system="dd_progid">EP043911390051</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221027" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413013000 +0000" stop="20260413020000 +0000" channel="I102112">
+    <title>Riedizioni ed eventi speciali</title>
+    <sub-title>Oggi è 12 Aprile: Giornata internazionale dei viaggi dell'uomo nello spazio</sub-title>
+    <desc>Il 12 aprile, data del primo volo intorno alla Terra compiuto da Gagarin nel 1961, si celebra la Giornata internazionale dei viaggi dell'uomo nello spazio.</desc>
+    <category>Nature</category>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP046820860004</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260413020000 +0000" stop="20260413023000 +0000" channel="I102112">
+    <title>I luoghi della scienza</title>
+    <sub-title>Bologna</sub-title>
+    <desc>Nella città in cui fu fondata la più antica università d'Europa, dal punto di vista della ricerca c'è ancora oggi moltissimo da raccontare. Partiamo dall'Università, per spostarci al Cineca, dove scopriamo le funzionalità del supercomputer Marconi.</desc>
+    <credits>
+      <director>Caterina Mazzuoli</director>
+      <writer>Massimo Bongiorno</writer>
+      <writer>Federica De Maria</writer>
+      <writer>Valentina Rizzo</writer>
+      <writer>Alessandro Viola</writer>
+      <presenter>Chiara Buratti</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">35</length>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="dd_progid">EP026989880024</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20171118" />
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20260413023000 +0000" stop="20260413030000 +0000" channel="I102112">
+    <title>Donne di scienza</title>
+    <sub-title>Amalia Ercoli Finzi</sub-title>
+    <desc>La storia e l'incontro con Amalia Ercoli Finzi, prima donna a laurearsi in Ingegneria Aeronautica in Italia. Oggi, la professoressa Finzi collabora con l'ESA ai programmi di esplorazione interplanetaria e alle missioni dirette su Marte.</desc>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="dd_progid">EP031108470008</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20190201" />
+  </programme>
+  <programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="I102112">
+    <title>Nautilus</title>
+    <sub-title>Un mondo di plastica</sub-title>
+    <desc>L'argomento di questa puntata è la plastica, il materiale del ventesimo secolo, dell'oggi e forse anche del domani, che ha rivoluzionato le tecnologie, gli oggetti, i dispositivi medici, l'agricoltura e la conservazione dei cibi.</desc>
+    <credits>
+      <director>Piccio Raffainini</director>
+      <writer>Federico Taddia</writer>
+      <writer>Tommaso Franchini</writer>
+      <producer>Diego Garbati</producer>
+      <presenter>Luca Perri</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">40</length>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <episode-num system="dd_progid">EP017755890177</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20210508" />
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="I102112">
+    <title>Progetto scienza Newton</title>
+    <sub-title>Esplorare gli abissi</sub-title>
+    <desc>Davide Coero Borga ospita Marcello Calisti, ricercatore dell'Istituto di Biorobotica della Scuola Superiore Sant'Anna di Pisa. Assieme ci conducono alla scoperta dell'esplorazione dei fondali marini, di cui oggi conosciamo soltanto il 5%.</desc>
+    <credits>
+      <writer>Diego Garbati</writer>
+      <writer>Francesco Linguiti</writer>
+      <writer>Pino Roggero</writer>
+      <writer>Davide Coero Borga</writer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2019.12.</episode-num>
+    <episode-num system="dd_progid">EP043911390091</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20200309" />
+  </programme>
+  <programme start="20260413040000 +0000" stop="20260413050000 +0000" channel="I102112">
+    <title>Grandi migrazioni: Un'avventura straordinaria</title>
+    <sub-title>Zebre</sub-title>
+    <desc>Le zebre sono spesso le apripista della migrazione. Essendo erbivori meno selettivi, mangiano la parte più alta e dura dell'erba, aprendo la strada agli altri che preferiscono l'erba più tenera e corta.</desc>
+    <credits>
+      <director>David Johnson</director>
+      <director>Joe Keenan</director>
+      <director>Mark Wheeler</director>
+      <writer>Mark Wheeler</writer>
+      <producer>Tim Scoones</producer>
+      <producer>Scott Alexander</producer>
+      <presenter>Liz Bonnin</presenter>
+    </credits>
+    <category>Nature</category>
+    <category>Documentary</category>
+    <category>Animals</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">48</length>
+    <episode-num system="xmltv_ns">0.2.2/3</episode-num>
+    <episode-num system="dd_progid">EP063327060003</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20160525" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>8+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>Family</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20260413050000 +0000" stop="20260413053000 +0000" channel="I102112">
+    <title>Un giorno per</title>
+    <desc>Gli occidentali hanno l'ora ma non hanno mai il tempo. Con questa lapidaria affermazione, il Mahatma Gandhi metteva a fuoco l'innaturale frenesia che caratterizza il nostro modo di vivere.</desc>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <episode-num system="dd_progid">EP048928070053</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250209" />
+  </programme>
+  <programme start="20260413053000 +0000" stop="20260413061500 +0000" channel="I102112">
+    <title>Digital World</title>
+    <sub-title>Fake News</sub-title>
+    <desc>Nella puntata di oggi, scopriamo cosa sono le fake news e come è possibile smascherarle con fact cheking e debunking. Poi, un servizio sull'uso della disinformazione manipolata, che è sempre più frequente sulle piattaforme digitali.</desc>
+    <credits>
+      <director>Giancarlo Ronchi</director>
+      <actor>Luigi Bertolo</actor>
+      <presenter>Matteo Bordone</presenter>
+    </credits>
+    <category>Documentary</category>
+    <category>Technology</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <episode-num system="dd_progid">EP025223500497</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20230320" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413061500 +0000" stop="20260413070000 +0000" channel="I102112">
+    <title>Ordine e disordine</title>
+    <sub-title>L'energia</sub-title>
+    <desc>Scopriamo cosa sia l'energia e perché le macchine, il corpo umano e l'universo intero non potrebbero esistere senza di essa. Esploriamo alcuni sorprendenti fenomeni sull'argomento.</desc>
+    <credits>
+      <director>Nic Stacey</director>
+      <writer>Nic Stacey</writer>
+      <producer>Paul Sen</producer>
+      <presenter>Jim Al-Khalili</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="dd_progid">EP029347370001</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20150901" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260413070000 +0000" stop="20260413073000 +0000" channel="I102112">
+    <title>Nautilus</title>
+    <sub-title>Un mondo di plastica</sub-title>
+    <desc>L'argomento di questa puntata è la plastica, il materiale del ventesimo secolo, dell'oggi e forse anche del domani, che ha rivoluzionato le tecnologie, gli oggetti, i dispositivi medici, l'agricoltura e la conservazione dei cibi.</desc>
+    <credits>
+      <director>Piccio Raffainini</director>
+      <writer>Federico Taddia</writer>
+      <writer>Tommaso Franchini</writer>
+      <producer>Diego Garbati</producer>
+      <presenter>Luca Perri</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">40</length>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <episode-num system="dd_progid">EP017755890177</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20210508" />
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20260413073000 +0000" stop="20260413080000 +0000" channel="I102112">
+    <title>Profili</title>
+    <sub-title>Katherine Johnson</sub-title>
+    <desc>A volte, le persone hanno doni eccezionali che si manifestano piuttosto precocemente. Katherine Johnson è una bambina che ama contare e che lo fa da subito con estrema facilità, anche prima di imparare a leggere e scrivere.</desc>
+    <credits>
+      <actor>Chiara Buratti</actor>
+    </credits>
+    <category>Science</category>
+    <category>History</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">20</length>
+    <episode-num system="xmltv_ns">2023.5.</episode-num>
+    <episode-num system="dd_progid">EP049580120020</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250703" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413080000 +0000" stop="20260413090000 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>Missione Artico</sub-title>
+    <desc>L'Oceano Artico è uno degli ecosistemi più vulnerabili ai cambiamenti climatici.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="dd_progid">EP045334150010</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250212" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413090000 +0000" stop="20260413094500 +0000" channel="I102112">
+    <title>Oasi</title>
+    <sub-title>Marocco: I maestri dell'acqua di Tafialet</sub-title>
+    <desc>La valle del Tafilalet, nel'est del Marocco, ospita una delle oasi più grandi del mondo. Questo insieme di isole verdi nel mezzo del deserto, alimentato da un sistema di irrigazione antichissimo, è minacciato dal cambiamento climatico.</desc>
+    <credits>
+      <director>Sarah Laîné</director>
+      <director>Stéphane Jacques</director>
+      <director>Guy Beauché</director>
+      <director>Benoît Laborde</director>
+    </credits>
+    <category>Documentary</category>
+    <category>Travel</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">52</length>
+    <episode-num system="dd_progid">EP039314860004</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260413094500 +0000" stop="20260413103000 +0000" channel="I102112">
+    <title>Maialini straordinari</title>
+    <desc>I maiali sono tra i mammiferi più numerosi e diffusi del pianeta. Vivono con noi da migliaia di anni e prosperano in tutti i continenti tranne l'Antartide. Esplora i diversi tipi di maiali in tutto il mondo, dal facocero ugandese ai maiali Exuma.</desc>
+    <credits>
+      <director>Matt Hamilton</director>
+      <writer>Matt Hamilton</writer>
+      <producer>Martin Mészáros</producer>
+      <producer>Sabine Holzer</producer>
+    </credits>
+    <category>Special</category>
+    <category>Documentary</category>
+    <category>Animals</category>
+    <category>tvshow</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">SH045780620000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20190213" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme>
+  <programme start="20260413103000 +0000" stop="20260413113000 +0000" channel="I102112">
+    <title>Di là dal fiume e tra gli alberi</title>
+    <sub-title>Do pasi per Verona</sub-title>
+    <desc>Il racconto di una Verona dai mille volti: da un lato la città dell'amore e della tradizione, dall'altro una realtà più pulsante e multietnica che trova espressione nel quartiere di Veronetta.</desc>
+    <credits>
+      <writer>Gianfranco Anzini</writer>
+      <writer>Lorenzo Di Majo</writer>
+      <writer>Gemma Giorgini</writer>
+      <writer>Monica Ghezzi</writer>
+      <writer>Lucrezia Lo Bianco</writer>
+      <writer>Guido Morandini</writer>
+      <writer>Vincenzo Saccone</writer>
+      <writer>Giuseppe Sansonna</writer>
+      <writer>Paolo Severini</writer>
+      <writer>Francesco Zippel</writer>
+      <producer>Marco Melega</producer>
+      <producer>Vittorio Rizzo</producer>
+      <presenter>Gemma Giorgini</presenter>
+    </credits>
+    <category>Nature</category>
+    <category>Documentary</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <episode-num system="dd_progid">EP031621380186</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20230903" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413113000 +0000" stop="20260413123000 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>Le sentinelle della Grande Barriera Corallina</sub-title>
+    <desc>Un squadra internazionale di scienziati sviluppa soluzioni per salvare la Grande Barriera Corallina.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP045334150021</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20250907" />
+  </programme>
+  <programme start="20260413123000 +0000" stop="20260413133000 +0000" channel="I102112">
+    <title>Progetto scienza Newton</title>
+    <sub-title>Le regole del gioco</sub-title>
+    <desc>Il pedagogista dell'Università di Roma Tre Fabio Bocci, spiega come mai il gioco serva ad educare, faccia diventare grandi e abbia molto a che fare con l'apprendimento, con il rapporto con gli altri e la costruzione della propria felicità.</desc>
+    <credits>
+      <director>Alberto Polimanti</director>
+      <writer>Diego Garbati</writer>
+      <writer>Francesco Linguiti</writer>
+      <writer>Pino Roggero</writer>
+      <writer>Davide Coero Borga</writer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2021.10.</episode-num>
+    <episode-num system="dd_progid">EP043911390047</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221012" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413133000 +0000" stop="20260413141500 +0000" channel="I102112">
+    <title>Prospettive</title>
+    <sub-title>Mezzi di trasporto</sub-title>
+    <desc>Un viaggio nel mondo della scienza e della tecnologia per capire come e quanto abbiano influito nel nostro modo di muoverci.</desc>
+    <credits>
+      <director>Pierluigi Pantini</director>
+      <actor>Silvia Bencivelli</actor>
+    </credits>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="dd_progid">EP048917480002</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20231013" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413141500 +0000" stop="20260413152000 +0000" channel="I102112">
+    <title>Sapiens: Un solo pianeta</title>
+    <sub-title>L'età del fuoco</sub-title>
+    <desc>L'impatto del cambiamento climatico, oramai al centro del dibattito mondiale, sta assumendo proporzioni sempre più grandi. Ciononostante ancora non sono chiare le grandi responsabilità attribuite alle conseguenze delle nostre attività produttive.</desc>
+    <credits>
+      <director>Valerio Angelini</director>
+      <writer>Mario Tozzi</writer>
+      <writer>Fosco D'Amelio</writer>
+      <writer>Riccardo Mazzon</writer>
+      <presenter>Mario Tozzi</presenter>
+    </credits>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">2</length>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <episode-num system="dd_progid">EP031802470060</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20221015" />
+    <subtitles type="teletext" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413152000 +0000" stop="20260413153000 +0000" channel="I102112">
+    <title>Gocce</title>
+    <sub-title>Come sono cambiati i telescopi; La nanotecnologia degli animali 'appiccicosi'; Dalla conchiglia al cucchiaio moscardino</sub-title>
+    <desc>Vediamo come sono i telescopi negli anni. Scopriamo la nanotecnologia degli animali 'appiccicosi'.</desc>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">15</length>
+    <episode-num system="dd_progid">EP047134770002</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20260413153000 +0000" stop="20260413160000 +0000" channel="I102112">
+    <title>I segreti del colore</title>
+    <sub-title>Il mosaico dal Barocco all'epoca napoleonica</sub-title>
+    <desc>Parliamo delle sfide di una tecnica che a Roma giunge a una nuova consapevolezza realizzativa, dalla grandiosità dei mosaici della Basilica di San Pietro, alla minuta magia del micromosaico romano.</desc>
+    <credits>
+      <director>Claudio Parise</director>
+      <producer>Giorgio Marcucci</producer>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="dd_progid">EP034632100025</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20211120" />
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20260413160000 +0000" stop="20260413163000 +0000" channel="I102112">
+    <title>Edgar Allan Poe: The last four days</title>
+    <desc>Serie documentale dedicata agli ultimi giorni del principe del mistero, lo scrittore americano Edgar Allan Poe. Analizziamo le sue opere dal punto di vista letterario, sociologico, psicologico e artistico.</desc>
+    <category>Documentary</category>
+    <category>Biography</category>
+    <category>Series</category>
+    <category>tvshow</category>
+    <length units="minutes">27</length>
+    <episode-num system="dd_progid">SH030653380000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20140115" />
+  </programme>
+  <programme start="20260413163000 +0000" stop="20260413171500 +0000" channel="I102112">
+    <title>Cinquanta sfumature di squalo</title>
+    <desc>Ci è stato insegnato che gli squali sono cacciatori violenti assestati di sangue. Questo film intende capovolgere i preconcetti costituiti, rivelandone gli aspetti meno conosciuti e più delicati. Gli squali sono mansueti, intelligenti, spesso innocui e in ogni caso essenziali per il nostro ecosistema. Scopriamo la natura di questo abitante marino come non l'abbiamo mai vista.</desc>
+    <credits>
+      <director>Alexis Barbier-Bouvet</director>
+    </credits>
+    <category>Special</category>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <category>tvshow</category>
+    <length units="minutes">45</length>
+    <episode-num system="dd_progid">SH043714260000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20210121" />
+  </programme>
+  <programme start="20260413171500 +0000" stop="20260413180000 +0000" channel="I102112">
+    <title>Borneo la foresta ancestrale</title>
+    <desc>Un viaggio nel cuore del Borneo, tra fiumi e colline, alla scoperta di una fauna straordinaria, tra oranghi, elefanti, scimmie, buceri e insetti giganti. Qui si trova la foresta primaria più antica del mondo, uno deg - li ecosistemi più ricchi.</desc>
+    <category>Special</category>
+    <category>Travel</category>
+    <category>Nature</category>
+    <category>tvshow</category>
+    <length units="minutes">52</length>
+    <episode-num system="dd_progid">SH062159100000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20251222" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260413180000 +0000" stop="20260413190000 +0000" channel="I102112">
+    <title>Progetto scienza Newton</title>
+    <sub-title>Il cervello creativo</sub-title>
+    <desc>Alla scoperta della creatività con Zaira Cattaneo, docente di Psicobiologia e Neuroscienze cognitive, dell'Università di Bergamo. A seguire, scopriamo come reagiscono le diverse aree cerebrali osservando quadri e opere d'arte.</desc>
+    <credits>
+      <director>Alberto Polimanti</director>
+      <writer>Diego Garbati</writer>
+      <writer>Francesco Linguiti</writer>
+      <writer>Pino Roggero</writer>
+      <writer>Davide Coero Borga</writer>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <episode-num system="dd_progid">EP043911390048</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221018" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260413190000 +0000" stop="20260413195500 +0000" channel="I102112">
+    <title>Storia della matematica</title>
+    <sub-title>Il genio dell'est</sub-title>
+    <desc>Visitiamo la Cina e analizziamo come la matematica abbia contribuito a costruire la Cina imperiale. Inoltre, il suo ruolo nelle straordinarie imprese ingegneristiche come la Grande Muraglia.</desc>
+    <credits>
+      <presenter>Marcus du Sautoy</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Science</category>
+    <category>History</category>
+    <category>Miniseries</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP062894850002</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20081013" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260413195500 +0000" stop="20260413205500 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <desc>La divulgazione scientifica si fa racconto, in una serie di puntate speciali che hanno in comune la voglia di condividere ciò che sappiamo in modo spettacolare e coinvolgente.</desc>
+    <credits>
+      <director>Nicoletta Piu</director>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>tvshow</category>
+    <length units="minutes">55</length>
+    <episode-num system="dd_progid">SH045334150000</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20221118" />
+  </programme>
+  <programme start="20260413205500 +0000" stop="20260413213500 +0000" channel="I102112">
+    <title>Racconti di scienza</title>
+    <sub-title>Disastri: Uragani</sub-title>
+    <desc>La divulgazione scientifica si fa racconto, in una serie di puntate speciali che hanno in comune la voglia di condividere ciò che sappiamo in modo spettacolare e coinvolgente.</desc>
+    <credits>
+      <presenter>Anna Pancaldi</presenter>
+    </credits>
+    <category>Science</category>
+    <category>Educational</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP045334150025</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20251130" />
+  </programme>
+  <programme start="20260413213500 +0000" stop="20260414000000 +0000" channel="I102112">
+    <title>Progetto scienza Stem</title>
+    <sub-title>Insetti</sub-title>
+    <desc>Gli insetti sono gli animali più numerosi al mondo, frutto di centinaia di migliaia di anni di evoluzione. Possono contribuire al benessere della specie umana anche grazie alla ricerca scientifica di frontiera.</desc>
+    <credits>
+      <presenter>Davide Coero Borga</presenter>
+    </credits>
+    <category>Educational</category>
+    <category>Science</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="dd_progid">EP038810170016</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown start="20211028" />
   </programme>
   <programme start="20260414000000 +0000" stop="20260414040000 +0000" channel="I102112">
     <title>Rai Scuola</title>
@@ -41127,7 +42343,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260419120000 +0000" stop="20260419160000 +0000" channel="I110089">
+  <programme start="20260419120000 +0000" stop="20260419190000 +0000" channel="I110089">
     <title>Non annunciato</title>
     <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
     <credits>
@@ -41153,31 +42369,15 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20260419160000 +0000" stop="20260419200000 +0000" channel="I110089">
-    <title>Non annunciato</title>
-    <desc>Spazio con programmazione da definire dall'emittente televisiva.</desc>
-    <credits>
-      <director>Kinga Michalska</director>
-    </credits>
+  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="I110089">
+    <title>Best of event</title>
+    <desc>Il meglio dell'evento su QVC.</desc>
     <category>Special</category>
-    <category>Entertainment</category>
-    <category>TBA</category>
+    <category>Shopping</category>
     <category>tvshow</category>
-    <length units="minutes">115</length>
-    <episode-num system="dd_progid">SH016734380000</episode-num>
-    <previously-shown start="20140909" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating>
+    <length units="hours">11</length>
+    <episode-num system="dd_progid">SH060827110000</episode-num>
+    <previously-shown start="20251004" />
   </programme>
   <programme start="20260419200000 +0000" stop="20260420000000 +0000" channel="I110089">
     <title>Non annunciato</title>
@@ -55128,33 +56328,67 @@
     </rating>
   </programme>
   <programme start="20260411173000 +0000" stop="20260411182200 +0000" channel="I122486">
-    <title>Colombo: Scacco matto a Scotland Yard</title>
-    <desc>Colombo, in visita alla di Scotland Yard, si trova coinvolto in un caso di omicidio: due attori sono sospettati dell'assassino del loro impresario.</desc>
+    <title>Colombo</title>
+    <sub-title>Scacco matto a Scotland Yard</sub-title>
+    <desc>Mentre si trova in Gran Bretagna per un periodo di studio a Scotland Yard, il tenente Colombo indaga su un omicidio legato al mondo del teatro.</desc>
     <credits>
       <director>Richard Quine</director>
       <actor role="Lt. Columbo">Peter Falk</actor>
-      <actor role="Sir Roger Haversham">John Williams</actor>
-      <actor role="Nicholas Frame">Richard Basehart</actor>
-      <actor role="Lillian Stanhope">Honor Blackman</actor>
-      <actor role="Det. Chief Supt. William Durk">Bernard Fox</actor>
-      <actor role="Tanner">Wilfrid Hyde-White</actor>
-      <actor role="Det. Sgt. O'Keefe">John Fraser</actor>
-      <actor role="Diver">Richard Pearson</actor>
-      <actor role="Fenwick">Arthur Malet</actor>
-      <actor role="The Director">Harvey Jason</actor>
-      <actor role="Mr. Jones">Ronald Long</actor>
-      <actor role="Country Constable">John Orchard</actor>
-      <actor role="Constable">Peter Church</actor>
-      <actor role="Gardener">Walker Edmiston</actor>
+      <writer>Jackson Gillis</writer>
+      <guest>John Williams</guest>
+      <guest>Richard Basehart</guest>
+      <guest>Honor Blackman</guest>
+      <guest>Bernard Fox</guest>
+      <guest>Wilfrid Hyde-White</guest>
+      <guest>John Fraser</guest>
+      <guest>Richard Pearson</guest>
+      <guest>Arthur Malet</guest>
+      <guest>Harvey Jason</guest>
+      <guest>Ronald Long</guest>
+      <guest>John Orchard</guest>
+      <guest>Peter Church</guest>
+      <guest>Walker Edmiston</guest>
     </credits>
-    <date>1972</date>
-    <category>Thriller</category>
-    <category>Feature Film</category>
-    <category>movie</category>
-    <length units="minutes">123</length>
-    <episode-num system="dd_progid">MV020003760000</episode-num>
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
+    <category>Crime drama</category>
+    <category>Mystery</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">98</length>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="dd_progid">EP019394620037</episode-num>
+    <previously-shown start="19721126" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>Tous publics</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Goed Gezien">
+      <value>AL</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>9 år</value>
     </rating>
   </programme>
   <programme start="20260411182200 +0000" stop="20260411191400 +0000" channel="I122486">
@@ -55445,7 +56679,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260411234400 +0000" stop="20260412012200 +0000" channel="I122486">
+  <programme start="20260411234400 +0000" stop="20260412002500 +0000" channel="I122486">
     <title>Shameless</title>
     <sub-title>Padre Frank pieno di grazia</sub-title>
     <desc>Ian e Mickey acquistano mobili. Kev e V cercano acquirenti per l'Alibi. Mentre Lip si accontenta di un nuovo lavoro, Carl trova la sua vocazione nella forza. Debbie si immerge in un mondo pericoloso quando incontra qualcuno.</desc>
@@ -55508,36 +56742,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260412012200 +0000" stop="20260412012500 +0000" channel="I122486">
-    <title>Due per tre</title>
-    <sub-title>Un lavoro di squadra</sub-title>
-    <desc>Elena decide di cambiare la carta da parati, ma il risultato non è dei migliori. Inoltre, sta per arrivare un nuovo cliente di Giorgio e la casa sottosopra richiede di trovare una nuova strategia.</desc>
-    <credits>
-      <director>Roberto Valentini</director>
-      <actor>Johnny Dorelli</actor>
-      <actor>Loretta Goggi</actor>
-      <actor>Sabrina Marciano</actor>
-      <actor>Susanna Ruffini</actor>
-      <actor>Marta Forghieri</actor>
-      <actor>Elisabetta Torlasco</actor>
-      <writer>Giorgio Vignali</writer>
-    </credits>
-    <category>Sitcom</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">30</length>
-    <episode-num system="xmltv_ns">1.16.</episode-num>
-    <episode-num system="dd_progid">EP006398750035</episode-num>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="19980517" />
-    <subtitles type="teletext" />
-    <rating system="Italy Content Provider Ratings">
-      <value>T</value>
-    </rating>
-  </programme>
-  <programme start="20260412012500 +0000" stop="20260412021900 +0000" channel="I122486">
+  <programme start="20260412002500 +0000" stop="20260412012200 +0000" channel="I122486">
     <title>Due per tre</title>
     <sub-title>Né arte né parte</sub-title>
     <desc>Zia Agata deve inaugurare la propria mostra di quadri ma la galleria si allaga e un quadro è andato perso. La famiglia Antonioli accorre in aiuto.</desc>
@@ -55561,6 +56766,35 @@
       <stereo>stereo</stereo>
     </audio>
     <previously-shown start="19980510" />
+    <subtitles type="teletext" />
+    <rating system="Italy Content Provider Ratings">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20260412012200 +0000" stop="20260412021900 +0000" channel="I122486">
+    <title>Due per tre</title>
+    <sub-title>Un lavoro di squadra</sub-title>
+    <desc>Elena decide di cambiare la carta da parati, ma il risultato non è dei migliori. Inoltre, sta per arrivare un nuovo cliente di Giorgio e la casa sottosopra richiede di trovare una nuova strategia.</desc>
+    <credits>
+      <director>Roberto Valentini</director>
+      <actor>Johnny Dorelli</actor>
+      <actor>Loretta Goggi</actor>
+      <actor>Sabrina Marciano</actor>
+      <actor>Susanna Ruffini</actor>
+      <actor>Marta Forghieri</actor>
+      <actor>Elisabetta Torlasco</actor>
+      <writer>Giorgio Vignali</writer>
+    </credits>
+    <category>Sitcom</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <episode-num system="dd_progid">EP006398750035</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="19980517" />
     <subtitles type="teletext" />
     <rating system="Italy Content Provider Ratings">
       <value>T</value>
@@ -122842,7 +124076,7 @@
   </programme>
   <programme start="20260411060200 +0000" stop="20260411062700 +0000" channel="I75500">
     <title>Beautiful</title>
-    <desc>Il ritorno di Thomas a Los Angeles stravolge Hope, che lo affronta incredula per l'improvviso fidanzamento con Paris. Nonostante le suppliche di Hope, Thomas appare risoluto.</desc>
+    <desc>Hope continua a esprimere dubbi sulla relazione di Thomas con Paris e Steffy la accusa di non avere a cuore la felicita' del fratello. Ma il fidanzamento con Paris e' reale.</desc>
     <credits>
       <actor role="Brooke Logan">Katherine Kelly Lang</actor>
       <actor role="Deacon Sharpe">Sean Kanan</actor>
@@ -122859,10 +124093,10 @@
     <category>Romance</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">20</length>
+    <length units="minutes">29</length>
     <episode-num system="xmltv_ns">34..</episode-num>
-    <episode-num system="dd_progid">EP045101141818</episode-num>
-    <previously-shown start="20260401" />
+    <episode-num system="dd_progid">EP045101141835</episode-num>
+    <previously-shown start="20260405" />
     <subtitles type="teletext" />
     <rating system="Italy Content Provider Ratings">
       <value>6</value>
@@ -123143,7 +124377,7 @@
   </programme>
   <programme start="20260411151800 +0000" stop="20260411155800 +0000" channel="I75500">
     <title>Forbidden Fruit</title>
-    <desc>Yigit pretende una risposta da Kaya ed Ender. Quando entrambi gli dicono che non si sposeranno, dopo un confronto con la madre, Yigit lascia la casa furioso e deluso.</desc>
+    <desc>La notizia del matrimonio tra Kaya e Ender sconvolge gli equilibri: Sahika e' furiosa, mentre Leyla e' distrutta all'idea di perdere Kaya. Ender rassicura Nadir.</desc>
     <credits>
       <director>Murat Ozturk</director>
       <actor>Şevval Sam</actor>
@@ -123157,9 +124391,9 @@
     <category>Soap</category>
     <category>Series</category>
     <category>series</category>
-    <length units="minutes">38</length>
-    <episode-num system="dd_progid">EP058804220281</episode-num>
-    <previously-shown start="20260402" />
+    <length units="minutes">35</length>
+    <episode-num system="dd_progid">EP058804220288</episode-num>
+    <previously-shown start="20260405" />
     <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -123172,36 +124406,6 @@
     </rating>
   </programme>
   <programme start="20260411155800 +0000" stop="20260411165800 +0000" channel="I75500">
-    <title>Forbidden Fruit</title>
-    <desc>Ender e Kaya cercano disperatamente Yigit, scomparso dopo uno scontro con la madre. Kaya attiva i suoi contatti scolastici, mentre Zehra suggerisce che il ragazzo possa trovarsi da Akin.</desc>
-    <credits>
-      <director>Murat Ozturk</director>
-      <actor>Şevval Sam</actor>
-      <actor>Eda Ece</actor>
-      <actor>Safak Pekdemir</actor>
-      <actor>Nesrin Cavadzade</actor>
-      <actor>Berk Oktay</actor>
-      <actor>Erdal Özyagcilar</actor>
-      <actor>Sevda Erginci</actor>
-    </credits>
-    <category>Soap</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="hours">1</length>
-    <episode-num system="dd_progid">EP058804220299</episode-num>
-    <previously-shown start="20260406" />
-    <subtitles type="teletext" />
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260411165800 +0000" stop="20260411175800 +0000" channel="I75500">
     <title>Forbidden Fruit</title>
     <desc>Sahika informa Halit del matrimonio fra Ender e Kaya e lui si confronta subito con Ender sulla questione. Sahika va a parlare con Erim, nonostante Halit le abbia vietato di farlo.</desc>
     <credits>
@@ -123231,7 +124435,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260411175800 +0000" stop="20260411191000 +0000" channel="I75500">
+  <programme start="20260411165800 +0000" stop="20260411175800 +0000" channel="I75500">
     <title>Forbidden Fruit</title>
     <desc>Per accontentare il figlio Yigit, Ender e Kaya finalmente si sposano. La nuova e improbabile coppia si trasferisce a casa di Kaya insieme alla perfida Sahika.</desc>
     <credits>
@@ -123250,6 +124454,36 @@
     <length units="minutes">72</length>
     <episode-num system="dd_progid">EP058804220301</episode-num>
     <previously-shown start="20260411" />
+    <subtitles type="teletext" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260411175800 +0000" stop="20260411191000 +0000" channel="I75500">
+    <title>Forbidden Fruit</title>
+    <desc>Sahika chiede a Ender di fare pace di fronte a Kaya, Yigit ed Erim, e con un pretesto la invita a seguirla. Una volta sole, Sahika ricatta Ender facendole capire di averla in pugno.</desc>
+    <credits>
+      <director>Murat Ozturk</director>
+      <actor>Şevval Sam</actor>
+      <actor>Eda Ece</actor>
+      <actor>Safak Pekdemir</actor>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Berk Oktay</actor>
+      <actor>Erdal Özyagcilar</actor>
+      <actor>Sevda Erginci</actor>
+    </credits>
+    <category>Soap</category>
+    <category>Series</category>
+    <category>series</category>
+    <length units="hours">1</length>
+    <episode-num system="dd_progid">EP058804220294</episode-num>
+    <previously-shown start="20260408" />
     <subtitles type="teletext" />
     <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -123291,7 +124525,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260411211400 +0000" stop="20260412011900 +0000" channel="I75500">
+  <programme start="20260411211400 +0000" stop="20260412001900 +0000" channel="I75500">
     <title>Grande fratello VIP</title>
     <desc>L'edizione del reality show più famoso d'Italia vede come partecipanti un gruppo di VIP. Tra nomi molto noti e qualche stella del passato, la sfida per rimanere nella casa e accattivarsi le simpatie del pubblico si fa difficile.</desc>
     <credits>
@@ -123314,7 +124548,7 @@
       <value>T</value>
     </rating>
   </programme>
-  <programme start="20260412011900 +0000" stop="20260412031200 +0000" channel="I75500">
+  <programme start="20260412001900 +0000" stop="20260412031200 +0000" channel="I75500">
     <title>Grande fratello VIP: Live</title>
     <desc>In diretta dalla casa di Cinecittà, le telecamere seguono gli inquilini protagonisti della nuova edizione de 'Il grande fratello VIP', impegnati nell'accattivarsi le simpatie del pubblico.</desc>
     <category>Reality</category>
@@ -174381,7 +175615,7 @@
       <value>2.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260411213900 +0000" stop="20260412010900 +0000" channel="I84621">
+  <programme start="20260411213900 +0000" stop="20260412000900 +0000" channel="I84621">
     <title>Presunto innocente</title>
     <desc>Un procuratore è coinvolto in un'ossessiva relazione con la sua collaboratrice, la quale viene assassinata. La lotta per dimostrare la propria innocenza si trasforma in un vortice di bugie e passioni nascoste.</desc>
     <credits>
@@ -174467,7 +175701,7 @@
       <value>3.5/4</value>
     </star-rating>
   </programme>
-  <programme start="20260412010900 +0000" stop="20260412023100 +0000" channel="I84621">
+  <programme start="20260412000900 +0000" stop="20260412023100 +0000" channel="I84621">
     <title>Flight</title>
     <desc>Whip, pilota con gravi problemi di alcolismo, compie un difficile atterraggio di emergenza, divenendo un eroe. Le indagini sulle cause dell'incidente, tuttavia fanno sì che il suo segreto venga allo scoperto.</desc>
     <credits>
@@ -186938,7 +188172,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260411033400 +0000" stop="20260411035500 +0000" channel="I84622">
+  <programme start="20260411033400 +0000" stop="20260411051800 +0000" channel="I84622">
     <title>Visti dal cielo: Misteri di questo mondo</title>
     <sub-title>Le civiltà antiche</sub-title>
     <desc>Le piramidi nubiane rivelano l'ascesa del potere femminile nell'antica Kush. Inoltre, una sconvolgente immagine satellitare svela i segreti di un antico sito ancestrale, chiamato Puebloan, in Nuovo Messico.</desc>
@@ -186963,60 +188197,6 @@
     </rating>
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260411035500 +0000" stop="20260411051800 +0000" channel="I84622">
-    <title>Miami Vice</title>
-    <sub-title>Una storia di boxe</sub-title>
-    <desc>Anche Tubbs e Crockett diventano bersagli dopo che cominciano ad indagare sull'omicidio di un collega.</desc>
-    <credits>
-      <director>Richard Compton</director>
-      <actor role="Investigatore James Sonny Crockett">Don Johnson</actor>
-      <actor role="Investigatore Ricardo Tubbs">Philip Michael Thomas</actor>
-      <actor role="Tenente Castillo">Edward James Olmos</actor>
-      <actor role="Investigatrice Gina Navarro Calabrese">Saundra Santiago</actor>
-      <actor role="Investrigatrice Trudy Joplin">Olivia Brown</actor>
-      <actor role="Investigatore Stan Switek">Michael Talbott</actor>
-      <writer>Dick Wolf</writer>
-      <writer>John Schulian</writer>
-      <producer>Michael Mann</producer>
-      <guest>Pepe Serna</guest>
-      <guest>Mark Breland</guest>
-      <guest>Chris Elliott</guest>
-      <guest>Robert Pastorelli</guest>
-      <guest>Joe Dallesandro</guest>
-      <guest>Antoni Corone</guest>
-      <guest>Joe Hess</guest>
-    </credits>
-    <category>Crime drama</category>
-    <category>Action</category>
-    <category>Series</category>
-    <category>series</category>
-    <length units="minutes">48</length>
-    <episode-num system="xmltv_ns">2.12.1/2</episode-num>
-    <episode-num system="dd_progid">EP018804540030</episode-num>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown start="19870116" />
-    <subtitles type="teletext" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
     </rating>
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
